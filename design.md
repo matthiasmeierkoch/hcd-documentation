@@ -2,6 +2,7 @@
 layout: page
 title: Design
 permalink: /Design/
+nav_order: 3
 ---
 
 # Design

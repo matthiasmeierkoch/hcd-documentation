@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /Research/
-nav_order: 1
+nav_order: 2
 ---
 
 # Human Centered Design
