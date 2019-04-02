@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
+nav_order: 1
+description: "Human Centered Design Dokumentation"
 ---
 # Human Centered Design
 
