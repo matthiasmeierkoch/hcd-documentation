@@ -6,6 +6,13 @@ permalink: /Research/Value-Proposition-Canvas/
 nav_order: 3
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+
 ## Value Proposition Canvas  
 Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festgehalten.
 

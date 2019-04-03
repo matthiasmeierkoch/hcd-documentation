@@ -6,6 +6,13 @@ permalink: /Research/Research-und-Interviews/
 nav_order: 2
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+
 ## Research und Interviews
 Im nächsten Schritt werden wir zwei Studenten Interviewen um die Benutzer und deren Ziele zu verstehen.
 
