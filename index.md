@@ -14,3 +14,18 @@ Das ist die Dokumentation des Modul Human Centered Design von den studierenden P
 Herzlichen Dank and die Dozierenden, Armin Egli und Fabian Scheiwiller. 
 
 <button class="btn js-toggle-dark-mode">night mode</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode')
+const cssFile = document.querySelector('[rel="stylesheet"]')
+const originalCssRef = cssFile.getAttribute('href')
+const darkModeCssRef = originalCssRef.replace('just-the-docs.css', 'dark-mode-preview.css')
+
+addEvent(toggleDarkMode, 'click', function(){
+  if (cssFile.getAttribute('href') === originalCssRef) {
+    cssFile.setAttribute('href', darkModeCssRef)
+  } else {
+    cssFile.setAttribute('href', originalCssRef)
+  }
+})
+</script>
