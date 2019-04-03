@@ -13,6 +13,7 @@ nav_order: 2
 {:toc}
 
 # Human Centered Design Part 1
+{: .no_toc }
 
 ## Nutzungskontext
 Im Modul «HCD» wird eine Lernplattform erarbeitet, welche sich an Studierende an einer Hochschule richten soll. Sie soll eine zentrale Schnittstelle zwischen Bildungsanbieter und lernender Person darstellen.
@@ -176,6 +177,7 @@ Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essen
 ### Value Proposition Canvas  
 Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festgehalten.
 ### Lars
+{: .no_toc }
 **Pains:**
 * Zeit zum lernen
 * vergisst lernen
@@ -196,6 +198,7 @@ Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festge
 
 
 ### Marius
+{: .no_toc }
 **Pains:**
 * Notizen erstellen
 * Organisation vom Material
@@ -212,6 +215,7 @@ Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festge
 * Von Hand Mindmaps/Zusammenfassungen erstellen
 
 ### Marc
+{: .no_toc }
 **Pains:**
 * Keine Zeit seine kostbare Freizeit zu opfern
 * Keine Lust sich darüber Gedanken zu machen
@@ -231,6 +235,7 @@ Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festge
 ---
 
 ### Matthias
+{: .no_toc }
 **Pains:**
 * Keine Zeit
 * Keine Motivation
@@ -257,6 +262,7 @@ Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festge
 ---
 
 ### Pascale
+{: .no_toc }
 **Pains:**
 * keine Motivation
 * ich werde abgelenkt
@@ -287,6 +293,7 @@ Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festge
 ---
 
 ### Nici
+{: .no_toc }
 **Pains:**
 * Unterlagen/Notizen wiederfinden
 * wenig Zeit möglichst effizient nutzen
@@ -331,6 +338,7 @@ Nun werden wir Benutzergruppen bilden, welche sich aus den Beobachtungen ergeben
 
 ---
 ### «Fiona Fleissig»
+{: .no_toc }
 
 **Pains:**
 * Zeit finden um zu Lernen
@@ -348,6 +356,7 @@ Nun werden wir Benutzergruppen bilden, welche sich aus den Beobachtungen ergeben
 
 ---
 ### «Hugo Hybrid»
+{: .no_toc }
 **Pains:**
 * Motivation zum Lernen fehlt manchmal
 * «Launisch» je nach Fach (Je nach Fach/Thema andere Arbeitsweise (mit/ohne Vorarbeit))
