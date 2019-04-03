@@ -12,3 +12,5 @@ description: "Human Centered Design Dokumentation"
 Das ist die Dokumentation des Modul Human Centered Design von den studierenden Pascale Anderegg, Nicole Watrinet, Marc Hatt und Matthias Koch. Es zeigt die Erarbeitung eines Produkts unter der Beachtung des Human Centered Design Prozess.
 
 Herzlichen Dank and die Dozierenden, Armin Egli und Fabian Scheiwiller. 
+
+<button class="btn js-toggle-dark-mode">night mode</button>
