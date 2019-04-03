@@ -1,5 +1,5 @@
 ---
-layout: deafult
+layout: defult
 title: Einstieg ins Projekt
 parent: Research
 permalink: /Research/Einstieg-ins-Projekt/
