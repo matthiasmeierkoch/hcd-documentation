@@ -1,5 +1,5 @@
 ---
-layout: defult
+layout: default
 title: Einstieg ins Projekt
 parent: Research
 permalink: /Research/Einstieg-ins-Projekt/
