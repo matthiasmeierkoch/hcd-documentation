@@ -2,7 +2,7 @@
 layout: default
 title: Nutzungskontext
 parent: Research
-permalink: /Research/Einstieg-ins-Projekt/
+permalink: /Research/Nutzungskontext/
 ---
 
 ## Nutzungskontext
