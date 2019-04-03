@@ -6,6 +6,7 @@ permalink: /Research/Nutzungskontext/
 nav_order: 1
 ---
 
+
 ## Nutzungskontext
 Im Modul «HCD» wird eine Lernplattform erarbeitet, welche sich an Studierende an einer Hochschule richten soll. Sie soll eine zentrale Schnittstelle zwischen Bildungsanbieter und lernender Person darstellen.
 

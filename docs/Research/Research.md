@@ -6,6 +6,9 @@ permalink: /Research/
 nav_order: 2
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 # Human Centered Design Part 1
 
 ## Nutzungskontext
