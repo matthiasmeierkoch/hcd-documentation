@@ -3,6 +3,7 @@ layout: default
 title: Value Proposition Canvas
 parent: Research
 permalink: /Research/Value-Proposition-Canvas/
+nav_order: 3
 ---
 
 ## Value Proposition Canvas  

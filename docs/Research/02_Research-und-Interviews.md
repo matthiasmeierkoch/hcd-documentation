@@ -3,6 +3,7 @@ layout: default
 title: Research und Interviews
 parent: Research
 permalink: /Research/Research-und-Interviews/
+nav_order: 2
 ---
 
 ## Research und Interviews

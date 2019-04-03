@@ -3,6 +3,7 @@ layout: default
 title: Lösungsgestaltung
 parent: Research
 permalink: /Research/Lösungsgestaltung/
+nav_order: 4
 ---
 
 ## Lösungsgestaltung
