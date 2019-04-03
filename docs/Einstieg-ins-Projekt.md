@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: deafult
 title: Einstieg ins Projekt
 parent: Research
 permalink: /Research/Einstieg-ins-Projekt/
-nav_order: 1
 ---
 
 # Human Centered Design
