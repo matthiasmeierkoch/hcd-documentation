@@ -7,9 +7,6 @@ title: Home
 nav_order: 1
 description: "Human Centered Design Dokumentation"
 ---
-<style>
-@import url('https://fonts.googleapis.com/css?family=Barlow:400,800');
-</style>
 
 # Human Centered Design
 
