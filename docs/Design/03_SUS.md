@@ -14,3 +14,7 @@ nav_order: 3
 
 
 nötig?
+
+Nächster Teil:
+
+[HiFi Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/HiFi-Design){: .btn }
