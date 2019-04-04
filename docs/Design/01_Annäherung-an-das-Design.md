@@ -6,6 +6,11 @@ permalink: /Design/Annäherung-an-das-Design
 nav_order: 1
 ---
 
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Annäherung an das Design
 

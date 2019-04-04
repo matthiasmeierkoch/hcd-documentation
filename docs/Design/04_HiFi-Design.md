@@ -6,6 +6,13 @@ permalink: /Design/HiFi-Design
 nav_order: 4
 ---
 
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+
 ## HiFi Prototyp
 – zuerst LoFi Prototyp fertigstellen und parallel die wichtigsten Screens designen
 – HiFI Prototyp eignet sich gut um in Meeting mit Kunden über Visual Design zu sprechen. Dies sollte aber im LoFi Prototyp vermieden werden.
