@@ -105,4 +105,5 @@ Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essen
 * Je besser die Vorbereitung desto mehr kannst du dich auf das Lernen konzentieren
 
 Nächster Teil:
+
 [Value Proposition Canvas](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Value-Proposition-Canvas/){: .btn }
