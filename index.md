@@ -7,6 +7,10 @@ title: Home
 nav_order: 1
 description: "Human Centered Design Dokumentation"
 ---
+<style>
+@import url('https://fonts.googleapis.com/css?family=Barlow:400,800');
+</style>
+
 # Human Centered Design
 
 Das ist die Dokumentation des Modul Human Centered Design von den studierenden Pascale Anderegg, Nicole Watrinet, Marc Hatt und Matthias Koch. Es zeigt die Erarbeitung eines Produkts unter der Beachtung des Human Centered Design Prozess.

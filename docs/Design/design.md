@@ -7,5 +7,5 @@ nav_order: 3
 ---
 
 # Human Centered Design
-Intro in den Design teil des Modul ect...
+Intro in den Design Teil des Modul ect...
 
