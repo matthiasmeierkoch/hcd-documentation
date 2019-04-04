@@ -77,3 +77,6 @@ In kurzer Zeit kann man mit verschiedensten Techniken, wie z.B. das Brain Dumpin
 Die Begriffe «UX» und «Usability» bedeuten nicht dasselbe. Die «User Experience» beginnt vor, während und nach der Nutzung eines Produktes. «Usability» ist das Erlebnis der tatsächlichen Benutzung.
 
 Es wurden uns diverse Methoden um den Nutzungskontext zu verstehen wie Beobachtungen, Contextual Inquiry, Interviews, Workshops etc. kurz erläutert und gaben einen Überblick, was alles möglich ist.
+
+Nächster Teil:
+[Research und Interviews](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Research-und-Interviews/){: .btn }
