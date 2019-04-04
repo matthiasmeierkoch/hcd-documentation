@@ -69,12 +69,14 @@ https://www.figma.com/file/GN1f3SvmzTkia4DAZaBix0/Protoyp-HIFI-%C2%ABfirst-steps
 ### Dritter Test
 
 #### Angaben zur Testperson 3
+{: .no_toc }
 Beruf: Informatiker
 Alter: 23
 Geschlecht: Männlich
 Benutzung/Erfahrung von Apps/Portalen zum Thema Lernen: Ja, mit Quizlet
 
 #### Fragen
+{: .no_toc }
 **Wir haben zwei Usecases.**
 1. **Per Push Notification:**
 * Klicke dich zur ersten Frage.
@@ -111,6 +113,7 @@ Beobachtung:
 * Denkt er würde direkt in Frage hinein springen
 
 #### Fragebogen - Post Session Interview
+{: .no_toc }
 **Antworten**
 Was war positiv?
 * Sehr clean und aufgeräumt
@@ -136,6 +139,7 @@ Was haben Sie für einen Gesamteindruck dieser App?
 
 
 #### SUS Fragebogen Severin
+{: .no_toc }
 Bei ungraden Fragen jeweils Antwort - 1.
 Bei graden Fragen jeweils 5(max Punkte)-Antwort.
 1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 > 3
@@ -164,6 +168,7 @@ Bei graden Fragen jeweils 5(max Punkte)-Antwort.
 Punktzahl Total: 35 * 2,5 = 87,5 
 
 #### Emotional Cards Sevi
+{: .no_toc }
 Konsistent: Farkonzept ein Guss, abgerundet, Notifications könnte noch optimiert werden
 Time-saving: man kommt sehr schnell auf Fragen direkt auf Notification
 Attraktiv: einfaches Design sehr verständlich
