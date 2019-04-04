@@ -262,4 +262,5 @@ Alles muss ratz fatz gehen. Ein wenig mehr Bedenkzeit wäre zum Teil schon nöti
 Bei den Interviews ist leider untergangen diese zu filmen. Dafür haben wir sie ausführlich schriftlich festgehalten.
 
 Nächster Teil:
+
 [Lösungsgestaltung](https://matthiasmeierkoch.github.io/hcd-documentation/Research/L%C3%B6sungsgestaltung/){: .btn }
