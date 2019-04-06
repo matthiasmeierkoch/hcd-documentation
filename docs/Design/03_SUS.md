@@ -1,8 +1,6 @@
 ---
 layout: page
 title: SUS
-parent: Design
-permalink: /Design/SUS
 nav_exclude: true
 ---
 
