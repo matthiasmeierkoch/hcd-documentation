@@ -33,7 +33,7 @@ Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essen
 ## Interview 1: Lars 
 
 ### 1. Zeichne auf den Zeitstrahl wann du lernst
-images/zeitstrahl_lars.svg
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/zeitstrahl_lars.svg)
 
 * Er lernt gegen Ende der Abgabe, intensives Lernen
 * Vorher macht er sich Notizen, dass er alles hat zum Lernen, das nennt er kein «richtiges Lernen», es ist eine Vorarbeit, er hat es im Hinterkopf, Vorbereitung zum Lernen, er sammelt, Zusammenfassung machen
@@ -66,7 +66,7 @@ images/zeitstrahl_lars.svg
 ## Interview 2: Marius 
 
 ### 1. Zeichne auf den Zeitstrahl wann du lernst
-images/zeitstrahl_marius.svg
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/zeitstrahl_marius.svg)
 
 * effektiv lernt er erst in den letzten Tagen vor der Prüfung/Abgabe
 * vorher lernt er nicht, er denkt das er noch nicht alle Infos hat, da das Modul noch nicht fertig wäre
