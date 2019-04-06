@@ -141,10 +141,18 @@ Bei graden Fragen jeweils 5(max Punkte)-Antwort.
 Dieser Test wurde mit einem Low-Fi Prototyp durchgeführt. Das visuelle Erscheinungbild ist hier noch nicht relevant.
 
 ### Angaben zur Testperson 2
-**Beruf:** UX/UI Designer
-**Alter:** 33
-**Geschlecht:** Weiblich
-**Benutzung/Erfahrung von Apps/Portalen zum Thema Lernen:** Nein
+<dl>
+  <dt>Name</dt>
+  <dd>Stefanie</dd>
+  <dt>Beruf</dt>
+  <dd>UX/UI Designer</dd>
+  <dt>Alter</dt>
+  <dd>33</dd>
+  <dt>Geschlecht</dt>
+  <dd>Weiblich</dd>
+  <dt>Erfahrung</dt>
+  <dd>Keine</dd>
+</dl>
 
 
 ### Fragen
