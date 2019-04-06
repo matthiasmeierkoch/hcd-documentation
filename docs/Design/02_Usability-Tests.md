@@ -273,4 +273,4 @@ Onboarding mit den wichtigsten 4 Features
 
 Nächster Teil:
 
-[SUS](https://matthiasmeierkoch.github.io/hcd-documentation/Design/SUS){: .btn }
+[SUS](https://matthiasmeierkoch.github.io/hcd-documentation/Design/SUS){: .btn .btn-blue }

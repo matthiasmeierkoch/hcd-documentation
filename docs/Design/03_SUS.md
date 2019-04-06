@@ -17,4 +17,4 @@ nötig?
 
 Nächster Teil:
 
-[HiFi Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/HiFi-Design){: .btn }
+[HiFi Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/HiFi-Design){: .btn .btn-blue }

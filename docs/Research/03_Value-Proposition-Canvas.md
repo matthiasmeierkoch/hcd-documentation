@@ -264,4 +264,4 @@ Bei den Interviews ist leider untergangen diese zu filmen. Dafür haben wir sie 
 
 Nächster Teil:
 
-[Lösungsgestaltung](https://matthiasmeierkoch.github.io/hcd-documentation/Research/L%C3%B6sungsgestaltung/){: .btn }
+[Lösungsgestaltung](https://matthiasmeierkoch.github.io/hcd-documentation/Research/L%C3%B6sungsgestaltung/){: .btn .btn-blue }

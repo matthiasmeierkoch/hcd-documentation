@@ -107,4 +107,4 @@ Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essen
 
 Nächster Teil:
 
-[Value Proposition Canvas](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Value-Proposition-Canvas/){: .btn }
+[Value Proposition Canvas](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Value-Proposition-Canvas/){: .btn .btn-blue }

@@ -81,4 +81,4 @@ Es wurden uns diverse Methoden um den Nutzungskontext zu verstehen wie Beobachtu
 
 Nächster Teil:
 
-[Research und Interviews](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Research-und-Interviews/){: .btn }
+[Research und Interviews](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Research-und-Interviews/){: .btn .btn-blue }

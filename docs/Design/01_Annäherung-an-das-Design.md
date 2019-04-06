@@ -98,4 +98,4 @@ Mithilfe eines einfachen Fragebogens, der aus insgesamt zehn Fragen auf Basis vo
 
 Nächster Teil:
 
-[Usability Tests](https://matthiasmeierkoch.github.io/hcd-documentation/Design/Usability-Tests){: .btn }
+[Usability Tests](https://matthiasmeierkoch.github.io/hcd-documentation/Design/Usability-Tests){: .btn .btn-blue }

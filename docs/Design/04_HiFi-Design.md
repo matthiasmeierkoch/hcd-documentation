@@ -205,4 +205,4 @@ https://docs.google.com/presentation/d/1v9pAsEaABr0mIPf5lBNuAdv2XF_QURejRmAxMGsr
 
 Zum Endprodukt:
 
-[Bocado](https://matthiasmeierkoch.github.io/hcd-documentation/Endprodukt/){: .btn }
+[Bocado](https://matthiasmeierkoch.github.io/hcd-documentation/Endprodukt/){: .btn .btn-blue }

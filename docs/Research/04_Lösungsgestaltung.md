@@ -182,4 +182,4 @@ Dies kann man sich in Form eines Elevator-Pitches vorstellen, wo man sein Gegen√
 
 N√§chster Teil:
 
-[Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/){: .btn }
+[Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/){: .btn .btn-blue }
