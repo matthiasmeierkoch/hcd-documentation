@@ -97,4 +97,4 @@ images/zeitstrahl_marius.svg
 * Je besser die Vorbereitung desto mehr kannst du dich auf das Lernen konzentieren
 
 
-[Value Proposition Canvas](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Value-Proposition-Canvas/){: .btn .btn-blue }
+[Zu den Value Proposition Canvas](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Value-Proposition-Canvas/){: .btn .btn-blue }
