@@ -15,19 +15,6 @@ nav_order: 1
 
 
 ## Nutzungskontext
-Im Modul «HCD» wird eine Lernplattform erarbeitet, welche sich an Studierende an einer Hochschule richten soll. Sie soll eine zentrale Schnittstelle zwischen Bildungsanbieter und lernender Person darstellen.
-
-Sie kann folgende Themen beinhalten:
-* Lerninhalte bereitstellen
-* Lernvorgänge organisieren
-* Kommunikation Lehrenden / Lernenden verbessern
-* Lernen soll vereinfacht werden
-* Informationsfluss regeln
-* Verwaltungsaufgaben übernehmen
-
-### Das wird gemacht
-Diese Website dokumentiert das Modul Human Centered Design. Wir beschäftigen uns mit dem Prozess von der persönlichen Auseinandersetzung mit dem Thema, Personas und Szenarien erstellen bis zu Konzeption und Gestaltung eines Prototypen. Unsere Notizen zu den gelernten und angewendeten Methoden werden ebenfalls dokumentiert. 
-
 ### Mindmap Lernplattform
 Um uns in der Gruppe intensiver mit dem Thema «Lernen» und der Aufgabe zu beschäftigen, haben wir uns für die Methode «Mindmap» entschieden und unsere Perspektive dazu auf einem Plakat festgehalten.
 
@@ -70,7 +57,7 @@ Der Referent erstellt einen Pool von Fragen zum Schultag. Auf dem Heimweg ersche
 Mit der Innoventa einmal den ganzen Designprozess in nur 90 Minuten durchzuspielen. Es war sehr aufschlussreich und hat in nur kurzer Zeit bereits originelle Lösungen hervorgebracht.
 
 #### Was hat uns keinen Spass gemacht?
-Der Abschnitt vom Mentalen Modell war etwas trocken (sehr viel Theorie).
+Der Abschnitt vom Mentalen Modell war etwas theorielastig. Zudem waren die Auflockerungsübungen befremdlich.
 
 #### Was haben wir gelernt?
 In kurzer Zeit kann man mit verschiedensten Techniken, wie z.B. das Brain Dumping, schnell auf eine brauchbare Lösung kommen.
@@ -79,6 +66,5 @@ Die Begriffe «UX» und «Usability» bedeuten nicht dasselbe. Die «User Experi
 
 Es wurden uns diverse Methoden um den Nutzungskontext zu verstehen wie Beobachtungen, Contextual Inquiry, Interviews, Workshops etc. kurz erläutert und gaben einen Überblick, was alles möglich ist.
 
-Nächster Teil:
 
-[Research und Interviews](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Research-und-Interviews/){: .btn .btn-blue }
+[Zum nächsten Teil](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Research-und-Interviews/){: .btn .btn-blue }
