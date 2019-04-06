@@ -17,40 +17,35 @@ nav_order: 3
 # Value Proposition Canvas  
 Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festgehalten.
 
-![](https://i.imgur.com/zXWTGgi.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/lars_vpc.png)
 
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marius_vpc.png)
 
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marc_vpc.png)
 
-![](https://i.imgur.com/bEYJ7zx.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/matthias_vpc.png)
 
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/pascale_vpc.png)
 
-
-![](https://i.imgur.com/rBs1cjO.png)
-
-
-![](https://i.imgur.com/sxi3Hqh.png)
-
-![](https://i.imgur.com/La4fyY9.png)
-
-![](https://i.imgur.com/VTvyXvH.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/nicole_vpc.png)
 
 
 ## Cluster bilden
 Nun werden wir Benutzergruppen bilden, welche sich aus den Beobachtungen ergeben haben. Auch hier werden wir die Pains, Gains und Jobs in der VPC festhalten.
 
-![](https://i.imgur.com/Whp4SrT.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/peterpressure_vpc.png)
 
 
-![](https://i.imgur.com/oI214G7.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/fionafleissih_vpc.png)
 
-![](https://i.imgur.com/qsyNkNz.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/hugohybrid_vpc.png)
 
 
 
 ## Unsere Persona: Hugo Hybrid
 Wir haben uns dazu entschieden, die Benutzergruppe «Hugo Hybrid» zu priorisieren, da er die für unsere Challenge die wichtigsten Painpoints trifft.
 
-![](https://i.imgur.com/Qljai5D.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/hugo_hybrid_kurzbio.png)
 
 ## IST-Szenario
 Aufgrund der Persona «Hugo Hybrid wurde das IST-Szenario erstellt, das den aktuellen Nutzungskontext beschreibt. 
@@ -67,7 +62,7 @@ Fächer wie Mathematik zum Beispiel empfindet er als frustrierend. Irgendwie fin
 ## User Journey Map
 Mit der User Journey Map wird das Nutzererlebnis, das ein User **ohne** dem Produkt hat, visualisiert. Sie zeigt die Nutzung über eine bestimmte Zeit. Beschrieben werden auch Gefühle des Benutzers. Sie wird eingesetzt um die Projekt-Vision für alle fassbar zu machen.
 
-![](https://i.imgur.com/dNIEqHP.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/userjourney.png)
 
 
 
