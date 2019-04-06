@@ -5,6 +5,7 @@
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
+@import url("https://fonts.googleapis.com/css?family=Barlow:400,700");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -371,7 +372,7 @@ html {
       font-size: 16px !important; } }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+  font-family: "Barlow", sans-serif;
   font-size: inherit;
   line-height: 1.4;
   color: #e6e1e8;
@@ -406,7 +407,7 @@ h5,
 h6 {
   margin-top: 1.2em;
   margin-bottom: 0.8em;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.15;
   color: #f5f6fa; }
 
