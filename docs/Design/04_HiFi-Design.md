@@ -67,10 +67,18 @@ https://www.figma.com/file/GN1f3SvmzTkia4DAZaBix0/Protoyp-HIFI-%C2%ABfirst-steps
 ## Dritter Test
 
 ### Angaben zur Testperson 3
-**Beruf:** Informatiker
-**Alter:** 23
-**Geschlecht:** Männlich
-**Benutzung/Erfahrung von Apps/Portalen zum Thema Lernen:** Ja, mit Quizlet
+<dl>
+  <dt>Name</dt>
+  <dd>Severin</dd>
+  <dt>Beruf</dt>
+  <dd>Informatiker</dd>
+  <dt>Alter</dt>
+  <dd>23</dd>
+  <dt>Geschlecht</dt>
+  <dd>Männlich</dd>
+  <dt>Erfahrung</dt>
+  <dd>Ja Quizlet</dd>
+</dl>
 
 ### Fragen
 Wir haben zwei Usecases.
