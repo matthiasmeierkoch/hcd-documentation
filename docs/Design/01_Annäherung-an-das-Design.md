@@ -18,7 +18,7 @@ Um uns nach unseren Pitches etwas aufzulockern haben wir uns mit Gestaltungsprin
 ## Simplicity
 Wir haben uns mit den 10 Gesetzen der Einfachheit von John Maeda auseinandergesetzt und auf einem Poster alle 10 Gesetze zusammengefasst und dies unseren Mitstudenten präsentiert. Wir haben dabei eigene Symbole verwendet, die wir als verständlich empfunden haben.
 
-![](https://i.imgur.com/f3GPNCl.jpg =100x20)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/simplicity.jpg =50x10)
 
 
 1. **Reduktion.** Die einfachste Weise, Einfachheit zu erzielen, ist durch wohlüberlegte Reduktion.
