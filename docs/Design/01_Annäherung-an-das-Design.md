@@ -96,6 +96,6 @@ Die Dauer der Befragung beträgt maximal 30 Minuten.
 ### Der SUS-Fragebogen
 Mithilfe eines einfachen Fragebogens, der aus insgesamt zehn Fragen auf Basis von Likert-Skalen mit je fünf Optionen besteht, kann ermittelt werden, wie nutzerfreundlich eine Software wahrgenommen wird. Der SUS-Fragebogen enthält fünf positiv und fünf negativ formulierte Aussagen zur Usability des zu bewertenden Systems. Brooke schlägt folgende zehn Aussagen vor, die an individuelle Bedingungen angepasst werden können und sollten:
 
-Nächster Teil:
 
-[Usability Tests](https://matthiasmeierkoch.github.io/hcd-documentation/Design/Usability-Tests){: .btn .btn-blue }
+
+[zu den Usability-Tests](https://matthiasmeierkoch.github.io/hcd-documentation/Design/Usability-Tests){: .btn .btn-blue }
