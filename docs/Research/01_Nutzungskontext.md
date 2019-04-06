@@ -14,15 +14,15 @@ nav_order: 1
 
 
 
-## Nutzungskontext
-### Mindmap Lernplattform
+# Nutzungskontext
+## Mindmap Lernplattform
 Um uns in der Gruppe intensiver mit dem Thema «Lernen» und der Aufgabe zu beschäftigen, haben wir uns für die Methode «Mindmap» entschieden und unsere Perspektive dazu auf einem Plakat festgehalten.
 
 ![](https://i.imgur.com/2v2Zy22.jpg)
 Farblich wurden Begriffe nach Must, Should, Could und Won't unterteilt.
 
 
-### Methoden 
+## Methoden 
 Hier werden einige Methoden beschrieben, die helfen den Nutzungskontext zu verstehen.
 **Beobachten:** Usern beim bedienen zuschauen und danach die richtigen Fragen stellen
 **Tagebuchstudien:** Man macht Auskunftstudien über das Leben von Personen.  Meist wird dies über längere Zeit gemacht. Diese Methode ist eher selten, da sie sehr zeitintensiv ist.
@@ -35,31 +35,31 @@ Hier werden einige Methoden beschrieben, die helfen den Nutzungskontext zu verst
 **Szenarien:** Du versetzt dich in die Rolle des Users
 
 
-### Unsere Challenge
+## Unsere Challenge
 > Wie können wir Studenten helfen, ohne grosse Einstiegshürde den vergangenen Tag zu reflektieren?
-> 
+ 
 
-### Projektziel
+## Projektziel
 Studenten fällt es leichter, den Einstieg ins Lernen zu finden. Somit lernen sie stetiger in kleinen Schritten. Sie sind in der Prüfungsphase besser auf den Stoff vorbereitet und müssen danach weniger aufs Mal lernen. 
 
-### 1. Lösungsansatz
+## 1. Lösungsansatz
 Der Referent erstellt einen Pool von Fragen zum Schultag. Auf dem Heimweg erscheint eine Push-Benachrichtigung auf dem Smartphone. Daraufhin muss man 5 Fragen beantworten und reflektiert damit den behandelten Schulstoff.
 
 
 
 ---
-### Superlearner-Facts Tag 1
+## Superlearner-Facts Tag 1
 22. Februar
 
 
 
-#### Was hat uns Spass gemacht?
+### Was hat uns Spass gemacht?
 Mit der Innoventa einmal den ganzen Designprozess in nur 90 Minuten durchzuspielen. Es war sehr aufschlussreich und hat in nur kurzer Zeit bereits originelle Lösungen hervorgebracht.
 
-#### Was hat uns keinen Spass gemacht?
+### Was hat uns keinen Spass gemacht?
 Der Abschnitt vom Mentalen Modell war etwas theorielastig. Zudem waren die Auflockerungsübungen befremdlich.
 
-#### Was haben wir gelernt?
+### Was haben wir gelernt?
 In kurzer Zeit kann man mit verschiedensten Techniken, wie z.B. das Brain Dumping, schnell auf eine brauchbare Lösung kommen.
 
 Die Begriffe «UX» und «Usability» bedeuten nicht dasselbe. Die «User Experience» beginnt vor, während und nach der Nutzung eines Produktes. «Usability» ist das Erlebnis der tatsächlichen Benutzung.
