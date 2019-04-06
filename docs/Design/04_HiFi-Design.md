@@ -163,3 +163,20 @@ Wir haben zwei Usecases.
 **Attraktiv:** einfaches Design sehr verständlich
 * Achievements müsste man nochmals anschauen
 * Gamification hat ihn nicht interessiert, Level waren nicht klar
+
+# SUS Summary
+
+Unser UI hat einen hohen Score von 87,5 Punkten erreicht.
+
+## Grösstes Usability-Problem:
+Zusatzinhalte der App, wie Übersicht und Achievements waren nicht intuitiv genug.
+
+## Drei grösste Probleme und mögliche Lösungen:
+* Die Level wurden nicht klar erkannt und der Vergleich mit Mitschülern war schwierig.
+*Lösung --> Level rauswerfen, mit klar definierten Achievements ersetzen*
+* Die Gamification-Aspekte wurden nicht als interessant empfunden weil alle Achievements schon ersichtlich waren. Das Icon war sichtbar, war aber nur ausgegraut
+*Lösung --> Ausgegraute, inaktive Achievements mit Vorhängeschlössern ersetzen. Wie man sie freischaltet kann durch antappen erfahren werden*
+* Wenn man sich für ein Modul nicht interessiert kann man es nicht löschen
+*Lösung --> Lösch-Button in Modulübersicht hinzufügen*
+
+[Zum Endprodukt](https://matthiasmeierkoch.github.io/hcd-documentation/Design/endprodukt){: .btn .btn-blue }
