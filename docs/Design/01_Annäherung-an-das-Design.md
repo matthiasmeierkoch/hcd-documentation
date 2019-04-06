@@ -30,9 +30,9 @@ Wir haben uns mit den 10 Gesetzen der Einfachheit von John Maeda auseinandergese
 7. **Emotionen.** Mehr Emotionen sind besser als weniger Emotionen.
 8. **Vertrauen.** Wir vertrauen der Einfachheit.
 9. **Fehlschläge.** Manche Dinge können nicht einfach gemacht werden.
-10. **Das Eine.** Einfachheit entsteht durch Fortlassen des Offensichtlichen und dem Hinzufügen von Wichtigem und Bedeutungshaftem. Definiert in 3 Schlüsselwörtern: 
-**Entfernt (away):** Mehr sieht nach weniger aus, wenn dies weit entfernt wird. Am Beispiel Google wird hier der Paradigmenwechsel hin zur Implementierung von Software als Service angeführt.
-**Offen (open):** Offenheit vereinfacht Komplexität. Dieses Prinzip verdeutlicht Maeda am Beispiel Linux (Open Source) und andererseits in offenen Schnittstellen (beispielsweise Amazon-API).
+10. **Das Eine.** Einfachheit entsteht durch Fortlassen des Offensichtlichen und dem Hinzufügen von Wichtigem und Bedeutungshaftem. Definiert in 3 Schlüsselwörtern:</br>
+**Entfernt (away):** Mehr sieht nach weniger aus, wenn dies weit entfernt wird. Am Beispiel Google wird hier der Paradigmenwechsel hin zur Implementierung von Software als Service angeführt.</br>
+**Offen (open):** Offenheit vereinfacht Komplexität. Dieses Prinzip verdeutlicht Maeda am Beispiel Linux (Open Source) und andererseits in offenen Schnittstellen (beispielsweise Amazon-API).</br>
 **Energie (power)**: Verwende weniger, erreiche mehr.
 
 Quelle: 
