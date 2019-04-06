@@ -3,7 +3,7 @@ layout: page
 title: HiFi Design
 parent: Design
 permalink: /Design/HiFi-Design
-nav_order: 4
+nav_order: 3
 ---
 
 ## Inhaltsverzeichnis
