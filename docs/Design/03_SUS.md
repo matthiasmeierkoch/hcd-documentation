@@ -3,8 +3,9 @@ layout: page
 title: SUS
 parent: Design
 permalink: /Design/SUS
-nav_order: 3
+nav_exclude: true
 ---
+
 
 ## Inhaltsverzeichnis
 {: .no_toc .text-delta }
