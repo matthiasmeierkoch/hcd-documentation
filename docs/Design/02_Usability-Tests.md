@@ -18,10 +18,18 @@ nav_order: 2
 ## Erster Test
 
 ### Angaben zur Testperson 1
-**Beruf:** UX/UI Designer
-**Alter:** 25
-**Geschlecht:** männlich
-**Benutzung/Erfahrung von Apps/Portalen zum Thema Lernen:** nein hat er noch nie benutzt
+<dl>
+  <dt>Name</dt>
+  <dd>Nils</dd>
+  <dt>Beruf</dt>
+  <dd>UX/UI Designer</dd>
+  <dt>Alter</dt>
+  <dd>25</dd>
+  <dt>Geschlecht</dt>
+  <dd>Männlich</dd>
+  <dt>Erfahrung</dt>
+  <dd>Noch nie</dd>
+</dl>
 
 ### Aufgabe 1
 Lese die Push Notification und klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.
