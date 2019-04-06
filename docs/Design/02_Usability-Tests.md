@@ -48,7 +48,6 @@ Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine St
 Er kommt auf die Übersicht und versteht nicht, dass es hier kein Fragescreen ist, bzw. er mein, dass es auch eine Aufgabe ist, die man lösen muss, da die Seite ähnlich aufgebaut ist. Die 3 Buttons verwirren. Diese könnten auch Antworten sein. Er klickt auf repetieren.
 
 ### Aufgabe 2
-![](https://i.imgur.com/YtrPUOR.jpg)
 * Gehe auf die Übersicht wo die Module aufgelistet sind. Finde dein aktuelles Level.
 
 ### Beobachtungen
