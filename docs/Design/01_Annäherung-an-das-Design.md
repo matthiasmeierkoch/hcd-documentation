@@ -18,7 +18,7 @@ Um uns nach unseren Pitches etwas aufzulockern haben wir uns mit Gestaltungsprin
 ## Simplicity
 Wir haben uns mit den 10 Gesetzen der Einfachheit von John Maeda auseinandergesetzt und auf einem Poster alle 10 Gesetze zusammengefasst und dies unseren Mitstudenten präsentiert. Wir haben dabei eigene Symbole verwendet, die wir als verständlich empfunden haben.
 
-![](https://i.imgur.com/f3GPNCl.jpg)
+![](https://i.imgur.com/f3GPNCl.jpg =250x)
 
 
 1. **Reduktion.** Die einfachste Weise, Einfachheit zu erzielen, ist durch wohlüberlegte Reduktion.
@@ -30,9 +30,9 @@ Wir haben uns mit den 10 Gesetzen der Einfachheit von John Maeda auseinandergese
 7. **Emotionen.** Mehr Emotionen sind besser als weniger Emotionen.
 8. **Vertrauen.** Wir vertrauen der Einfachheit.
 9. **Fehlschläge.** Manche Dinge können nicht einfach gemacht werden.
-10. **Das Eine.** Einfachheit entsteht durch Fortlassen des Offensichtlichen und dem Hinzufügen von Wichtigem und Bedeutungshaftem. Definiert in 3 Schlüsselwörtern:</br>
-**Entfernt (away):** Mehr sieht nach weniger aus, wenn dies weit entfernt wird. Am Beispiel Google wird hier der Paradigmenwechsel hin zur Implementierung von Software als Service angeführt.</br>
-**Offen (open):** Offenheit vereinfacht Komplexität. Dieses Prinzip verdeutlicht Maeda am Beispiel Linux (Open Source) und andererseits in offenen Schnittstellen (beispielsweise Amazon-API).</br>
+10. **Das Eine.** Einfachheit entsteht durch Fortlassen des Offensichtlichen und dem Hinzufügen von Wichtigem und Bedeutungshaftem. Definiert in 3 Schlüsselwörtern:
+**Entfernt (away):** Mehr sieht nach weniger aus, wenn dies weit entfernt wird. Am Beispiel Google wird hier der Paradigmenwechsel hin zur Implementierung von Software als Service angeführt.
+**Offen (open):** Offenheit vereinfacht Komplexität. Dieses Prinzip verdeutlicht Maeda am Beispiel Linux (Open Source) und andererseits in offenen Schnittstellen (beispielsweise Amazon-API).
 **Energie (power)**: Verwende weniger, erreiche mehr.
 
 Quelle: 
