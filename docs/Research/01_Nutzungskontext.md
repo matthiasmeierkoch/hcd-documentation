@@ -18,7 +18,7 @@ nav_order: 1
 ## Mindmap Lernplattform
 Um uns in der Gruppe intensiver mit dem Thema «Lernen» und der Aufgabe zu beschäftigen, haben wir uns für die Methode «Mindmap» entschieden und unsere Perspektive dazu auf einem Plakat festgehalten.
 
-![](https://i.imgur.com/2v2Zy22.jpg)
+![](images/mindmap.jpg)
 Farblich wurden Begriffe nach Must, Should, Could und Won't unterteilt.
 
 
@@ -67,4 +67,4 @@ Die Begriffe «UX» und «Usability» bedeuten nicht dasselbe. Die «User Experi
 Es wurden uns diverse Methoden um den Nutzungskontext zu verstehen wie Beobachtungen, Contextual Inquiry, Interviews, Workshops etc. kurz erläutert und gaben einen Überblick, was alles möglich ist.
 
 
-[Zum nächsten Teil](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Research-und-Interviews/){: .btn .btn-blue }
+[Zu den Interviews](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Research-und-Interviews/){: .btn .btn-blue }
