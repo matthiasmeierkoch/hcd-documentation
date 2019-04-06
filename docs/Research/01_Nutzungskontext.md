@@ -18,7 +18,8 @@ nav_order: 1
 ## Mindmap Lernplattform
 Um uns in der Gruppe intensiver mit dem Thema «Lernen» und der Aufgabe zu beschäftigen, haben wir uns für die Methode «Mindmap» entschieden und unsere Perspektive dazu auf einem Plakat festgehalten.
 
-![](images/mindmap.jpg)
+https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/mindmap.jpg?raw=true
+
 Farblich wurden Begriffe nach Must, Should, Could und Won't unterteilt.
 
 
