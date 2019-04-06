@@ -269,4 +269,4 @@ Mitteilungen zusammengefasst, Feedback bei Fragen vereinfacht, Modulübersicht R
 Onboarding mit den wichtigsten 4 Features
 ![](https://i.imgur.com/m4s6MQv.png)
 
-[Zum HiFi-Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/SUS){: .btn .btn-blue }
+[Zum HiFi-Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/hifi-design){: .btn .btn-blue }
