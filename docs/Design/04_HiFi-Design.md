@@ -176,7 +176,8 @@ Wir haben zwei Usecases.
 ### Zusätzliches Feedback
 * Achievements müsste man nochmals anschauen
 * Gamification hat ihn nicht interessiert, Level waren nicht klar
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_sevi.png)
+
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_sevi.png?raw=true)
 
 # SUS Summary
 
