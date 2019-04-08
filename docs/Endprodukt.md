@@ -13,7 +13,7 @@ nav_order: 4
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/Rotato-Snapshot7_low.png?raw=true)
 
 ## Onboarding
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/Rotato-Snapshot9_low.png?raw=true)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/onboarding_3.png?raw=true)
 
 
 ## Repetiermodus
