@@ -58,50 +58,40 @@ Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen L
 Er gelangt auf die Übersicht und nimmt an das Taco-Icon steht für sein Profilicon. Er weiss nicht wie klar das ist, aber er meint, dass es nunmal das einzig mögliche Icon ist. Auf der Levelseite hat er keine möglichkeit den Gesamtlevel anzusehen. Er meint es wäre spannender eine Gesamtüberasicht über das Modul anzuzeigen und nicht nur der Level. Die Punktezusammensetzung ist ihm nicht klar. «Wie erreiche ich die Punkte?», fragt er sich. Er weiss es nicht. Die Punkte setzen sich aus der Lernkurve zusammen. Resultieren aus den 5 Fragen ebenfalls 5 Punkte?
 
 ### Aufgabe 4
-von Übersichtsscreen:
-* Hast du offene Benachrichtigungen?
-* Schaue sie dir an.
-
-### Beobachtungen
-er nimmt an das es bei icon ist mit glocke, er liest push notifications durch
-elemente auf button nur 5 fragen die dort drauf sind
-auf repetieren erwartet er dass er alle fragen repetiert
-klick auf nachricht und man kommt gerade auf 5 fragen, es müssten 10 sein da alle repetiert werden müssen
-lernverlauf würde kein sinn machen
+Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/04_usabilityflow.png?raw=true)
 
+### Beobachtungen
+Er nimmt an, dass die Benachrichtigungen beim Icon mit der Glocke zu finden sind. Er liest die Benachrichtigungen durch. Er ist sich nicht sicher, ob jetzt nur die 5 Fragen auf der jeweiligen Benachrichtigung zu finden ist oder alle ungelösten. Auf dem Repetieren-Button erwartet er, dass er alle Fragen repetieren muss, also auch diese, die er bereits richtig beantwortet hat.
+
 ## Fragebogen – Post Session Interview
 ### Was war positiv?
-Fragestellung sehr intuitiv
+Die Fragestellung war sehr intuitiv.
 
 ### Was war negativ?
-Inkonsistenz: war nicht klar dass die Übersicht die Module zeigt, bei Fragen ist Feedback verwirrend
+Inkonsistenz: Es war nicht klar, dass die Übersicht die Module zeigt. Bei den Fragen ist das Feedback verwirrend.
 
 ### Was hat ihnen gefehlt?
-Gruppierung der Module/Angabe des Dozenten
+Eine Gruppierung der Module und eine Angabe des Dozenten. Es ist nicht klar wer die Fragen macht.
 
 ### Was haben Sie für einen Gesamteindruck dieser App?
-Aufgeräumt aber gleiches soll auch gleiches machen unterschiedliches soll sich auch anders verhalten
+Sie ist aufgeräumt aber Gleiches soll auch Gleiches machen, Unterschiedliches soll sich auch anders verhalten.
 
 ### Was hat gefallen?
-aufgeräumt, keine unnötigen Infos, auf das nötigste reduziert
+Sehr simple und ufgeräumt. Es gibt keine unnötigen Infos und der Usecase ist auf das nötigste reduziert.
 
 ### Verbesserungen?
-Modulstatistiken ist nicht klar, Level macht kein sinn zu verstecken. Nur im Modul Level oder gesamthaft?
+Modulstatistiken sind noch nicht klar. Es macht keinen Sinn den Level zu verstecken. 
 
-### Menu war klar?
-Icons nicht oben sondern nach unten > thumb
-swipen könnte man auch unten
-aufbau müsste man ändern wenn icons nach unten kommen, wir müssen mit mehr ebenen arbeiten
-alles mit swipen lösen, x machen zum wieder rauskommen, overlay
+### War das Menu klar?
+Die Icons sollen nicht oben stehen sondern nach unten, da man sie oben schlecht klicken kann und swipen könnte man auch unten. Der Aufbau müsste man ändern wenn icons nach unten kommen. Es sollte mit mehr Ebenen gearbeitet werden und nicht alles versuchen mit swipen zu lösen. 
 
 ### Gegenfragen:
-wer macht fragen parat: lehrer
-Login?? wie logt man sich ein. noch etwas gliedern: bei welchem dozent habe ich was, aufteilung cluster, archivieren? abgeschlossene Fächer
+Wer macht fragen bereit? Gibt es einen Login? Inhalt noch etwas mehr gliedern: Bei welchem Dozent habe ich was, wie sind die Module aufgeteilt? Braucht es ein Archiv, das die abgeschlossenen Fächer zeigt?
 
 ## Emo-Cards
-Man legt Karten aus und Testperson wählt drei Karten. Wichtig ist, was der Tester zu den Karten sagt.
+Man legt Karten mit diversen Adjektiven auf den Tisch aus und Testperson wählt drei Karten. Wichtig ist, was der Tester zu den Karten sagt.
 
 ### Gewählte Karten
 **Clean:** Nicht viel auf einem Screen, dies findet Nils gut.
