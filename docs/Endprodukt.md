@@ -28,8 +28,7 @@ nav_order: 4
 
 
 ## Repetiermodus
-
-## Statistiken
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/fragen_lernkurve.png?raw=true)
 
 ## Achievements
 
