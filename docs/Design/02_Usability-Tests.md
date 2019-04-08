@@ -98,9 +98,14 @@ alles mit swipen lösen, x machen zum wieder rauskommen, overlay
 wer macht fragen parat: lehrer
 Login?? wie logt man sich ein. noch etwas gliedern: bei welchem dozent habe ich was, aufteilung cluster, archivieren? abgeschlossene Fächer
 
-## Emo-Cards Test 1
+## Emo-Cards
+Man legt Karten aus und Testperson wählt drei Karten. Wichtig ist, was der Tester zu den Karten sagt.
+
+### Gewählte Karten
 **Clean:** Nicht viel auf einem Screen, dies findet Nils gut.
+
 **Inconsistent:** Closing Element (Feedback) holt neues Element vor, Startscreen hat verwirrt und sieht wie eine Frage aus für ihn.
+
 **Attraktiv:** Hat sehr Potenzial etwas geiles zu machen, mit Design visuell aber auch mit Inhalt da Gamefication.
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_nils.png)
 
@@ -232,7 +237,7 @@ Profilicon
 ### Was haben Sie für einen Gesamteindruck dieser App?
 Anfang der Fragen war klar, man könnte aber noch etwas mehr machen, sie hätte erwartet dass sie nochmals könnte repetieren
 
-## Emo-Cards Steffi
+## Emo-Cards
 Man legt Karten aus und Testperson wählt drei Karten. Wichtig ist, was der Tester zu den Karten sagt.
 
 ### Gewählte Karten
