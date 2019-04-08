@@ -4,6 +4,7 @@ title: Value Proposition Canvas
 parent: Research
 permalink: /Research/Value-Proposition-Canvas/
 nav_order: 3
+content-type: text/html
 ---
 
 ## Inhaltsverzeichnis
@@ -16,8 +17,6 @@ nav_order: 3
 
 # Value Proposition Canvas  
 Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festgehalten.
-
-<img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marius_vpc.png" content-type:"text/html" alt=""></img>
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/lars_vpc.png)
 ---
