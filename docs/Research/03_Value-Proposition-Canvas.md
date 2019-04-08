@@ -18,15 +18,15 @@ nav_order: 3
 Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festgehalten.
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/lars_vpc.png)
-
+---
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marius_vpc.png)
-
+---
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marc_vpc.png)
-
+---
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/matthias_vpc.png)
-
+---
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/pascale_vpc.png)
-
+---
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/nicole_vpc.png)
 
 
@@ -34,10 +34,9 @@ Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festge
 Nun werden wir Benutzergruppen bilden, welche sich aus den Beobachtungen ergeben haben. Auch hier werden wir die Pains, Gains und Jobs in der VPC festhalten.
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/peterpressure_vpc.png)
-
-
+---
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/fionafleissih_vpc.png)
-
+---
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/hugohybrid_vpc.png)
 
 
