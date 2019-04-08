@@ -25,8 +25,8 @@ Sie kann folgende Themen beinhalten:
 
 
 Herzlichen Dank an die Dozierenden, Armin Egli und Fabian Scheiwiller für die Unterstützung und wichtigen Inputs in der Entstehung unseres Produkts.
-
-<a rel=“license” href=“http://creativecommons.org/licenses/by-nc-sa/4.0/“><img alt=“Creative Commons Lizenzvertrag” style=“border-width:0" src=“https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png”/></a>
+  
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" style="border-width:0"  alt="Creative Commons Lizenzvertrag"></a>
   
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png) [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/4.0)
 
