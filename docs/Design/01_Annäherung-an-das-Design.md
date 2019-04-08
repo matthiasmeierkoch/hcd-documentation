@@ -12,7 +12,7 @@ nav_order: 1
 1. TOC
 {:toc}
 
-## Annäherung an das Design
+# Annäherung an das Design
 Um uns nach unseren Pitches etwas aufzulockern haben wir uns mit Gestaltungsprinzipien beschäftigt. Jede Gruppe erhielt ein Thema, lies sich ein und präsentierte dann dem Rest der Klasse und versuchten die Gesetze zusammen zu fassen. Unser Thema war Simplicity von [John Maeda](https://de.wikipedia.org/wiki/John_Maeda).
 
 ## Simplicity
