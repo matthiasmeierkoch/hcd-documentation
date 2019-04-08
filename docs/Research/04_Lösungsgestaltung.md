@@ -95,15 +95,21 @@ Feedback auf falsche Antworten soll motivierend sein
 ## Storyboard
 Unser Storyboard bildet das gesamte Nutzerszenario ab. Es zeigt wie es zur Nutzung  kam, den User während der Nutzung und was nach der Benutzung passiert.
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/storyboard.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/storyboard.jpg?raw=true)
 
 
 **Szene 1:** Während der Vorlesung hat Hugo besseres zu tun wie sich Notizen zu machen. Ihn interessiert das Fach Mathematik nicht. Er sucht nach neuen Golfkleidern und ist auf Instagram.
+
 **Szene 2:** Auf dem Heimweg ist er zu Müde und hat keine Lust sein Material hervorzukramen. Während dem Musikhören erhält er eine Pushbenachrichtigung der First steps App. 
+
 **Szene 3a:** Die Nachricht lautet: Hey Hugo! Reflektiere deine Mathematik Stunde und schlage Edi, indem du mehr Punkte erzielst.
+
 **Szene 3b:** Hugo löst die 5 Fragen.
+
 **Szene 4:** Einige Minuten später hat Hugo das Spiel gewonnen und es wird ein Pokal angezeigt. Hugo hat Edi geschlagen und bekommt 5 Punkte.
+
 **Szene 5:** Hugo lernt erfolgreich und hat seinen Lernplan im Griff. Er gönnt sich ein Cüpli.
+
 **Szene 6:** Hugo hat seine Prüfungen bestanden und gönnt sich einen Dom Perignon. 
 
 ## User Story Map
@@ -128,20 +134,20 @@ Diese werden mit Nomen und Verb gebildet:
 * Aufgaben lösen
 * Reward erhalten
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/atwork.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/atwork.jpg?raw=true)
 
 
 ### User Stories
 User Stories werden nach folgendem Muster erstellt: Als User will ich... sodass ich..
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/postits.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/postits.jpg?raw=true)
 
 
 
 ## Erste Scribbles
 Nun skizzieren wir den User Flow als UI-Sketches.
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/userflow.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/userflow.jpg?raw=true)
 
 
 
@@ -177,9 +183,9 @@ Für die Übergabe ins Design soll ein Pitch vorbereitet werden. Das Projekt sol
 
 Dies kann man sich in Form eines Elevator-Pitches vorstellen, wo man sein Gegenüber in sehr kurzer Zeit von seiner Projektidee überzeugen muss.
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/20190308_154136.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/20190308_154136.jpg?raw=true)
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/20190308_154143.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/20190308_154143.jpg?raw=true)
 
 
 https://docs.google.com/presentation/d/1Z27C7svCpQ46vJJlRZI5qNWAdbWY-xTMg3-I1RbKSMY/edit?usp=sharing
