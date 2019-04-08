@@ -143,25 +143,25 @@ Wir haben zwei Usecases.
 
 
 ### SUS Fragebogen Severin
-1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 > 3
+1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 -> 3 Punkte
 
-2. Ich empfinde das System als unnötig komplex. 1 > 4
+2. Ich empfinde das System als unnötig komplex. 1 von 5 -> 4 Punkte
 
-3. Ich empfinde das System als einfach zu nutzen. 4 > 3
+3. Ich empfinde das System als einfach zu nutzen. 4 von 5 -> 3 Punkte
 
-4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 1 > 4
+4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 1 von 5 -> 4 Punkte
 
-5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 5 > 4
+5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 5 von 5 -> 4 Punkte
 
-6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 2 > 3
+6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 2 von 5 -> 3 Punkte
 
-7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 > 4
+7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 -> 4 Punkte
 
-8. Ich empfinde die Bedienung als sehr umständlich. 2 > 3
+8. Ich empfinde die Bedienung als sehr umständlich. 2 von 5 -> 3 Punkte
 
-9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 5 > 4
+9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 5 von 5 -> 4 Punkte
 
-10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 2 > 3
+10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 2 von 5 -> 3 Punkte
 
 **Punktzahl Total: 35 * 2,5 = 87,5**
 
@@ -171,6 +171,7 @@ Wir haben zwei Usecases.
 **Attraktiv:** einfaches Design sehr verständlich
 * Achievements müsste man nochmals anschauen
 * Gamification hat ihn nicht interessiert, Level waren nicht klar
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_sevi.png)
 
 # SUS Summary
 
