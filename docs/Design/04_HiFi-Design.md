@@ -56,7 +56,7 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
 
 ### Ernsthaftes Problem
 * Onboarding wichtig
-* Wie viel Module können angezeigt werden? -> Wir setzen Grenzen: Bis 10 Module möglich
+* Wie viel Module können angezeigt werden? &rarr; Wir setzen Grenzen: Bis 10 Module möglich
 * Unsere Kreise schliessen Funktion ist nicht mehr attraktiv mit mehr als 10 Farben
 
 ### Kritisches Problem
@@ -141,25 +141,25 @@ Wir haben zwei Usecases.
 
 
 ### SUS Fragebogen Severin
-1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 -> 3 Punkte
+1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 &rarr; 3 Punkte
 
-2. Ich empfinde das System als unnötig komplex. 1 von 5 -> 4 Punkte
+2. Ich empfinde das System als unnötig komplex. 1 von 5 &rarr; 4 Punkte
 
-3. Ich empfinde das System als einfach zu nutzen. 4 von 5 -> 3 Punkte
+3. Ich empfinde das System als einfach zu nutzen. 4 von 5 &rarr; 3 Punkte
 
-4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 1 von 5 -> 4 Punkte
+4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 1 von 5 &rarr; 4 Punkte
 
-5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 5 von 5 -> 4 Punkte
+5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 5 von 5 &rarr; 4 Punkte
 
-6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 2 von 5 -> 3 Punkte
+6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 2 von 5 &rarr; 3 Punkte
 
-7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 -> 4 Punkte
+7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 &rarr; 4 Punkte
 
-8. Ich empfinde die Bedienung als sehr umständlich. 2 von 5 -> 3 Punkte
+8. Ich empfinde die Bedienung als sehr umständlich. 2 von 5 &rarr; 3 Punkte
 
-9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 5 von 5 -> 4 Punkte
+9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 5 von 5 &rarr; 4 Punkte
 
-10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 2 von 5 -> 3 Punkte
+10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 2 von 5 &rarr; 3 Punkte
 
 **Punktzahl Total: 35 * 2,5 = 87,5**
 
@@ -180,10 +180,10 @@ Zusatzinhalte der App, wie Übersicht und Achievements waren nicht intuitiv genu
 
 ## Drei grösste Probleme und mögliche Lösungen:
 * Die Level wurden nicht klar erkannt und der Vergleich mit Mitschülern war schwierig.
-*Lösung --> Level rauswerfen, mit klar definierten Achievements ersetzen*
+*Lösung &rarr; Level rauswerfen, mit klar definierten Achievements ersetzen*
 * Die Gamification-Aspekte wurden nicht als interessant empfunden weil alle Achievements schon ersichtlich waren. Das Icon war sichtbar, war aber nur ausgegraut
-*Lösung --> Ausgegraute, inaktive Achievements mit Vorhängeschlössern ersetzen. Wie man sie freischaltet kann durch antappen erfahren werden*
+*Lösung &rarr; Ausgegraute, inaktive Achievements mit Vorhängeschlössern ersetzen. Wie man sie freischaltet kann durch antappen erfahren werden*
 * Wenn man sich für ein Modul nicht interessiert kann man es nicht löschen
-*Lösung --> Lösch-Button in Modulübersicht hinzufügen*
+*Lösung &rarr; Lösch-Button in Modulübersicht hinzufügen*
 
 [Zum Endprodukt](https://matthiasmeierkoch.github.io/hcd-documentation/Design/endprodukt){: .btn .btn-blue }
