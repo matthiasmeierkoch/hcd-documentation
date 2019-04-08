@@ -117,29 +117,29 @@ Alle Punkte zusammenzählen und mit 2,5 multiplizieren, ergibt Punktzahl von 100
 ## SUS-Fragebogen Test 1
 Bei ungraden Fragen jeweils Antwort - 1.
 Bei graden Fragen jeweils 5(max Punkte)-Antwort.
-1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 -> 3
+1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 -> 3 Punkte
 
-2. Ich empfinde das System als unnötig komplex. 2 -> 3 
+2. Ich empfinde das System als unnötig komplex. 2 von 5 -> 3 Punkte
 
-3. Ich empfinde das System als einfach zu nutzen. 3 -> 2
+3. Ich empfinde das System als einfach zu nutzen. 3 von 5 -> 2 Punkte
 
-4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 1 -> 4
+4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 1 von 5 -> 4 Punkte
 
-5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 3 -> 2
+5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 3 von 5 -> 2 Punkte
 
-6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 2 -> 3
-
-
-7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 -> 4
+6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 2 von 5 -> 3 Punkte
 
 
-8. Ich empfinde die Bedienung als sehr umständlich. 3 -> 2
+7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 -> 4 Punkte
 
 
-9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 5 -> 4
+8. Ich empfinde die Bedienung als sehr umständlich. 3 von 5 -> 2 Punkte
 
 
-10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 1 -> 4
+9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 5 von 5 -> 4 Punkte
+
+
+10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 1 von 5 -> 4 Punkte
 
 **Punktzahl Total: 31 * 2,5 = 77,5**
 
@@ -244,28 +244,28 @@ Man legt Karten aus und Testperson wählt drei Karten. Wichtig ist, was der Test
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_steffi.png)
 
 ## SUS Fragebogen Steffi
-1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 5 -> 4
+1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 5 von 5 -> 4 Punkte
 
-2. Ich empfinde das System als unnötig komplex. 1 -> 4
+2. Ich empfinde das System als unnötig komplex. 1 von 5 -> 4 Punkte
 
-3. Ich empfinde das System als einfach zu nutzen. 4 -> 3
+3. Ich empfinde das System als einfach zu nutzen. 4 von 5 -> 3 Punkte
 
-4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 3 -> 2
+4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 3 von 5 -> 2 Punkte
 
-5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 5 -> 4
+5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 5 von 5 -> 4 Punkte
 
-6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 3 -> 2
-
-
-7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 -> 4
+6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 3 von 5 -> 2 Punkte
 
 
-8. Ich empfinde die Bedienung als sehr umständlich. 2 -> 3
-
-9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 4 -> 3
+7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 -> 4 Punkte
 
 
-10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 1 -> 4
+8. Ich empfinde die Bedienung als sehr umständlich. 2 von 5 -> 3 Punkte
+
+9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 4 von 5 -> 3 Punkte
+
+
+10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 1 von 5 -> 4 Punkte
 
 **Punktzahl Total: 33 * 2,5 = 82,5**
 
