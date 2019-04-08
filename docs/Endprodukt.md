@@ -8,8 +8,11 @@ nav_order: 4
 # Bocado
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/Rotato%20Movie%205.gif?raw=true)
 
+## Homescreen
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/Rotato-Snapshot6_low.png?raw=true)
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/Rotato-Snapshot7_low.png?raw=true)
+
+## Onboarding
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/Rotato-Snapshot9_low.png?raw=true)
 
 
@@ -22,9 +25,7 @@ nav_order: 4
 
 ## Icons
 
-## Homescreen
 
-## Onboarding
 
 ## Repetiermodus
 
