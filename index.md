@@ -8,7 +8,7 @@ nav_order: 1
 description: "Human Centered Design Dokumentation"
 ---
 
-# Einleitung in das Modul Human Centered Design (HCD)
+# Einleitung in das Modul Human&nbsp;Centered&nbsp;Design&nbsp;(HCD)
 Das ist die Dokumentation des Modul Human Centered Design von den studierenden Pascale Anderegg, Nicole Watrinet, Marc Hatt und Matthias Koch.  
 
 Diese Website dokumentiert das Modul Human Centered Design. Das Hauptthema des Faches besteht darin den User, also den Mensch, immer in Mittelpunkt des Design-Prozesses zu stellen.Wir beschäftigen uns mit dem gesamten Ablauf von der Entwicklung eines Produkts. Angefangen von der persönlichen Auseinandersetzung mit dem Thema, Personas und Szenarien erstellen bis zu Konzeption und Gestaltung eines Prototypen. Unsere Notizen zu den gelernten und angewendeten Methoden werden ebenfalls dokumentiert. 
