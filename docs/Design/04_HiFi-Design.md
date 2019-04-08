@@ -42,13 +42,11 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
 * Kachelsystem wirkt aufgeräumt und responsive
 
 ## Prototypen
-Low-Fi: https://www.figma.com/file/TN06iGxN3xCVXq66bDeWGXct/Protoyp-%C2%ABfirst-steps%C2%BB-VERSION-1?node-id=0%3A1
+[Low-Fi](https://www.figma.com/file/TN06iGxN3xCVXq66bDeWGXct/Protoyp-%C2%ABfirst-steps%C2%BB-VERSION-1?node-id=0%3A1)
 
-Low-Fi nach Usability Walkthrough:
-https://www.figma.com/file/XLBaCqPOEOmFO4ujsdx43j/Protoyp-%C2%ABfirst-steps%C2%BB-VERSION-2?node-id=0%3A1
+[Low-Fi nach Usability Walkthrough](https://www.figma.com/file/XLBaCqPOEOmFO4ujsdx43j/Protoyp-%C2%ABfirst-steps%C2%BB-VERSION-2?node-id=0%3A1)
 
-Hi-Fi:
-https://www.figma.com/file/GN1f3SvmzTkia4DAZaBix0/Protoyp-HIFI-%C2%ABfirst-steps%C2%BB?node-id=0%3A1
+[Hi-Fi](https://https://www.figma.com/file/GN1f3SvmzTkia4DAZaBix0/Protoyp-HIFI-%C2%ABfirst-steps%C2%BB?node-id=0%3A1)
 
 ## Erkenntnisse LoFi für HiFi Prototyp
 
