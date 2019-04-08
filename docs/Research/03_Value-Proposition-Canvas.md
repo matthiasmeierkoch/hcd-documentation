@@ -18,7 +18,7 @@ content-type: text/html
 # Value Proposition Canvas  
 Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festgehalten.
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/lars_vpc.png)
+![](https://matthiasmeierkoch.github.io/hcd-documentation/blob/gh-pages/images/lars_vpc.png)
 ---
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marius_vpc.png)
 ---
