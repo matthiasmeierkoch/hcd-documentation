@@ -18,34 +18,49 @@ content-type: text/html
 # Value Proposition Canvas  
 Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festgehalten.
 
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/lars_vpc.png?raw=true)
+
 ---
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marius_vpc.png?raw=true)
+
 ---
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marc_vpc.png?raw=true)
+
 ---
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/matthias_vpc.png?raw=true)
+
 ---
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/pascale_vpc.png?raw=true)
+
 ---
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/nicole_vpc.png?raw=true)
 
 
 ## Cluster bilden
 Nun werden wir Benutzergruppen bilden, welche sich aus den Beobachtungen ergeben haben. Auch hier werden wir die Pains, Gains und Jobs in der VPC festhalten.
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/peterpressure_vpc.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/peterpressure_vpc.png?raw=true)
+
 ---
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/fionafleissih_vpc.png)
+
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/fionafleissih_vpc.png?raw=true)
+
 ---
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/hugohybrid_vpc.png)
+
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/hugohybrid_vpc.png?raw=true)
 
 
 
 ## Unsere Persona: Hugo Hybrid
 Wir haben uns dazu entschieden, die Benutzergruppe «Hugo Hybrid» zu priorisieren, da er die für unsere Challenge die wichtigsten Painpoints trifft.
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/hugo_hybrid_kurzbio.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/hugo_hybrid_kurzbio.png?raw=true)
 
 ## IST-Szenario
 Aufgrund der Persona «Hugo Hybrid wurde das IST-Szenario erstellt, das den aktuellen Nutzungskontext beschreibt. 
@@ -62,7 +77,7 @@ Fächer wie Mathematik zum Beispiel empfindet er als frustrierend. Irgendwie fin
 ## User Journey Map
 Mit der User Journey Map wird das Nutzererlebnis, das ein User **ohne** dem Produkt hat, visualisiert. Sie zeigt die Nutzung über eine bestimmte Zeit. Beschrieben werden auch Gefühle des Benutzers. Sie wird eingesetzt um die Projekt-Vision für alle fassbar zu machen.
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/userjourney.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/userjourney.png?raw=true)
 
 
 
