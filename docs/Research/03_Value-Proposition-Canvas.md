@@ -17,6 +17,8 @@ nav_order: 3
 # Value Proposition Canvas  
 Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festgehalten.
 
+<img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marius_vpc.png" content-type:"text/html" alt="">
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/lars_vpc.png)
 ---
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marius_vpc.png)
