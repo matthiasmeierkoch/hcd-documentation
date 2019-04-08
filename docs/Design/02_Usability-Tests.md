@@ -117,29 +117,29 @@ Alle Punkte zusammenzählen und mit 2,5 multiplizieren, ergibt Punktzahl von 100
 ## SUS-Fragebogen Test 1
 Bei ungraden Fragen jeweils Antwort - 1.
 Bei graden Fragen jeweils 5(max Punkte)-Antwort.
-1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 -> 3 Punkte
+1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 &rarr; 3 Punkte
 
-2. Ich empfinde das System als unnötig komplex. 2 von 5 -> 3 Punkte
+2. Ich empfinde das System als unnötig komplex. 2 von 5 &rarr; 3 Punkte
 
-3. Ich empfinde das System als einfach zu nutzen. 3 von 5 -> 2 Punkte
+3. Ich empfinde das System als einfach zu nutzen. 3 von 5 &rarr; 2 Punkte
 
-4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 1 von 5 -> 4 Punkte
+4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 1 von 5 &rarr; 4 Punkte
 
-5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 3 von 5 -> 2 Punkte
+5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 3 von 5 &rarr; 2 Punkte
 
-6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 2 von 5 -> 3 Punkte
-
-
-7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 -> 4 Punkte
+6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 2 von 5 &rarr; 3 Punkte
 
 
-8. Ich empfinde die Bedienung als sehr umständlich. 3 von 5 -> 2 Punkte
+7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 &rarr; 4 Punkte
 
 
-9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 5 von 5 -> 4 Punkte
+8. Ich empfinde die Bedienung als sehr umständlich. 3 von 5 &rarr; 2 Punkte
 
 
-10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 1 von 5 -> 4 Punkte
+9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 5 von 5 &rarr; 4 Punkte
+
+
+10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 1 von 5 &rarr; 4 Punkte
 
 **Punktzahl Total: 31 * 2,5 = 77,5**
 
@@ -185,7 +185,7 @@ Möchte das es automatisch weiterleitet nach klicken der Antwort. 2 punkte rot m
 alles was sie dazu lernen kann abgeschlossen wenn kreis geschlossen ist. sie klickt in modul. sie fragt bei lernverlauf: anzeige wann wie viel gelernt? sie denkt es ist der zeitraum wann ich wieviel gelernt habe, ihr fehlt aber die y achse. Sind das Anzahl Fragen? Ihr fehlt die Einheiten. SIe hätte gern Zusatzinfos. Repetieren ist klar über Button. Sie fragt: wird der letzte Push repetiert? sie fände es besser wenn sie auswählen kann welche sie repetieren will. welche die sie nicht gut beantwortet. es wäre cool wenn man nur fragen die man noch nicht beantwortet hat zuerst beantworten kann
 
 Versteht dass die Kreise die ganzen Module darstellen.
-Was zeigt der Lernverlauf? Wann wieviel gelernt wurde? Zeitraum des ganzen Moduls wann wieviel gelernt wurde. Anzahl Fragen -> y Achse?
+Was zeigt der Lernverlauf? Wann wieviel gelernt wurde? Zeitraum des ganzen Moduls wann wieviel gelernt wurde. Anzahl Fragen &rarr; y Achse?
 
 **3. Wegfindung**
 * Gehe auf die Übersicht wo die Module aufgelistet sind.
@@ -244,38 +244,38 @@ Man legt Karten aus und Testperson wählt drei Karten. Wichtig ist, was der Test
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_steffi.png)
 
 ## SUS Fragebogen Steffi
-1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 5 von 5 -> 4 Punkte
+1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 5 von 5 &rarr; 4 Punkte
 
-2. Ich empfinde das System als unnötig komplex. 1 von 5 -> 4 Punkte
+2. Ich empfinde das System als unnötig komplex. 1 von 5 &rarr; 4 Punkte
 
-3. Ich empfinde das System als einfach zu nutzen. 4 von 5 -> 3 Punkte
+3. Ich empfinde das System als einfach zu nutzen. 4 von 5 &rarr; 3 Punkte
 
-4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 3 von 5 -> 2 Punkte
+4. Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 3 von 5 &rarr; 2 Punkte
 
-5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 5 von 5 -> 4 Punkte
+5. Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 5 von 5 &rarr; 4 Punkte
 
-6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 3 von 5 -> 2 Punkte
-
-
-7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 -> 4 Punkte
+6. Ich finde, dass es im System zu viele Inkonsistenzen gibt. 3 von 5 &rarr; 2 Punkte
 
 
-8. Ich empfinde die Bedienung als sehr umständlich. 2 von 5 -> 3 Punkte
-
-9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 4 von 5 -> 3 Punkte
+7. Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 &rarr; 4 Punkte
 
 
-10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 1 von 5 -> 4 Punkte
+8. Ich empfinde die Bedienung als sehr umständlich. 2 von 5 &rarr; 3 Punkte
+
+9. Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 4 von 5 &rarr; 3 Punkte
+
+
+10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 1 von 5 &rarr; 4 Punkte
 
 **Punktzahl Total: 33 * 2,5 = 82,5**
 
 ## Befunde
 * Menu: Platzierung überdenken, Level im Onboarding erklären
 * Oboarding mit den wichtigsten Funktionen erstellen
-* Repetieren-Button: Wording nicht dem Use-Case entsprechend. Anderes Wording -> eventuell Textbox «Du hast noch X Fragen falsch oder noch nicht beantwortet, hole das HIER nach ->»
+* Repetieren-Button: Wording nicht dem Use-Case entsprechend. Anderes Wording &rarr; eventuell Textbox «Du hast noch X Fragen falsch oder noch nicht beantwortet, hole das HIER nach &rarr;»
 * Feedback bei Fragen soll klarer sein, Feedback von Weiter Button trennen. optisch von Antwort abheben
 * Lernverlauf: Statistik-Page muss klarer sein. Was wird gezeigt, wie wird es gezeigt. 
-* Level nicht in Detailansicht zeigen -> zeigt ja Fotschritt über alle Module
+* Level nicht in Detailansicht zeigen &rarr; zeigt ja Fotschritt über alle Module
 
 
 ### Verbesserte Screens des LowFi Prototyp
