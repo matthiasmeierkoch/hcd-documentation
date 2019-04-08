@@ -16,6 +16,7 @@ nav_order: 2
 # Usability Tests
 
 ## Erster Test
+Die ersten beiden Tests werden mit dem Low-Fi Prototyp durchgeführt. Das visuelle Erscheinungbild ist hier noch nicht relevant.
 
 ### Angaben zur Testperson 1
 <dl>
@@ -103,18 +104,17 @@ Man legt Karten mit diversen Adjektiven auf den Tisch aus und Testperson wählt 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_nils.png?raw=true)
 
 # Der SUS-Fragebogen
-Mithilfe eines einfachen Fragebogens (System Usability Score), der aus insgesamt zehn Fragen auf Basis von Likert-Skalen mit je fünf Optionen besteht, kann ermittelt werden, wie nutzerfreundlich eine Software wahrgenommen wird. Der SUS-Fragebogen enthält fünf positiv und fünf negativ formulierte Aussagen zur Usability des zu bewertenden Systems. Brooke schlägt folgende zehn Aussagen vor, die an individuelle Bedingungen angepasst werden können und sollten:
+Mithilfe eines einfachen Fragebogens (System Usability Score), der aus insgesamt zehn Fragen auf Basis von Likert-Skalen mit je fünf Optionen besteht, kann ermittelt werden, wie nutzerfreundlich eine Software wahrgenommen wird. Der SUS-Fragebogen enthält fünf positiv und fünf negativ formulierte Aussagen zur Usability des zu bewertenden Systems.
 
 ## Auswertung
-Immer die gleichen 10 Fragen.
-Am Schluss gibt eine Note zwischen 1-4.
-Bei ungraden Fragen jeweils Antwort - 1.
-Bei graden Fragen jeweils 5(max Punkte)-Antwort.
-Alle Punkte zusammenzählen und mit 2,5 multiplizieren, ergibt Punktzahl von 100. Am Schluss bekommt man einen Wert, der keine Prozente angibt. Zwischen 60 und 80 grenzwärtig. Wenn man +80 erhält, ist man auf gutem Weg.
+* Immer die gleichen 10 Fragen.
+* Am Schluss gibt eine Note zwischen 1-4.
+* Bei ungraden Fragen jeweils Antwort - 1.
+* Bei graden Fragen jeweils 5(max Punkte)-Antwort.
+* Alle Punkte zusammenzählen und mit 2,5 multiplizieren, ergibt Punktzahl von 100. Am Schluss bekommt man einen Wert, der keine Prozente angibt. 
+* 60 bis 80 ist grenzwärtig. Wenn man +80 erhält, ist man auf einem guten Weg.
 
 ## SUS-Fragebogen Test 1
-Bei ungraden Fragen jeweils Antwort - 1.
-Bei graden Fragen jeweils 5(max Punkte)-Antwort.
 1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 &rarr; 3 Punkte
 
 2. Ich empfinde das System als unnötig komplex. 2 von 5 &rarr; 3 Punkte
@@ -144,7 +144,6 @@ Bei graden Fragen jeweils 5(max Punkte)-Antwort.
 
 
 ## Zweiter Test
-Dieser Test wurde mit einem Low-Fi Prototyp durchgeführt. Das visuelle Erscheinungbild ist hier noch nicht relevant.
 
 ### Angaben zur Testperson 2
 <dl>
@@ -161,44 +160,30 @@ Dieser Test wurde mit einem Low-Fi Prototyp durchgeführt. Das visuelle Erschein
 </dl>
 
 
-### Fragen
-Wir haben zwei Usecases.
-
 ### Aufgabe 1
-1. Per Push Notification:
-* Klicke dich zur ersten Frage.
-* Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast
+Lese die Push Notification und klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.
 
 ### Beobachtungen 
-Sie klickt zum Logo, weiss nicht ob sie weiter soll, sie kommt zu den fragen, ihr ist klar dass es 5 Fragen gibt, sind es nur 3 antworten? Feedback zeigt es gerade an. sie weiss nicht ob es ein Button ist oder will scrollen, es soll automatisch weiterleiten, da button auch rot ist würde sie nicht draufklicken, wäre jetzt klarer wenn pfeil da? ja aber es ist irritierend mit zwei roten Buttons, stört bei richtiger antwort die beiden grünen flächen? nein stört sie nicht. sie findet es verwirrend bei falscher Eingabe 3 Farben anzuzeigen. Sonst es ist falsch und dann weiter.
-
-Was soll der Taco? Kann ich da etwas essen?
-Bei Fragen möchte sie scrollen, da unten ein Teil abgeschnitten wirkt, weiss nicht weiter nach klicken der Antwort. Vieles ist rot oder grün. Reizüberflutung.
-Möchte das es automatisch weiterleitet nach klicken der Antwort. 2 punkte rot macht keinen Sinn.
+Sie klickt sich zum Logo und weiss von da nicht ob sie weiter muss. Sie kommt zu den Fragen und ihr ist klar, dass es 5 Fragen gibt. Sie fragt sich ob es nur 3 Antworten sind? Sie weiss nicht ob der Button sie zur nächsten Frage bringt. Muss sie scrollen oder bringt es sie automatisch weiter? Da der Button auch rot ist würde sie nicht draufklicken. Wir fragen sie ob es mit einem Pfeil klarer ist. Sie meint ja aber es wäre irritierend mit zwei roten Buttons. Sie findet es verwirrend dass wir bei falscher Eingabe 3 unterschiedliche Farben anzeigen. «Was soll der Taco? Kann ich da etwas essen?» 
 
 ### Aufgabe 2
-2. direkter Eingang in App auf Startseite:
-* Wie sieht deine Statistik für das Modul St.Galler Management aus?
-* Repetiere das Modul. 
+Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management aus? Repetiere das Modul. 
 
-### Beobachtung
+### Beobachtungen
 alles was sie dazu lernen kann abgeschlossen wenn kreis geschlossen ist. sie klickt in modul. sie fragt bei lernverlauf: anzeige wann wie viel gelernt? sie denkt es ist der zeitraum wann ich wieviel gelernt habe, ihr fehlt aber die y achse. Sind das Anzahl Fragen? Ihr fehlt die Einheiten. SIe hätte gern Zusatzinfos. Repetieren ist klar über Button. Sie fragt: wird der letzte Push repetiert? sie fände es besser wenn sie auswählen kann welche sie repetieren will. welche die sie nicht gut beantwortet. es wäre cool wenn man nur fragen die man noch nicht beantwortet hat zuerst beantworten kann
 
 Versteht dass die Kreise die ganzen Module darstellen.
 Was zeigt der Lernverlauf? Wann wieviel gelernt wurde? Zeitraum des ganzen Moduls wann wieviel gelernt wurde. Anzahl Fragen &rarr; y Achse?
 
 ### Aufgabe 3
-* Gehe auf die Übersicht wo die Module aufgelistet sind.
-* Zeige mir dein Level.
+Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.
 
 ### Beobachtungen
 Sie geht auf Homebutton, Platzierung Menu oben ist ok, nicht im Weg bei der App Nutzung
 Sie findet die Levels nicht, sie klickt oben auf icon da sie nicht weiss wo sonst, aus Neugierde, Levelsystem muss erklärt werden, Onboarding ist cool wenn kurz, überspringen ist Pflicht wenn man es nicht braucht, Im namen der App braucht man nichts zum Essen, der Name würde nichts nützen, Profilbutton wäre klarer. Zurück swipen oder homebutton um auf übersicht zu gelangen wäre wünschenswert. Versteht das Level nicht, denkt dabei nur an Essen. 
 
 ### Aufgabe 4
-von Übersichtsscreen:
-* Hast du offene Benachrichtigungen?
-* Schaue sie dir an.
+Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.
 
 ### Beobachtungen
 Sie denkt das direkt auf Push nur die Fragen sind die kommen, auf repetieren kommt alles was noch offen ist
