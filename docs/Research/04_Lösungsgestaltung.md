@@ -95,7 +95,7 @@ Feedback auf falsche Antworten soll motivierend sein
 ## Storyboard
 Unser Storyboard bildet das gesamte Nutzerszenario ab. Es zeigt wie es zur Nutzung  kam, den User während der Nutzung und was nach der Benutzung passiert.
 
-![](https://i.imgur.com/rQsGzm2.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/storyboard.jpg)
 
 
 **Szene 1:** Während der Vorlesung hat Hugo besseres zu tun wie sich Notizen zu machen. Ihn interessiert das Fach Mathematik nicht. Er sucht nach neuen Golfkleidern und ist auf Instagram.
@@ -128,20 +128,20 @@ Diese werden mit Nomen und Verb gebildet:
 * Aufgaben lösen
 * Reward erhalten
 
-![](https://i.imgur.com/Yb1xhbS.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/atwork.jpg)
 
 
 ### User Stories
 User Stories werden nach folgendem Muster erstellt: Als User will ich... sodass ich..
 
-![](https://i.imgur.com/dHAqYkP.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/postits.jpg)
 
 
 
 ## Erste Scribbles
 Nun skizzieren wir den User Flow als UI-Sketches.
 
-![](https://i.imgur.com/YMLVevB.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/userflow.jpg)
 
 
 
@@ -177,9 +177,9 @@ Für die Übergabe ins Design soll ein Pitch vorbereitet werden. Das Projekt sol
 
 Dies kann man sich in Form eines Elevator-Pitches vorstellen, wo man sein Gegenüber in sehr kurzer Zeit von seiner Projektidee überzeugen muss.
 
-![](https://i.imgur.com/1V6MqSP.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/20190308_154136.jpg)
 
-![](https://i.imgur.com/KojL6FH.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/20190308_154143.jpg)
 
 
 https://docs.google.com/presentation/d/1Z27C7svCpQ46vJJlRZI5qNWAdbWY-xTMg3-I1RbKSMY/edit?usp=sharing
