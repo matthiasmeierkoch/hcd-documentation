@@ -25,14 +25,23 @@ Farblich wurden Begriffe nach Must, Should, Could und Won't unterteilt.
 
 ## Methoden 
 Hier werden einige Methoden beschrieben, die helfen den Nutzungskontext zu verstehen.
+
 **Beobachten:** Usern beim bedienen zuschauen und danach die richtigen Fragen stellen
+
 **Tagebuchstudien:** Man macht Auskunftstudien über das Leben von Personen.  Meist wird dies über längere Zeit gemacht. Diese Methode ist eher selten, da sie sehr zeitintensiv ist.
+
 **Contextual Inquiry & Design:** Man geht hin und lässt sich ausbilden. Voraussetzung dafür ist: Du bist neugierig und stellst Fragen. Diese Methode eignet sich gut zu zweit.
+
 **Interview:** Diese Methode sollte auch zu zweit gemacht werden. Einer stellt die Fragen und der andere notiert.
+
 **Fragebogen:** Mit einem Fragebogen erhält man quantitative Ergebnisse (40% von den potenziellen Nutzern haben dieses Problem). Für qualitative Datensätze kann man einige heraussuchen. Resarcher sind eher im quantitaven Bereich tätig, Designer arbeiten eher qualitativ und erhalten wenig aber gute Ergebnisse. Dies ist aber immer projektabhängig.
+
 **Fokusgruppen:** Eignen sich für Tagungen um ganz schnell zu viel Infos und einen Wissenstand zu kommen. Sich schnell viel Wissen aneignen.
+
 **Workshops:** Sind gut, aber auch gefährlich da man vielfach genauere Infos bekommt wenn du an Ort und Stelle Beobachtungen machst – also sogenannte contectual inquiries machst. Workshop können zu jeder Zeit im Projekt gemacht werden.
+
 **User experience sketching:** Dies kann wie Theater funktionieren. Man geht mit person mit (z.B. einem Postboten), dann gibt man ihm einen Prototyp, den er direkt testen kann.
+
 **Szenarien:** Du versetzt dich in die Rolle des Users
 
 
