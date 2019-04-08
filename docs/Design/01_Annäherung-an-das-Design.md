@@ -90,4 +90,4 @@ Die Dauer der Befragung beträgt maximal 30 Minuten.
 
 
 
-[zu den Usability-Tests](https://matthiasmeierkoch.github.io/hcd-documentation/Design/Usability-Tests){: .btn .btn-blue }
+[Zu den Usability-Tests](https://matthiasmeierkoch.github.io/hcd-documentation/Design/Usability-Tests){: .btn .btn-blue }
