@@ -194,4 +194,4 @@ Zusatzinhalte der App, wie Übersicht und Achievements waren nicht intuitiv genu
 * Wenn man sich für ein Modul nicht interessiert kann man es nicht löschen
 *Lösung &rarr; Lösch-Button in Modulübersicht hinzufügen*
 
-[Zum Endprodukt](https://matthiasmeierkoch.github.io/hcd-documentation/Design/endprodukt){: .btn .btn-blue }
+[Zum Endprodukt](https://matthiasmeierkoch.github.io/hcd-documentation/endprodukt){: .btn .btn-blue }
