@@ -18,17 +18,17 @@ content-type: text/html
 # Value Proposition Canvas  
 Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festgehalten.
 
-![]({{ site.baseurl }}/hcd-documentation/blob/gh-pages/images/lars_vpc.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/lars_vpc.png?raw=true)
 ---
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marius_vpc.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marius_vpc.png?raw=true)
 ---
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marc_vpc.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/marc_vpc.png?raw=true)
 ---
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/matthias_vpc.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/matthias_vpc.png?raw=true)
 ---
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/pascale_vpc.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/pascale_vpc.png?raw=true)
 ---
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/nicole_vpc.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/nicole_vpc.png?raw=true)
 
 
 ## Cluster bilden
