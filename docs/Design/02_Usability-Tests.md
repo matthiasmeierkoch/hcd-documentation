@@ -33,7 +33,8 @@ nav_order: 2
 
 ### Aufgabe 1
 Lese die Push Notification und klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow.png)
+
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow.png?raw=true)
 
 ### Beobachtungen
 Er stellt Rückfragen zum Briefing. Als er die erste Frage erreicht findet selber heraus dass er sie beantoworten muss. Die Farben Rot und Grün stehen für richtig und falsch. Er versteht deshalb, ob er die Frage richtig oder falsch beantwortet hat. Er meint, dass das Feedback ja auch ein Button ist weil es farblich gleich wie die Antwort ist. Ihm ist zu wenig klar dass es über das Feedback zur nächsten Frage geht. Das Feedback sowie ein «Weiter-Button» sollen separat sein. Es sind momentan zu viele Infos in einem Element. Danach kommt er auf die Statistiken von einem Modul. Die Lernkurve versteht er und die Smileys zeigen wie oft er schlecht gewesen ist. Es zeigt wie viele Fragen er noch bearbeiten muss.
@@ -41,13 +42,14 @@ Er stellt Rückfragen zum Briefing. Als er die erste Frage erreicht findet selbe
 
 ### Aufgabe 2
 Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management aus? Repetiere das Modul.
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow.png)
+
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow.png?raw=true)
 
 
 ### Beobachtungen
 Er kommt auf die Übersicht und versteht nicht, dass es hier kein Fragescreen ist, bzw. er mein, dass es auch eine Aufgabe ist, die man lösen muss, da die Seite ähnlich aufgebaut ist. Die 3 Buttons verwirren. Diese könnten auch Antworten sein. Er klickt auf repetieren.
 
-### Aufgabe 2
+### Aufgabe 3
 * Gehe auf die Übersicht wo die Module aufgelistet sind. Finde dein aktuelles Level.
 
 ### Beobachtungen
@@ -55,9 +57,10 @@ er ist auf übersicht
 er nimmt an taco ist profilicon, er weiss nicht wie klar das ist, es ist einziges mögliches icon das besteht
 er ist ein taco! aber er hat keine möglichkeit gsamtlevel anzusehen, gesamtüberasicht über studium wäre spannender anzuzeigen und nicht nur level, punktezusammensetzung ist nicht klar: wie erreiche ich punkte? er weiss es nicht, es setzt sich aus lernkurve zusammen, er weiss aber nicht, 5 fragen geben 5 punkte
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow.png?raw=true)
 
-4. von Übersichtsscreen:
+### Aufgabe 4
+von Übersichtsscreen:
 * Hast du offene Benachrichtigungen?
 * Schaue sie dir an.
 
@@ -67,7 +70,8 @@ elemente auf button nur 5 fragen die dort drauf sind
 auf repetieren erwartet er dass er alle fragen repetiert
 klick auf nachricht und man kommt gerade auf 5 fragen, es müssten 10 sein da alle repetiert werden müssen
 lernverlauf würde kein sinn machen
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/04_usabilityflow.png)
+
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/04_usabilityflow.png?raw=true)
 
 ## Fragebogen – Post Session Interview
 ### Was war positiv?
@@ -107,7 +111,8 @@ Man legt Karten aus und Testperson wählt drei Karten. Wichtig ist, was der Test
 **Inconsistent:** Closing Element (Feedback) holt neues Element vor, Startscreen hat verwirrt und sieht wie eine Frage aus für ihn.
 
 **Attraktiv:** Hat sehr Potenzial etwas geiles zu machen, mit Design visuell aber auch mit Inhalt da Gamefication.
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_nils.png)
+
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_nils.png?raw=true)
 
 # Der SUS-Fragebogen
 Mithilfe eines einfachen Fragebogens (System Usability Score), der aus insgesamt zehn Fragen auf Basis von Likert-Skalen mit je fünf Optionen besteht, kann ermittelt werden, wie nutzerfreundlich eine Software wahrgenommen wird. Der SUS-Fragebogen enthält fünf positiv und fünf negativ formulierte Aussagen zur Usability des zu bewertenden Systems. Brooke schlägt folgende zehn Aussagen vor, die an individuelle Bedingungen angepasst werden können und sollten:
@@ -170,7 +175,9 @@ Dieser Test wurde mit einem Low-Fi Prototyp durchgeführt. Das visuelle Erschein
 
 ### Fragen
 Wir haben zwei Usecases.
-**1. Per Push Notification:**
+
+### Aufgabe 1
+1. Per Push Notification:
 * Klicke dich zur ersten Frage.
 * Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast
 
@@ -181,8 +188,8 @@ Was soll der Taco? Kann ich da etwas essen?
 Bei Fragen möchte sie scrollen, da unten ein Teil abgeschnitten wirkt, weiss nicht weiter nach klicken der Antwort. Vieles ist rot oder grün. Reizüberflutung.
 Möchte das es automatisch weiterleitet nach klicken der Antwort. 2 punkte rot macht keinen Sinn.
 
-
-**2. direkter Eingang in App auf Startseite:**
+### Aufgabe 2
+2. direkter Eingang in App auf Startseite:
 * Wie sieht deine Statistik für das Modul St.Galler Management aus?
 * Repetiere das Modul. 
 
@@ -192,18 +199,16 @@ alles was sie dazu lernen kann abgeschlossen wenn kreis geschlossen ist. sie kli
 Versteht dass die Kreise die ganzen Module darstellen.
 Was zeigt der Lernverlauf? Wann wieviel gelernt wurde? Zeitraum des ganzen Moduls wann wieviel gelernt wurde. Anzahl Fragen &rarr; y Achse?
 
-**3. Wegfindung**
+### Aufgabe 3
 * Gehe auf die Übersicht wo die Module aufgelistet sind.
 * Zeige mir dein Level.
 
 ### Beobachtungen
 Sie geht auf Homebutton, Platzierung Menu oben ist ok, nicht im Weg bei der App Nutzung
-Sie findet die Levels nicht, sie klickt oben auf icon da sie nicht weiss wo sonst, aus Neugierde, Levelsystem muss erklärt werden, Onboarding ist cool wenn kurz, überspringen ist Pflicht wenn man es nicht braucht, Im namen der App braucht man nicht zum Essen, der Name würde nichts nützen, Profilbutton wäre klarer
+Sie findet die Levels nicht, sie klickt oben auf icon da sie nicht weiss wo sonst, aus Neugierde, Levelsystem muss erklärt werden, Onboarding ist cool wenn kurz, überspringen ist Pflicht wenn man es nicht braucht, Im namen der App braucht man nichts zum Essen, der Name würde nichts nützen, Profilbutton wäre klarer. Zurück swipen oder homebutton um auf übersicht zu gelangen wäre wünschenswert. Versteht das Level nicht, denkt dabei nur an Essen. 
 
-zurück swipen oder homebutton um auf übersicht zu gelangen
-Versteht das Level nicht. Denkt dabei nur an Essen. 
-
-4. von Übersichtsscreen:
+### Aufgabe 4
+von Übersichtsscreen:
 * Hast du offene Benachrichtigungen?
 * Schaue sie dir an.
 
