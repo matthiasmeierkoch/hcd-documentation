@@ -28,12 +28,12 @@ nav_order: 2
   <dt>Geschlecht</dt>
   <dd>Männlich</dd>
   <dt>Erfahrung</dt>
-  <dd>Noch nie</dd>
+  <dd>Keine</dd>
 </dl>
 
 ### Aufgabe 1
 Lese die Push Notification und klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.
-![](https://i.imgur.com/dhfaigy.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow.png)
 
 ### Beobachtungen
 Er stellt Rückfragen zum Briefing. Als er die erste Frage erreicht findet selber heraus dass er sie beantoworten muss. Die Farben Rot und Grün stehen für richtig und falsch. Er versteht deshalb, ob er die Frage richtig oder falsch beantwortet hat. Er meint, dass das Feedback ja auch ein Button ist weil es farblich gleich wie die Antwort ist. Ihm ist zu wenig klar dass es über das Feedback zur nächsten Frage geht. Das Feedback sowie ein «Weiter-Button» sollen separat sein. Es sind momentan zu viele Infos in einem Element. Danach kommt er auf die Statistiken von einem Modul. Die Lernkurve versteht er und die Smileys zeigen wie oft er schlecht gewesen ist. Es zeigt wie viele Fragen er noch bearbeiten muss.
@@ -41,7 +41,7 @@ Er stellt Rückfragen zum Briefing. Als er die erste Frage erreicht findet selbe
 
 ### Aufgabe 2
 Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management aus? Repetiere das Modul.
-![](https://i.imgur.com/AmUjQuh.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow.png)
 
 
 ### Beobachtungen
@@ -55,7 +55,7 @@ er ist auf übersicht
 er nimmt an taco ist profilicon, er weiss nicht wie klar das ist, es ist einziges mögliches icon das besteht
 er ist ein taco! aber er hat keine möglichkeit gsamtlevel anzusehen, gesamtüberasicht über studium wäre spannender anzuzeigen und nicht nur level, punktezusammensetzung ist nicht klar: wie erreiche ich punkte? er weiss es nicht, es setzt sich aus lernkurve zusammen, er weiss aber nicht, 5 fragen geben 5 punkte
 
-![](https://i.imgur.com/eSMRe3p.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow.png)
 
 4. von Übersichtsscreen:
 * Hast du offene Benachrichtigungen?
@@ -67,7 +67,7 @@ elemente auf button nur 5 fragen die dort drauf sind
 auf repetieren erwartet er dass er alle fragen repetiert
 klick auf nachricht und man kommt gerade auf 5 fragen, es müssten 10 sein da alle repetiert werden müssen
 lernverlauf würde kein sinn machen
-![](https://i.imgur.com/gf7bzyO.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/04_usabilityflow.png)
 
 ## Fragebogen – Post Session Interview
 ### Was war positiv?
@@ -102,6 +102,7 @@ Login?? wie logt man sich ein. noch etwas gliedern: bei welchem dozent habe ich 
 **Clean:** Nicht viel auf einem Screen, dies findet Nils gut.
 **Inconsistent:** Closing Element (Feedback) holt neues Element vor, Startscreen hat verwirrt und sieht wie eine Frage aus für ihn.
 **Attraktiv:** Hat sehr Potenzial etwas geiles zu machen, mit Design visuell aber auch mit Inhalt da Gamefication.
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_nils.png)
 
 # Der SUS-Fragebogen
 Mithilfe eines einfachen Fragebogens (System Usability Score), der aus insgesamt zehn Fragen auf Basis von Likert-Skalen mit je fünf Optionen besteht, kann ermittelt werden, wie nutzerfreundlich eine Software wahrgenommen wird. Der SUS-Fragebogen enthält fünf positiv und fünf negativ formulierte Aussagen zur Usability des zu bewertenden Systems. Brooke schlägt folgende zehn Aussagen vor, die an individuelle Bedingungen angepasst werden können und sollten:
@@ -179,6 +180,7 @@ Möchte das es automatisch weiterleitet nach klicken der Antwort. 2 punkte rot m
 **2. direkter Eingang in App auf Startseite:**
 * Wie sieht deine Statistik für das Modul St.Galler Management aus?
 * Repetiere das Modul. 
+
 ### Beobachtung
 alles was sie dazu lernen kann abgeschlossen wenn kreis geschlossen ist. sie klickt in modul. sie fragt bei lernverlauf: anzeige wann wie viel gelernt? sie denkt es ist der zeitraum wann ich wieviel gelernt habe, ihr fehlt aber die y achse. Sind das Anzahl Fragen? Ihr fehlt die Einheiten. SIe hätte gern Zusatzinfos. Repetieren ist klar über Button. Sie fragt: wird der letzte Push repetiert? sie fände es besser wenn sie auswählen kann welche sie repetieren will. welche die sie nicht gut beantwortet. es wäre cool wenn man nur fragen die man noch nicht beantwortet hat zuerst beantworten kann
 
@@ -188,6 +190,7 @@ Was zeigt der Lernverlauf? Wann wieviel gelernt wurde? Zeitraum des ganzen Modul
 **3. Wegfindung**
 * Gehe auf die Übersicht wo die Module aufgelistet sind.
 * Zeige mir dein Level.
+
 ### Beobachtungen
 Sie geht auf Homebutton, Platzierung Menu oben ist ok, nicht im Weg bei der App Nutzung
 Sie findet die Levels nicht, sie klickt oben auf icon da sie nicht weiss wo sonst, aus Neugierde, Levelsystem muss erklärt werden, Onboarding ist cool wenn kurz, überspringen ist Pflicht wenn man es nicht braucht, Im namen der App braucht man nicht zum Essen, der Name würde nichts nützen, Profilbutton wäre klarer
@@ -198,6 +201,7 @@ Versteht das Level nicht. Denkt dabei nur an Essen.
 4. von Übersichtsscreen:
 * Hast du offene Benachrichtigungen?
 * Schaue sie dir an.
+
 ### Beobachtungen
 Sie denkt das direkt auf Push nur die Fragen sind die kommen, auf repetieren kommt alles was noch offen ist
 
@@ -237,7 +241,7 @@ Man legt Karten aus und Testperson wählt drei Karten. Wichtig ist, was der Test
 **Timesaving:** schnell machen und wichtiges erledigt
 
 **Inconsistent:** erwartet mehr als nur Fragen und Übersicht. über was ist die Übersicht, wie wird sie ausgewertet, Zurück
-
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_steffi.png)
 
 ## SUS Fragebogen Steffi
 1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 5 -> 4
@@ -276,12 +280,12 @@ Man legt Karten aus und Testperson wählt drei Karten. Wichtig ist, was der Test
 
 ### Verbesserte Screens des LowFi Prototyp
 Übersichtsscreen angepasst mit «Modul hinzufügen» Button, Levelseite angepasst
-![](https://i.imgur.com/3XIMZ9Y.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow_verbesserungen.png)
 
 Mitteilungen zusammengefasst, Feedback bei Fragen vereinfacht, Modulübersicht Repetierbuttons neu
-![](https://i.imgur.com/qoplO9X.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow_verbesserungen.png)
 
 Onboarding mit den wichtigsten 4 Features
-![](https://i.imgur.com/m4s6MQv.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow_verbesserungen.png)
 
 [Zum HiFi-Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/HiFi-Design){: .btn .btn-blue }
