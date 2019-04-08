@@ -50,14 +50,12 @@ Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine St
 Er kommt auf die Übersicht und versteht nicht, dass es hier kein Fragescreen ist, bzw. er mein, dass es auch eine Aufgabe ist, die man lösen muss, da die Seite ähnlich aufgebaut ist. Die 3 Buttons verwirren. Diese könnten auch Antworten sein. Er klickt auf repetieren.
 
 ### Aufgabe 3
-* Gehe auf die Übersicht wo die Module aufgelistet sind. Finde dein aktuelles Level.
-
-### Beobachtungen
-er ist auf übersicht
-er nimmt an taco ist profilicon, er weiss nicht wie klar das ist, es ist einziges mögliches icon das besteht
-er ist ein taco! aber er hat keine möglichkeit gsamtlevel anzusehen, gesamtüberasicht über studium wäre spannender anzuzeigen und nicht nur level, punktezusammensetzung ist nicht klar: wie erreiche ich punkte? er weiss es nicht, es setzt sich aus lernkurve zusammen, er weiss aber nicht, 5 fragen geben 5 punkte
+Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow.png?raw=true)
+
+### Beobachtungen
+Er gelangt auf die Übersicht und nimmt an das Taco-Icon steht für sein Profilicon. Er weiss nicht wie klar das ist, aber er meint, dass es nunmal das einzig mögliche Icon ist. Auf der Levelseite hat er keine möglichkeit den Gesamtlevel anzusehen. Er meint es wäre spannender eine Gesamtüberasicht über das Modul anzuzeigen und nicht nur der Level. Die Punktezusammensetzung ist ihm nicht klar. «Wie erreiche ich die Punkte?», fragt er sich. Er weiss es nicht. Die Punkte setzen sich aus der Lernkurve zusammen. Resultieren aus den 5 Fragen ebenfalls 5 Punkte?
 
 ### Aufgabe 4
 von Übersichtsscreen:
