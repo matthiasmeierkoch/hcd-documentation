@@ -10,6 +10,8 @@ nav_order: 4
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FGN1f3SvmzTkia4DAZaBix0%2FHi-Fi-Prototyp%3Fnode-id%3D249%253A5%26scaling%3Dscale-down" allowfullscreen></iframe>
 
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/Rotato-Snapshot8_low.png?raw=true)
+
 ## Farbschema
 
 ## Fonts
