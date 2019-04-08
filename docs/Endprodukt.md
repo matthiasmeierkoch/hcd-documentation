@@ -6,6 +6,8 @@ nav_order: 4
 ---
 
 # Bocado
+## Hi-Fi Prototyp
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FGN1f3SvmzTkia4DAZaBix0%2FProtoyp-HIFI-%25C2%25ABfirst-steps%25C2%25BB%3Fnode-id%3D170%253A31%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 ## Endpräsentation
 https://docs.google.com/presentation/d/1v9pAsEaABr0mIPf5lBNuAdv2XF_QURejRmAxMGsrhiU/edit#slide=id.g55425726d1_2_168
