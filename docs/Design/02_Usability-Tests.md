@@ -167,64 +167,48 @@ Lese die Push Notification und klicke dich zur ersten Frage. Beantworte eine Fra
 Sie klickt sich zum Logo und weiss von da nicht ob sie weiter muss. Sie kommt zu den Fragen und ihr ist klar, dass es 5 Fragen gibt. Sie fragt sich ob es nur 3 Antworten sind? Sie weiss nicht ob der Button sie zur nächsten Frage bringt. Muss sie scrollen oder bringt es sie automatisch weiter? Da der Button auch rot ist würde sie nicht draufklicken. Wir fragen sie ob es mit einem Pfeil klarer ist. Sie meint ja aber es wäre irritierend mit zwei roten Buttons. Sie findet es verwirrend dass wir bei falscher Eingabe 3 unterschiedliche Farben anzeigen. «Was soll der Taco? Kann ich da etwas essen?» 
 
 ### Aufgabe 2
-Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management aus? Repetiere das Modul. 
+Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management Modell aus? Repetiere das Modul. 
 
 ### Beobachtungen
-alles was sie dazu lernen kann abgeschlossen wenn kreis geschlossen ist. sie klickt in modul. sie fragt bei lernverlauf: anzeige wann wie viel gelernt? sie denkt es ist der zeitraum wann ich wieviel gelernt habe, ihr fehlt aber die y achse. Sind das Anzahl Fragen? Ihr fehlt die Einheiten. SIe hätte gern Zusatzinfos. Repetieren ist klar über Button. Sie fragt: wird der letzte Push repetiert? sie fände es besser wenn sie auswählen kann welche sie repetieren will. welche die sie nicht gut beantwortet. es wäre cool wenn man nur fragen die man noch nicht beantwortet hat zuerst beantworten kann
-
-Versteht dass die Kreise die ganzen Module darstellen.
-Was zeigt der Lernverlauf? Wann wieviel gelernt wurde? Zeitraum des ganzen Moduls wann wieviel gelernt wurde. Anzahl Fragen &rarr; y Achse?
+Sie versteht dass die Kreise ganze Module darstellen. Sie klickt direkt in das Modul St.Galler Management Modell. Bei der Statistik des Lernverlaufs fragt sie wie man erkennt wie viel man gelernt hat? Sie denkt es ist der Zeitraum wann ich wieviel gelernt habe. Ihr fehlt aber die y-Achse. Es ist ihr klar, dass man das Modul über den entsprechenden Button repetieren kann. Sie fragt: wird der letzte Push repetiert? Sie fände es besser wenn sie auswählen kann was genau sie repetiert. Es wäre cool, wenn man nur Fragen, die man noch nicht beantwortet hat zuerst beantworten kann.
 
 ### Aufgabe 3
 Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.
 
 ### Beobachtungen
-Sie geht auf Homebutton, Platzierung Menu oben ist ok, nicht im Weg bei der App Nutzung
-Sie findet die Levels nicht, sie klickt oben auf icon da sie nicht weiss wo sonst, aus Neugierde, Levelsystem muss erklärt werden, Onboarding ist cool wenn kurz, überspringen ist Pflicht wenn man es nicht braucht, Im namen der App braucht man nichts zum Essen, der Name würde nichts nützen, Profilbutton wäre klarer. Zurück swipen oder homebutton um auf übersicht zu gelangen wäre wünschenswert. Versteht das Level nicht, denkt dabei nur an Essen. 
+Sie klickt auf das Homeicon. Die Menu-Platzierung oben stört sie nicht. Sie findet die Levels nicht. Sie klickt irgendwann auf das Level-Icon, da sie nicht weiss wo sie sonst klicken soll. Ihrer Ansicht nach muss das Levelsystem erklärt werden. Levelsystem mit Icons im Foodbereich sind verwirrend, da die App nichts mit Essen zu tun hat. Sie findet, dass ein Profilbutton klarer wäre. Zurück swipen oder ein Homebutton um auf die Übersicht zu gelangen wäre wünschenswert.  
 
 ### Aufgabe 4
 Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.
 
 ### Beobachtungen
-Sie denkt das direkt auf Push nur die Fragen sind die kommen, auf repetieren kommt alles was noch offen ist
-
-ihr war übersicht klar da sie es erwartet hat.
-
-Sie sieht die 2 offenen Mitteilungen. Schaut sie an. Sie fragt sich was geklickt werden muss um was zu repetieren. Bei repetieren button repetiert sie beide Mitteilungen. Bei Mitteilungen jeweils nur diese 5 Fragen.
-Repetieren Button überflüssig?
+Der Übersichtscreen war ihr klar, da sie ihn erwartet hat. Sie sieht die 2 offenen Mitteilungen. Sie fragt sich was geklickt werden muss um nur diese Fragen zu repetieren. Sie denkt, dass direkt auf den Benachrichtigungen nur die Fragen kommen, die man repetieren sollte und wenn man auf den Repetieren-Buton klickt, kommt alles was noch offen ist. 
 
 ![](https://i.imgur.com/yvSLJga.jpg)
 
 
 ## Fragebogen - Post Session Interview
 ### Was war positiv?
-Fragestellung sehr intuitiv
-frage beantworten war klar
+Die Fragestellung war sehr intuitiv.
 
 ### Was war negativ?
-man kann nicht zurück um nochmals Frage ansehen
-sie hat mehr erwartet: man hat zwar übersicht 
+Man kann nicht zurück um nochmals zur letzten Frage zu gehen. Sie hätte etwas mehr erwartet.
 
 ### Was hat ihnen gefehlt?
-übersicht der fragen wäre spannend
-für prüfung nochmals durchgehen
-Fehlerrate von Fragen, Cluster
-Profilicon
-
+Eine Übersicht der Fragen wäre spannend. Es wäre spannend die Fragen für die Prüfung nochmals durchgehen zu können und eine Art Fehlerrate angezeigt bekommt.
 
 ### Was haben Sie für einen Gesamteindruck dieser App?
-Anfang der Fragen war klar, man könnte aber noch etwas mehr machen, sie hätte erwartet dass sie nochmals könnte repetieren
+Der Anfang der Fragen war klar. Man könnte aber noch etwas mehr machen. Sie hätte erwartet, dass sie noch mehr repetieren kann.
 
 ## Emo-Cards
-Man legt Karten aus und Testperson wählt drei Karten. Wichtig ist, was der Tester zu den Karten sagt.
 
 ### Gewählte Karten
-**Easy to use:** Fragenablauf, einfach
+**Easy to use:** der Fragenablauf war einfach.
 
-**Timesaving:** schnell machen und wichtiges erledigt
+**Timesaving:** Man macht die Fragen schnell unterwegs im Zug und man hat es erledigt.
 
-**Inconsistent:** erwartet mehr als nur Fragen und Übersicht. über was ist die Übersicht, wie wird sie ausgewertet, Zurück
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_steffi.png)
+**Inconsistent:** Man erwartet mehr als nur Fragen und Übersicht. Über was ist die Übersicht, wie wird sie ausgewertet, wie kann ich zu einer Frage zurück springen?
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_steffi.png?raw=true)
 
 ## SUS Fragebogen Steffi
 1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 5 von 5 &rarr; 4 Punkte
@@ -252,7 +236,7 @@ Man legt Karten aus und Testperson wählt drei Karten. Wichtig ist, was der Test
 
 **Punktzahl Total: 33 * 2,5 = 82,5**
 
-## Befunde
+## Befunde nach beiden Tests
 * Menu: Platzierung überdenken, Level im Onboarding erklären
 * Oboarding mit den wichtigsten Funktionen erstellen
 * Repetieren-Button: Wording nicht dem Use-Case entsprechend. Anderes Wording &rarr; eventuell Textbox «Du hast noch X Fragen falsch oder noch nicht beantwortet, hole das HIER nach &rarr;»
@@ -263,12 +247,12 @@ Man legt Karten aus und Testperson wählt drei Karten. Wichtig ist, was der Test
 
 ### Verbesserte Screens des LowFi Prototyp
 Übersichtsscreen angepasst mit «Modul hinzufügen» Button, Levelseite angepasst
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow_verbesserungen.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow_verbesserungen.png?raw=true)
 
 Mitteilungen zusammengefasst, Feedback bei Fragen vereinfacht, Modulübersicht Repetierbuttons neu
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow_verbesserungen.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow_verbesserungen.png?raw=true)
 
 Onboarding mit den wichtigsten 4 Features
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow_verbesserungen.png)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow_verbesserungen.png?raw=true)
 
 [Zum HiFi-Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/HiFi-Design){: .btn .btn-blue }
