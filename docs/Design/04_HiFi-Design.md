@@ -90,7 +90,7 @@ Wir haben zwei Usecases.
 ### Beobachtung:
 * Will swipen wegen Punkten in Onboarding
 * Würde den Text nicht lesen
-* "+" auf Übersicht: Eventuell neue Module hinzufügen?
+* «+» auf Übersicht: Eventuell neue Module hinzufügen?
 * 4 / 5 Fragen richtig beantwortet, nicht aufs ganze Modul bezogen
 
 **3. Wegfindung**
@@ -101,7 +101,7 @@ Wir haben zwei Usecases.
 * Level nicht klar weil keine Nummer
 * Icon fällt sofort auf
 * Hielt Daystreak für Level
-* "Trophies" brauchen einen Titel
+* «Trophies» brauchen einen Titel
 * Kann Levels nicht mit anderen vergleichen (Da keine Klare Reihenfolge welches Level ist wie Hoch)
 * Daystreak fällt aus Rahmen weil Nummer und kein Icon
 * Unerreichte Achievements sollten versteckt sein
@@ -120,7 +120,7 @@ Wir haben zwei Usecases.
 ### Was war positiv?
 * Sehr clean und aufgeräumt
 * kommt mit wenig aus
-* Menü wird als "recht cool" empfunden
+* Menü wird als «recht cool» empfunden
 
 ### Was war negativ?
 * Teilweise zu wenig
