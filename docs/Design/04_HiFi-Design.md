@@ -87,6 +87,7 @@ Wir haben zwei Usecases.
 **2. direkter Eingang in App auf Startseite:**
 * Wie sieht deine Statistik für das Modul St.Galler Management aus?
 * Repetiere das Modul. 
+
 ### Beobachtung:
 * Will swipen wegen Punkten in Onboarding
 * Würde den Text nicht lesen
@@ -111,7 +112,7 @@ Wir haben zwei Usecases.
 **4. von Übersichtsscreen:**
 * Hast du offene Benachrichtigungen?
 * Schaue sie dir an.
-* 
+
 ### Beobachtungen
 * Sieht direkt wieviele Benachrichtigungen er hat
 * Denkt er würde direkt in Frage hinein springen
@@ -126,12 +127,11 @@ Wir haben zwei Usecases.
 * Teilweise zu wenig
 * Kreise auf Übersicht nicht klar genug
 * Icon von Level/Achievmentseite nicht intuitiv
-* 
+
 ### Was hat ihnen gefehlt?
 * Module müssem auch löschbar sein
 * Kreis von «international management» ist nicht gleich wie in der Modul übersichtsseite.
 * da das menu nur bei «home» kommt müssen die Kreise nicht nochmals da sein. 
-
 
 ### Was haben Sie für einen Gesamteindruck dieser App?
 * Funktioniert, hätte Lust es einzusetzen
@@ -163,10 +163,16 @@ Wir haben zwei Usecases.
 
 **Punktzahl Total: 35 * 2,5 = 87,5**
 
-## Emotional Cards Sevi
+## Emotional Cards
+
+### Gewählte Karten
 **Konsistent:** Farkonzept ein Guss, abgerundet, Notifications könnte noch optimiert werden
+
 **Time-saving:** man kommt sehr schnell auf Fragen direkt auf Notification
+
 **Attraktiv:** einfaches Design sehr verständlich
+
+### Zusätzliches Feedback
 * Achievements müsste man nochmals anschauen
 * Gamification hat ihn nicht interessiert, Level waren nicht klar
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_sevi.png)
