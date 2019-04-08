@@ -78,68 +78,36 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
   <dd>Ja Quizlet</dd>
 </dl>
 
-### Fragen
-Wir haben zwei Usecases.
-
-**1. Per Push Notification:**
-* Klicke dich zur ersten Frage.
-* Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast
-
-**2. direkter Eingang in App auf Startseite:**
-* Wie sieht deine Statistik für das Modul St.Galler Management aus?
-* Repetiere das Modul. 
-
-### Beobachtung:
-* Will swipen wegen Punkten in Onboarding
-* Würde den Text nicht lesen
-* «+» auf Übersicht: Eventuell neue Module hinzufügen?
-* 4 / 5 Fragen richtig beantwortet, nicht aufs ganze Modul bezogen
-
-**3. Wegfindung**
-* Gehe auf die Übersicht wo die Module aufgelistet sind.
-* Zeige mir dein Level.
+### Aufgabe 1
+Klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.
 
 ### Beobachtungen
-* Level nicht klar weil keine Nummer
-* Icon fällt sofort auf
-* Hielt Daystreak für Level
-* «Trophies» brauchen einen Titel
-* Kann Levels nicht mit anderen vergleichen (Da keine Klare Reihenfolge welches Level ist wie Hoch)
-* Daystreak fällt aus Rahmen weil Nummer und kein Icon
-* Unerreichte Achievements sollten versteckt sein
-* X direkt auf Übersichtsseite in Achievements (wird erwartet)
-* Unerreichte Achievements (on Tap) anzeigen was ich machen muss um diese zu erreichen.
+Er will swipen wegen den Punkten im Onboarding und würde den Text nicht lesen. Er meint vielleicht ist es so dass man über das Icon «+» eventuell neue Module hinzufügen könne? Es verwirrt ihn, dass er als Feedback 4 von 5 Fragen richtig beantwortet hat, sich das aber nicht auf das ganze Modul bezieht.
 
-**4. von Übersichtsscreen:**
-* Hast du offene Benachrichtigungen?
-* Schaue sie dir an.
+### Aufgabe 2
+Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.
 
 ### Beobachtungen
-* Sieht direkt wieviele Benachrichtigungen er hat
-* Denkt er würde direkt in Frage hinein springen
+Das Level ist nicht klar weil man keine Nummer hat. Das Icon fällt jedoch sofort auf. Er hielt Daystreak für seinen Level. Er meint «Trophies» brauchen einen Titel. Er kann Levels nicht mit anderen vergleichen (da keine klare Reihenfolge welches Level wie hoch ist).  Der Daystreak fällt aus dem Rahmen weil keine Nummer ist. Unerreichte Achievements sollten versteckt sein. X direkt auf Übersichtsseite in Achievements (wird erwartet). Unerreichte Achievements sollten (on Tap) anzeigen, was ich machen muss um diese zu erreichen.
+
+### Aufgabe 3
+Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.
+
+### Beobachtungen
+Er sieht direkt wieviele Benachrichtigungen er hat und denkt er würde mit Klick auf eine Benachrichtigung direkt in eine Frage hinein springen.
 
 ## Fragebogen - Post Session Interview
 ### Was war positiv?
-* Sehr clean und aufgeräumt
-* kommt mit wenig aus
-* Menü wird als «recht cool» empfunden
+Es wirkt sehr clean und aufgeräumt. Kommt mit wenig aus und dasMenü wird als «recht cool» empfunden.
 
 ### Was war negativ?
-* Teilweise zu wenig
-* Kreise auf Übersicht nicht klar genug
-* Icon von Level/Achievmentseite nicht intuitiv
+Teilweise zu bräuchte es etwas mehr Informationen. Die Kreise auf der Übersicht waren nicht klar genug. Das Icon von Level/Achievments ist nicht intuitiv.
 
 ### Was hat ihnen gefehlt?
-* Module müssem auch löschbar sein
-* Kreis von «international management» ist nicht gleich wie in der Modul übersichtsseite.
-* da das menu nur bei «home» kommt müssen die Kreise nicht nochmals da sein. 
+Module müssen auch löschbar sein. Der Kreis von «International Management» ist nicht gleich wie in der Modul Übersichtsseite. Da das Menu nur bei «Home» kommt müssen die Kreise nicht nochmals da sein. 
 
 ### Was haben Sie für einen Gesamteindruck dieser App?
-* Funktioniert, hätte Lust es einzusetzen
-* Handling intuitiv
-* Kommt schnell auf Fragen
-* Usecase macht Sinn
-
+Funktioniert, hätte Lust es einzusetzen! Das Handling ist intuitiv da man schnell zu den Fragen kommt. Der Usecase macht Sinn.
 
 ### SUS Fragebogen Severin
 1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 &rarr; 3 Punkte
@@ -181,7 +149,7 @@ Wir haben zwei Usecases.
 
 # SUS Summary
 
-Unser UI hat einen hohen Score von 87,5 Punkten erreicht.
+Unser Hi-Fi Prototyp hat einen hohen Score von 87,5 Punkten erreicht.
 
 ## Grösstes Usability-Problem:
 Zusatzinhalte der App, wie Übersicht und Achievements waren nicht intuitiv genug.
