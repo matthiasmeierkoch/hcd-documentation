@@ -51,7 +51,7 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
 ## Erkenntnisse LoFi für HiFi Prototyp
 
 ### Geringes Problem
-* Hinzufügen von Modul durch User -> Hugo Hybrid fügt nur die Module hinzu, die er auch möchte
+* Hinzufügen von Modul durch User &rarr; Hugo Hybrid fügt nur die Module hinzu, die er auch möchte
 * Auswahl aus Pool
 
 ### Ernsthaftes Problem
