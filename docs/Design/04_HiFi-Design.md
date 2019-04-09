@@ -135,17 +135,12 @@ Funktioniert, hätte Lust es einzusetzen! Das Handling ist intuitiv da man schne
 ## Emotional Cards
 
 ### Gewählte Karten
-**Konsistent:** Farkonzept ein Guss, abgerundet, Notifications könnte noch optimiert werden
-
-**Time-saving:** man kommt sehr schnell auf Fragen direkt auf Notification
-
-**Attraktiv:** einfaches Design sehr verständlich
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_sevi.png?raw=true)
 
 ### Zusätzliches Feedback
 * Achievements müsste man nochmals anschauen
 * Gamification hat ihn nicht interessiert, Level waren nicht klar
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_sevi.png?raw=true)
 
 # SUS Summary
 
