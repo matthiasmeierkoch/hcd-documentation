@@ -62,7 +62,8 @@ Der Referent erstellt einen Pool von Fragen zum Schultag. Auf dem Heimweg ersche
 Mit der Innoventa einmal den ganzen Designprozess in nur 90 Minuten durchzuspielen. Es war sehr aufschlussreich und hat in nur kurzer Zeit bereits originelle Lösungen hervorgebracht.
 
 ### Was hat uns keinen Spass gemacht?
-Der Abschnitt vom Mentalen Modell war etwas theorielastig. Zudem waren die Auflockerungsübungen befremdlich.
+Der Abschnitt vom [
+Mentalen Modell](https://www.netnode.ch/blog/mentale-modelle-als-zentrales-konzept-im-bereich-der-usability) war sehr theorielastig. Zudem waren die Auflockerungsübungen etwas befremdlich.
 
 ### Was haben wir gelernt?
 In kurzer Zeit kann man mit verschiedensten Techniken, wie z.B. das Brain Dumping, schnell auf eine brauchbare Lösung kommen.
