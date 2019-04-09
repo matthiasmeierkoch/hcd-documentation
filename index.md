@@ -8,12 +8,12 @@ nav_order: 1
 description: "Human Centered Design Dokumentation"
 ---
 
-# Einleitung in das Modul Human&nbsp;Centered&nbsp;Design&nbsp;(HCD)
-Das ist die Dokumentation des Modul Human Centered Design von den studierenden Pascale Anderegg, Nicole Watrinet, Marc Hatt und Matthias Koch.  
+# Einleitung in das Modul Human&nbsp;Centered&nbsp;Design&nbsp;
+Das ist die Dokumentation des Moduls Human Centered Design von den Studierenden Pascale Anderegg, Nicole Watrinet, Marc Hatt und Matthias Koch.  
 
-Diese Website dokumentiert das Modul Human Centered Design. Das Hauptthema des Faches besteht darin den User, also den Mensch, immer in Mittelpunkt des Design-Prozesses zu stellen.Wir beschäftigen uns mit dem gesamten Ablauf von der Entwicklung eines Produkts. Angefangen von der persönlichen Auseinandersetzung mit dem Thema, Personas und Szenarien erstellen bis zu Konzeption und Gestaltung eines Prototypen. Unsere Notizen zu den gelernten und angewendeten Methoden werden ebenfalls dokumentiert. 
+Diese Website behandelt die Methoden und Herangehensweisen des [Human Centered Designs](https://en.wikipedia.org/wiki/Human-centered_design). Das Hauptthema des Faches besteht darin den User, also den Mensch, immer in Mittelpunkt des Design-Prozesses zu stellen. Wir beschäftigen uns mit dem gesamten Ablauf von der Entwicklung eines Produkts. Angefangen von der persönlichen Auseinandersetzung mit dem Thema, Personas und Szenarien erstellen bis zu Konzeption und Gestaltung eines Prototypen. Unsere Notizen zu den gelernten und angewendeten Methoden werden ebenfalls dokumentiert. 
 
-Die Aufgabe im Modul «Human Centered Design» besteht darin eine digitale Lernplattform zu erarbeiten, welche sich an Studierende an einer Hochschule richten soll. Sie soll eine zentrale Schnittstelle zwischen Bildungsanbieter und der lernenden Person darstellen.
+Die Aufgabe im Modul Human Centered Design besteht darin eine digitale Lernplattform zu erarbeiten, welche sich an Studierende an einer Hochschule richten soll. Sie soll eine zentrale Schnittstelle zwischen Bildungsanbieter und der lernenden Person darstellen.
 
 Sie kann folgende Themen beinhalten:
 * Lerninhalte bereitstellen
