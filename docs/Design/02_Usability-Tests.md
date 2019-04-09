@@ -178,7 +178,7 @@ Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Fa
 ### Beobachtungen
 Der Übersichtscreen war ihr klar, da sie ihn erwartet hat. Sie sieht die 2 offenen Mitteilungen. Sie fragt sich was geklickt werden muss um nur diese Fragen zu repetieren. Sie denkt, dass direkt auf den Benachrichtigungen nur die Fragen kommen, die man repetieren sollte und wenn man auf den Repetieren-Buton klickt, kommt alles was noch offen ist. 
 
-![](https://i.imgur.com/yvSLJga.jpg)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/useability-test-steffi.jpeg?raw=true)
 
 
 ## Fragebogen - Post Session Interview
