@@ -95,12 +95,6 @@ Wer macht fragen bereit? Gibt es einen Login? Inhalt noch etwas mehr gliedern: B
 Man legt Karten mit diversen Adjektiven auf den Tisch aus und Testperson wählt drei Karten. Wichtig ist, was der Tester zu den Karten sagt.
 
 ### Gewählte Karten
-**Clean:** Nicht viel auf einem Screen, dies findet Nils gut.
-
-**Inconsistent:** Closing Element (Feedback) holt neues Element vor, Startscreen hat verwirrt und sieht wie eine Frage aus für ihn.
-
-**Attraktiv:** Hat sehr Potenzial etwas geiles zu machen, mit Design visuell aber auch mit Inhalt da Gamefication.
-
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_nils.png?raw=true)
 
 # Der SUS-Fragebogen
@@ -203,11 +197,6 @@ Der Anfang der Fragen war klar. Man könnte aber noch etwas mehr machen. Sie hä
 ## Emo-Cards
 
 ### Gewählte Karten
-**Easy to use:** der Fragenablauf war einfach.
-
-**Timesaving:** Man macht die Fragen schnell unterwegs im Zug und man hat es erledigt.
-
-**Inconsistent:** Man erwartet mehr als nur Fragen und Übersicht. Über was ist die Übersicht, wie wird sie ausgewertet, wie kann ich zu einer Frage zurück springen?
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_steffi.png?raw=true)
 
 ## SUS Fragebogen Steffi
