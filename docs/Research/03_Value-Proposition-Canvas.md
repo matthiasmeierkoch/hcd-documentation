@@ -110,7 +110,7 @@ Interview Skripts, 3 Personas definiert, daraus aus dem Mittelfeld 1 Persona ers
 * Wie führt man Interviews, richtige Fragen stellen
 * Was kann man daraus schliessen
 * verschiedene Hilfreiche Tools ([
-Persona](https://xtensio.com/user-persona-template-and-examples/?utm_expid=.J8ZXGdqyTw-Zg3WsyWF9yA.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F)und [
+Persona](https://xtensio.com/user-persona-template-and-examples/?utm_expid=.J8ZXGdqyTw-Zg3WsyWF9yA.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F) und [
 User journeys](https://uxpressia.com/p/Qr8zZ/p/YgOOW) erstellen)
 * Wie man das Value Proposition Canvas Prinzip mit Gains, Pains, Jobs anwendet
 {: .mb-6 }
