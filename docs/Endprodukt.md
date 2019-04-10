@@ -35,9 +35,8 @@ Bei der Fontwahl waren wir um einiges konservativer, um das sehr diverse Farbsch
 {: .mb-8 }
 
 ## Icons
-Die Icons und deren Gestaltung sind ganz unserem Gesamtkonzept unterworfen. TBC…
-
-
+Die Icons und deren Gestaltung sind ganz unserem Gesamtkonzept unterworfen. Abgerundete Ecken, möglichst wenig Kanten – die Icons sind stilisiert aber nicht ZU minimalistisch. So versuchen wir Schrift, Formsprache und Farbkonzept in Einklang zu bringen.
+{: .mb-8 }
 
 ## Endpräsentation
 https://docs.google.com/presentation/d/1v9pAsEaABr0mIPf5lBNuAdv2XF_QURejRmAxMGsrhiU/edit#slide=id.g55425726d1_2_168
