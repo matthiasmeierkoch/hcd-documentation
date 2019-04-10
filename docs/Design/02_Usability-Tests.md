@@ -123,11 +123,9 @@ Mithilfe eines einfachen Fragebogens (System Usability Score), der aus insgesamt
 10. Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 1 von 5 &rarr; 4 Punkte
 
 **Punktzahl Total: 31 * 2,5 = 77,5**
-
-
 {: .mb-8 }
-## Zweiter Test
 
+## Zweiter Test
 ### Angaben zur Testperson 2
 <dl>
   <dt>Name</dt>
