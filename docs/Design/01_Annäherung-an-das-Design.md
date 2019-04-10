@@ -16,6 +16,10 @@ nav_order: 1
 # Annäherung an das Design
 Um uns nach unseren Pitches etwas aufzulockern haben wir uns mit Gestaltungsprinzipien beschäftigt. Jede Gruppe erhielt ein Thema, lies sich ein und präsentierte dann dem Rest der Klasse und versuchten die Gesetze zusammen zu fassen. Unser Thema war Simplicity von [John Maeda](https://de.wikipedia.org/wiki/John_Maeda).
 {: .mb-8 }
+
+---
+{: .mb-6 }
+
 ## Simplicity
 Wir haben uns mit den 10 Gesetzen der Einfachheit von John Maeda auseinandergesetzt und auf einem Poster alle 10 Gesetze zusammengefasst und dies unseren Mitstudenten präsentiert. Wir haben dabei eigene Symbole verwendet, die wir als verständlich empfunden haben.
 
@@ -43,6 +47,8 @@ Quelle:
 [Userinterfacedesign](https://userinterfacedesign.ch/user-experience-design-die-gesetze-der-einfachheit/)
 {: .mb-8 }
 
+---
+{: .mb-6 }
 
 ## Usability-Walkthrough
 * 5 Test Personen reichen um 85% der Fehler zu eliminieren. 
@@ -75,6 +81,9 @@ Quelle:
 5. Emotional Response Cards
 6. Auswertung/Befunde
 {: .mb-8 }
+
+---
+{: .mb-6 }
 
 ## Briefing
 Liebe Benutzerin, lieber Benutzer
