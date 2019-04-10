@@ -61,6 +61,9 @@ Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Fa
 Er nimmt an, dass die Benachrichtigungen beim Icon mit der Glocke zu finden sind. Er liest die Benachrichtigungen durch. Er ist sich nicht sicher, ob jetzt nur die 5 Fragen auf der jeweiligen Benachrichtigung zu finden ist oder alle ungelösten. Auf dem Repetieren-Button erwartet er, dass er alle Fragen repetieren muss, also auch diese, die er bereits richtig beantwortet hat.
 {: .mb-8 }
 
+---
+{: .mb-6 }
+
 ## Fragebogen – Post Session Interview
 ### Was war positiv?
 Die Fragestellung war sehr intuitiv.
@@ -88,12 +91,18 @@ Die Icons sollen nicht oben stehen sondern nach unten, da man sie oben schlecht 
 Wer macht fragen bereit? Gibt es einen Login? Inhalt noch etwas mehr gliedern: Bei welchem Dozent habe ich was, wie sind die Module aufgeteilt? Braucht es ein Archiv, das die abgeschlossenen Fächer zeigt?
 {: .mb-8 }
 
+---
+{: .mb-6 }
+
 ## Emo-Cards
 Man legt Karten mit diversen Adjektiven auf den Tisch aus und Testperson wählt drei Karten. Wichtig ist, was der Tester zu den Karten sagt.
 
 ### Gewählte Karten
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_nils.png?raw=true)
 {: .mb-10 }
+
+---
+{: .mb-6 }
 
 # Der SUS-Fragebogen
 Mithilfe eines einfachen Fragebogens (System Usability Score), der aus insgesamt zehn Fragen auf Basis von Likert-Skalen mit je fünf Optionen besteht, kann ermittelt werden, wie nutzerfreundlich eine Software wahrgenommen wird. Der SUS-Fragebogen enthält fünf positiv und fünf negativ formulierte Aussagen zur Usability des zu bewertenden Systems.
@@ -107,6 +116,9 @@ Mithilfe eines einfachen Fragebogens (System Usability Score), der aus insgesamt
 * Alle Punkte zusammenzählen und mit 2,5 multiplizieren, ergibt Punktzahl von 100. Am Schluss bekommt man einen Wert, der keine Prozente angibt. 
 * 60 bis 80 ist grenzwärtig. Wenn man +80 erhält, ist man auf einem guten Weg.
 {: .mb-8 }
+
+---
+{: .mb-6 }
 
 ## SUS-Fragebogen Test 1
 1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 &rarr; 3 Punkte
@@ -136,6 +148,8 @@ Mithilfe eines einfachen Fragebogens (System Usability Score), der aus insgesamt
 **Punktzahl Total: 31 * 2,5 = 77,5**
 {: .mb-8 }
 
+---
+{: .mb-6 }
 
 ## Zweiter Test
 ### Angaben zur Testperson 2
@@ -183,6 +197,9 @@ Der Übersichtscreen war ihr klar, da sie ihn erwartet hat. Sie sieht die 2 offe
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/useability-test-steffi.jpeg?raw=true)
 {: .mb-8 }
 
+---
+{: .mb-6 }
+
 ## Fragebogen - Post Session Interview
 ### Was war positiv?
 Die Fragestellung war sehr intuitiv.
@@ -197,11 +214,17 @@ Eine Übersicht der Fragen wäre spannend. Es wäre spannend die Fragen für die
 Der Anfang der Fragen war klar. Man könnte aber noch etwas mehr machen. Sie hätte erwartet, dass sie noch mehr repetieren kann.
 {: .mb-8 }
 
+---
+{: .mb-6 }
+
 ## Emo-Cards
 
 ### Gewählte Karten
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_steffi.png?raw=true)
 {: .mb-8 }
+
+---
+{: .mb-6 }
 
 ## SUS Fragebogen Steffi
 1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 5 von 5 &rarr; 4 Punkte
@@ -229,6 +252,9 @@ Der Anfang der Fragen war klar. Man könnte aber noch etwas mehr machen. Sie hä
 
 **Punktzahl Total: 33 * 2,5 = 82,5**
 {: .mb-8 }
+
+---
+{: .mb-6 }
 
 ## Befunde nach beiden Tests
 * Menu: Platzierung überdenken, Level im Onboarding erklären
