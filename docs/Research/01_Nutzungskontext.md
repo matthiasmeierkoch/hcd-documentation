@@ -45,6 +45,8 @@ Hier werden einige Methoden beschrieben, die helfen den Nutzungskontext zu verst
 {: .mb-8 }
 
 ---
+{: .mb-6 }
+
 ## Unsere Challenge
 > Wie können wir Studenten helfen, ohne grosse Einstiegshürde den vergangenen Tag zu reflektieren?
 {: .mb-8 }
@@ -58,6 +60,8 @@ Der Referent erstellt einen Pool von Fragen zum Schultag. Auf dem Heimweg ersche
 {: .mb-8 }
 
 ---
+{: .mb-6 }
+
 ## Superlearner-Facts Tag 1
 
 
