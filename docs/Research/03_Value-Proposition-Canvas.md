@@ -97,7 +97,8 @@ Mit der User Journey Map wird das Nutzererlebnis, das ein User **ohne** dem Prod
 ---
 {: .mb-6 }
 
-Superlearner-Facts {: .label .label-green }
+Superlearner-Facts 
+{: .label .label-green }
 
 ## Tag 2
 
