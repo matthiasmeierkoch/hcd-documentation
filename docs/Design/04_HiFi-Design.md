@@ -197,6 +197,38 @@ Zusatzinhalte der App, wie Übersicht und Achievements waren nicht intuitiv genu
 
 * Wenn man sich für ein Modul nicht interessiert kann man es nicht löschen.<br/>
 *Lösung &rarr; Lösch-Button in Modulübersicht hinzufügen.*
+{: .mb-6 }
+
+---
+Superlearner-Facts
+{: .label .label-green }
+
+## Tag 6
+
+
+### Was haben wir gelernt?
+
+{: .mb-6 }
+
+### Was war das Highlight?
+
+{: .mb-6 }
+
+### Fragen?
+
+{: .mb-6 }
+
+### Was war schwierig?
+
+{: .mb-6 }
+
+### Was war das Lowlight?
+
+{: .mb-6 }
+
+
+### Was/wer kann Euch dabei helfen?
+
 {: .mb-8 }
 
 [Zum Endprodukt](https://matthiasmeierkoch.github.io/hcd-documentation/Endprodukt){: .btn .btn-blue }
