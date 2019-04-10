@@ -97,10 +97,9 @@ Mit der User Journey Map wird das Nutzererlebnis, das ein User **ohne** dem Prod
 ---
 {: .mb-6 }
 
-## Superlearner-Facts Tag 2
+Superlearner-Facts {: .label .label-green }
 
-1. März
-{: .mb-6 }
+## Tag 2
 
 ### Artefakte, die wir erstellt und abgegeben haben:
 Interview Skripts, 3 Personas definiert, daraus aus dem Mittelfeld 1 Persona erstellt und uns auf diese fokussiert
