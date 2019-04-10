@@ -186,7 +186,8 @@ Nun skizzieren wir den User Flow als UI-Sketches.
 ---
 {: .mb-6 }
 
-Superlearner-Facts {: .label .label-green }
+Superlearner-Facts 
+{: .label .label-green }
 
 ## Tag 3
 
