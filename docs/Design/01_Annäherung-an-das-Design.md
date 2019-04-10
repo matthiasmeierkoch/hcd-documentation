@@ -91,7 +91,7 @@ Du bekommst eine Push-Notification unserer App, die dich informiert, dass du nun
 Uns ist Ihr Feedback sehr wichtig, damit wir ein möglichst gutes Produkt entwickeln können, deshalb gilt der Vorsatz: Nicht Sie werden getestet, sondern unser Produkt. 
 
 Die Dauer der Befragung beträgt maximal 30 Minuten.
-{: .mb-6 }
+{: .mb-8 }
 
 
 [Zu den Usability-Tests](https://matthiasmeierkoch.github.io/hcd-documentation/Design/Usability-Tests){: .btn .btn-blue }
