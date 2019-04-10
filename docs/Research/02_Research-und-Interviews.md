@@ -11,7 +11,7 @@ nav_order: 2
 
 1. TOC
 {:toc}
-
+{: .mb-8 }
 
 Im nächsten Schritt werden wir zwei Studenten Interviewen um die Benutzer und deren Ziele zu verstehen.
 
@@ -25,10 +25,15 @@ Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essen
 * Keine Fragen zur Zukunft stellen – Diese kann niemand beantworten
 * Einfache, kurze und präzise Fragen
 * Der Kontext ist wichtig – versetze die Person in eine bestimmte Situation
+{: .mb-6 }
 
-## Was wollen wir bei den Interviews herausfinden?
+### Was wollen wir bei den Interviews herausfinden?
 * Haben sie auch Probleme mit Motivation, Zeit und dem Einstieg beim Lernen?
 * Sind unsere Probleme deckungsgleich mit den Problemen der Interviewpersonen?
+{: .mb-8 }
+
+---
+{: .mb-6 }
 
 ## Interview 1: Lars 
 
@@ -37,6 +42,7 @@ Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essen
 
 * Er lernt gegen Ende der Abgabe, intensives Lernen
 * Vorher macht er sich Notizen, dass er alles hat zum Lernen, das nennt er kein «richtiges Lernen», es ist eine Vorarbeit, er hat es im Hinterkopf, Vorbereitung zum Lernen, er sammelt, Zusammenfassung machen
+{: .mb-6 }
 
 ### 2. Wie lernst du?
 * Kommt auf den Unterricht an, bei theorielastig macht er eine Zusammenfassung, da sehr viel Inhalt, normalerweise reichen aber die Slides von Dozenten
@@ -45,11 +51,13 @@ Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essen
 * er lernt besser kurz vor der Abgabe, es fehlt im die Zeit regelmässig zu lernen
 * er vergisst es zu Lernen
 * er lernt einen halben Arbeitstag pro Woche, ist auch verteilt also nicht auf einmal
+{: .mb-6 }
 
 ### 3. Gibt es Hindernisse die dich vom Lernen abhalten?
 * Er wird beeinflusst, abgelenkt
 * Daten wiederfinden, bis man die wieder hat
 * bist aufgeschmissen wenn du keine Notizen gemacht hast, er musste bei Nils schauen oder ob jemand anders eine Zusammenfassung gemacht hat
+{: .mb-6 }
 
 ### 4. Wie festigst du das Gelernte langfristig?
 * er benutzt seine Notizen und hat sonst nicht viel anderes, und Slides 
@@ -62,6 +70,10 @@ Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essen
 * Notiztool
 * er liest Titel, zählt Dinge für sich auf und kontrolliert ob er alles hat
 * qualitativ gute Vorarbeit
+{: .mb-8 }
+
+---
+{: .mb-6 }
 
 ## Interview 2: Marius 
 
@@ -78,10 +90,12 @@ Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essen
 * manchmal lernt er irgendwo mit anderen, es hilft ihm wirklich anfangen zu lernen
 * er druckt viel aus, längerer Text aus Modul zum Beispiel, er will das nicht als Papier da er das verliert 
 * er markiert Dinge darauf, macht eine Zusammenfassung nicht als Text sondern macht Mindmapartige Zusammenfassung von Hand
+{: .mb-6 }
 
 ### 2. Gibt es Hindernisse die dich vom Lernen abhalten?
 * Leute wollen was und er lässt sich da schnell dazu überreden 
 * er lenkt sich selber auch gut ab, er putzt vorher als er lernt
+{: .mb-6 }
 
 ### 3. Wie festigst du das Gelernte langfristig?
 * nur beim praktischen Anwenden
@@ -90,11 +104,16 @@ Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essen
 * das macht er relativ zeitnah
 * er beginnt mit den Sachen zu sichten, und recherchiert auch wenn er nicht alles hat
 * er hätte sich auch schon gewünscht dass er Notizen gemacht hat
+{: .mb-8 }
+
+---
+{: .mb-6 }
 
 ## Erkenntnisse von beiden Interviews
 * Viel gelernt wird erst kurz vor der Prüfung
 * Wir haben zwei Bereiche beim Lernen: eine Vorbereitung und eine intensive Lernphase
 * Je besser die Vorbereitung desto mehr kannst du dich auf das Lernen konzentieren
+{: .mb-8 }
 
 
 [Zu den Value Proposition Canvas](https://matthiasmeierkoch.github.io/hcd-documentation/Research/Value-Proposition-Canvas/){: .btn .btn-blue }
