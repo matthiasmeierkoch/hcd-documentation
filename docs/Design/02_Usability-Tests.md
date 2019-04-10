@@ -68,27 +68,21 @@ Die Fragestellung war sehr intuitiv.
 
 ### Was war negativ?
 Inkonsistenz: Es war nicht klar, dass die Übersicht die Module zeigt. Bei den Fragen ist das Feedback verwirrend.
-{: .mb-6 }
 
 ### Was hat ihnen gefehlt?
 Eine Gruppierung der Module und eine Angabe des Dozenten. Es ist nicht klar wer die Fragen macht.
-{: .mb-6 }
 
 ### Was haben Sie für einen Gesamteindruck dieser App?
 Sie ist aufgeräumt aber Gleiches soll auch Gleiches machen, Unterschiedliches soll sich auch anders verhalten.
-{: .mb-6 }
 
 ### Was hat gefallen?
 Sehr simple und ufgeräumt. Es gibt keine unnötigen Infos und der Usecase ist auf das nötigste reduziert.
-{: .mb-6 }
 
 ### Verbesserungen?
 Modulstatistiken sind noch nicht klar. Es macht keinen Sinn den Level zu verstecken. 
-{: .mb-6 }
 
 ### War das Menu klar?
 Die Icons sollen nicht oben stehen sondern nach unten, da man sie oben schlecht klicken kann und swipen könnte man auch unten. Der Aufbau müsste man ändern wenn icons nach unten kommen. Es sollte mit mehr Ebenen gearbeitet werden und nicht alles versuchen mit swipen zu lösen. 
-{: .mb-6 }
 
 ### Gegenfragen:
 Wer macht fragen bereit? Gibt es einen Login? Inhalt noch etwas mehr gliedern: Bei welchem Dozent habe ich was, wie sind die Module aufgeteilt? Braucht es ein Archiv, das die abgeschlossenen Fächer zeigt?
@@ -96,7 +90,6 @@ Wer macht fragen bereit? Gibt es einen Login? Inhalt noch etwas mehr gliedern: B
 
 ## Emo-Cards
 Man legt Karten mit diversen Adjektiven auf den Tisch aus und Testperson wählt drei Karten. Wichtig ist, was der Tester zu den Karten sagt.
-{: .mb-6 }
 
 ### Gewählte Karten
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_nils.png?raw=true)
@@ -193,15 +186,12 @@ Der Übersichtscreen war ihr klar, da sie ihn erwartet hat. Sie sieht die 2 offe
 ## Fragebogen - Post Session Interview
 ### Was war positiv?
 Die Fragestellung war sehr intuitiv.
-{: .mb-6 }
 
 ### Was war negativ?
 Man kann nicht zurück um nochmals zur letzten Frage zu gehen. Sie hätte etwas mehr erwartet.
-{: .mb-6 }
 
 ### Was hat ihnen gefehlt?
 Eine Übersicht der Fragen wäre spannend. Es wäre spannend die Fragen für die Prüfung nochmals durchgehen zu können und eine Art Fehlerrate angezeigt bekommt.
-{: .mb-6 }
 
 ### Was haben Sie für einen Gesamteindruck dieser App?
 Der Anfang der Fragen war klar. Man könnte aber noch etwas mehr machen. Sie hätte erwartet, dass sie noch mehr repetieren kann.
