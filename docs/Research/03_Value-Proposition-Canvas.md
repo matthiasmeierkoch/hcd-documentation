@@ -20,7 +20,7 @@ content-type: text/html
 Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festgehalten.
 
 
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/lars_vpc.png?raw=true)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/lars_vpc.png?raw=true =10%)
 
 ---
 
