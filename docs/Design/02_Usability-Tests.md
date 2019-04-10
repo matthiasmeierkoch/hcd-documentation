@@ -242,15 +242,21 @@ Der Anfang der Fragen war klar. Man könnte aber noch etwas mehr machen. Sie hä
 ### Verbesserte Screens des LowFi Prototyp
 {: .mb-6 }
 
-Übersichtsscreen angepasst mit «Modul hinzufügen» Button, Levelseite angepasst
+Übersichtsscreen angepasst mit «Modul hinzufügen» Button, Levelseite angepasst:
+{: .mb-4 }
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow_verbesserungen.png?raw=true)
 {: .mb-8 }
 
-Mitteilungen zusammengefasst, Feedback bei Fragen vereinfacht, Modulübersicht Repetierbuttons neu
+Mitteilungen zusammengefasst, Feedback bei Fragen vereinfacht, Modulübersicht Repetierbuttons neu:
+{: .mb-4 }
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow_verbesserungen.png?raw=true)
 {: .mb-8 }
 
-Onboarding mit den wichtigsten 4 Features
+Onboarding mit den wichtigsten 4 Features:
+{: .mb-4 }
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow_verbesserungen.png?raw=true)
 {: .mb-8 }
 
