@@ -102,5 +102,40 @@ Uns ist Ihr Feedback sehr wichtig, damit wir ein möglichst gutes Produkt entwic
 Die Dauer der Befragung beträgt maximal 30 Minuten.
 {: .mb-8 }
 
+---
+{: .mb-6 }
+
+Superlearner-Facts
+{: .label .label-green }
+
+## Tag 4
+
+
+### Was haben wir gelernt?
+Wie bereitet man sich optimal auf Useability Tests vor. Es gibt viele Punkte die man beachten muss um ein hilfreiches Interview zu führen. Sehr wichtig ist, dass man der Testperson immer Gegenfragen stellt und so sie selbst überlegen lässt.
+{: .mb-6 }
+
+### Was war das Highlight?
+
+{: .mb-6 }
+
+### Fragen?
+
+{: .mb-6 }
+
+### Was war schwierig?
+
+{: .mb-6 }
+
+### Was war das Lowlight?
+
+{: .mb-6 }
+
+
+### Was/wer kann Euch dabei helfen?
+
+{: .mb-8 }
+
+
 
 [Zu den Usability-Tests](https://matthiasmeierkoch.github.io/hcd-documentation/Design/Usability-Tests){: .btn .btn-blue }
