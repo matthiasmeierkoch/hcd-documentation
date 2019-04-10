@@ -14,8 +14,9 @@ nav_order: 2
 {: .mb-8 }
 
 # Usability Tests
-## Erster Test
-Die ersten beiden Tests werden mit dem Low-Fi Prototyp durchgeführt. Das visuelle Erscheinungbild ist hier noch nicht relevant.
+## Erster Usability Walkthrough
+Die ersten beiden Tests werden mit dem Low-Fi Prototyp durchgeführt. Das visuelle Erscheinungbild ist hier noch nicht relevant. Die Person liest sich zuerst das Briefing durch und wir führen sie danach durch unsere vorbereiteten Aufgaben. Im ersten Testing haben wir die Person bzw. die Benutzung des Prototypen gefilmt, um zusätzliche Beobachtungen festzuhalten. Für die Dokumentation haben wir das Video auf relevante Sequenzen geschnitten.
+Vimeo Link
 {: .mb-6 }
 
 ### Angaben zur Testperson 1
@@ -151,7 +152,7 @@ Mithilfe eines einfachen Fragebogens (System Usability Score), der aus insgesamt
 ---
 {: .mb-6 }
 
-## Zweiter Test
+## Zweiter Usability Walkthrough
 ### Angaben zur Testperson 2
 <dl>
   <dt>Name</dt>
