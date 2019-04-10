@@ -61,7 +61,8 @@ Der Referent erstellt einen Pool von Fragen zum Schultag. Auf dem Heimweg ersche
 
 ---
 {: .mb-6 }
-
+Superlearner-Facts
+{: .label .label-green }
 ## Superlearner-Facts Tag 1
 
 
