@@ -285,6 +285,37 @@ Onboarding mit den wichtigsten 4 Features:
 {: .mb-4 }
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow_verbesserungen.png?raw=true)
+{: .mb-6 }
+
+---
+Superlearner-Facts
+{: .label .label-green }
+
+## Tag 5
+
+### Was haben wir gelernt?
+
+{: .mb-6 }
+
+### Was war das Highlight?
+
+{: .mb-6 }
+
+### Fragen?
+
+{: .mb-6 }
+
+### Was war schwierig?
+
+{: .mb-6 }
+
+### Was war das Lowlight?
+
+{: .mb-6 }
+
+
+### Was/wer kann Euch dabei helfen?
+
 {: .mb-8 }
 
 [Zum HiFi-Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/HiFi-Design){: .btn .btn-blue }
