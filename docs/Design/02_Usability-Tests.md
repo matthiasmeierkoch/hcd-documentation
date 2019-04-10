@@ -240,14 +240,18 @@ Der Anfang der Fragen war klar. Man könnte aber noch etwas mehr machen. Sie hä
 {: .mb-6 }
 
 ### Verbesserte Screens des LowFi Prototyp
+{: .mb-6 }
+
 Übersichtsscreen angepasst mit «Modul hinzufügen» Button, Levelseite angepasst
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow_verbesserungen.png?raw=true)
+{: .mb-8 }
 
 Mitteilungen zusammengefasst, Feedback bei Fragen vereinfacht, Modulübersicht Repetierbuttons neu
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow_verbesserungen.png?raw=true)
+{: .mb-8 }
 
 Onboarding mit den wichtigsten 4 Features
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow_verbesserungen.png?raw=true)
-{: .mb-6 }
+{: .mb-8 }
 
 [Zum HiFi-Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/HiFi-Design){: .btn .btn-blue }
