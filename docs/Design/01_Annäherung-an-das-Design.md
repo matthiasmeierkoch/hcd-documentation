@@ -14,7 +14,7 @@ nav_order: 1
 
 # Annäherung an das Design
 Um uns nach unseren Pitches etwas aufzulockern haben wir uns mit Gestaltungsprinzipien beschäftigt. Jede Gruppe erhielt ein Thema, lies sich ein und präsentierte dann dem Rest der Klasse und versuchten die Gesetze zusammen zu fassen. Unser Thema war Simplicity von [John Maeda](https://de.wikipedia.org/wiki/John_Maeda).
-
+{: .mb-8 }
 ## Simplicity
 Wir haben uns mit den 10 Gesetzen der Einfachheit von John Maeda auseinandergesetzt und auf einem Poster alle 10 Gesetze zusammengefasst und dies unseren Mitstudenten präsentiert. Wir haben dabei eigene Symbole verwendet, die wir als verständlich empfunden haben.
 
@@ -40,7 +40,7 @@ Wir haben uns mit den 10 Gesetzen der Einfachheit von John Maeda auseinandergese
 
 Quelle: 
 [Userinterfacedesign](https://userinterfacedesign.ch/user-experience-design-die-gesetze-der-einfachheit/)
-{: .mb-6 }
+{: .mb-8 }
 
 
 ## Usability-Walkthrough
@@ -54,18 +54,18 @@ Quelle:
 * Der Tester soll laut denken.
 * Ihn bitten ehrlich zu sein. Es ist ein Test über das Produkt nicht über ihn selber. 
 * Falls etwas aufgenommen wird, dies der Testperson mitteilen.
-{: .mb-4 }
+{: .mb-6 }
 ### Die 4(5) Grundfragen
 1. Was sehen Sie hier?
 2. Was tun Sie als nächstes?
 3. Was erwarten Sie was passiert?
 4. Ist das passiert, was Sie erwartet haben?
 5. Ist das gut oder schlecht?
-{: .mb-4 }
+{: .mb-6 }
 ### Testreport
 * Rating in 5 Schritten
 * Wünsche und Anregungen miteinbringen
-{: .mb-4 }
+{: .mb-6 }
 ### Vorgehen Testing
 1. Aufgaben & Leitfaden erstellen
 2. Briefing: Vorstellung Testleiter und Vorgehen
@@ -73,16 +73,16 @@ Quelle:
 4. Postsession: Interview in eigenen Worten
 5. Emotional Response Cards
 6. Auswertung/Befunde
-{: .mb-6 }
+{: .mb-8 }
 
 ## Briefing
 Liebe Benutzerin, lieber Benutzer
 
 Du bist ein Student an einer Hochschule und nimmst täglich an Vorlesungen und Workshops teil. Als Teil deines Lernplans ist es sinnvoll, täglich deinen Tag zu repetieren. Um das zu vereinfachen bist du Benutzer unserer App.
-{: .mb-4 }
+{: .mb-6 }
 ### Was du alles machst
 Du bist fünf Mal die Woche an der Uni und bist täglich damit beschäftigt an Vorlesungen Teil zu nehmen und deine Unterlagen für die Prüfungen zusammen zu stellen. Der Uni-Alltag ist besonders in den Prüfungs-Phasen relativ stressig und fordert viel – bei der Vorbereitung auf diese Zeit soll unsere App möglichst zeitsparend helfen.
-{: .mb-4 }
+{: .mb-6 }
 ### Wie das geht
 Am Ende deines anstrengenden Uni-Tages machst du dich auf den Heimweg. Nehmen wir an du bist im Zug und bist gerade am Handy.
 Du bekommst eine Push-Notification unserer App, die dich informiert, dass du nun 5 Fragen zu deinem Schultag beantworten kannst. Du klickst dich durch die 5 Fragen und erhälst nach jeder Frage direkt Feedback ob sie stimmt oder nicht. Wenn du alle Fragen beantwortet hast kommst du auf eine Übersicht, die den Fortschritt in deinem Fach zeigt. Motiviert dabei wirst du sowohl dadurch, dass du so stetig dein Fachwissen ohne grossen Aufwand vergrössern und festigen kannst, aber auch durch ein internes Achievement und Level-System, mit dem du deinen Fortschritt verfolgen kannst.
@@ -90,7 +90,7 @@ Du bekommst eine Push-Notification unserer App, die dich informiert, dass du nun
 Uns ist Ihr Feedback sehr wichtig, damit wir ein möglichst gutes Produkt entwickeln können, deshalb gilt der Vorsatz: Nicht Sie werden getestet, sondern unser Produkt. 
 
 Die Dauer der Befragung beträgt maximal 30 Minuten.
-{: .mb-4 }
+{: .mb-6 }
 
 
 [Zu den Usability-Tests](https://matthiasmeierkoch.github.io/hcd-documentation/Design/Usability-Tests){: .btn .btn-blue }
