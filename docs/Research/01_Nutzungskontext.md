@@ -65,6 +65,9 @@ Der Referent erstellt einen Pool von Fragen zum Schultag. Auf dem Heimweg ersche
 Superlearner-Facts
 {: .label .label-green }
 
+## Tag 1
+
+
 ### Was hat uns Spass gemacht?
 Mit der Innoventa einmal den ganzen Designprozess in nur 90 Minuten durchzuspielen. Es war sehr aufschlussreich und hat in nur kurzer Zeit bereits originelle Lösungen hervorgebracht.
 {: .mb-6 }
