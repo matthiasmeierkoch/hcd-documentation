@@ -186,10 +186,9 @@ Nun skizzieren wir den User Flow als UI-Sketches.
 ---
 {: .mb-6 }
 
-## Superlearner-Facts Tag 3
+Superlearner-Facts {: .label .label-green }
 
-8. März 2019
-{: .mb-6 }
+## Tag 3
 
 ### Artefakte, die wir erstellt und abgegeben haben:
 Storyboard und User Story Map, User Flow als UI Sketch.
