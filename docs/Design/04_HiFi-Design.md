@@ -17,6 +17,9 @@ nav_order: 3
 Bevor man mit einem HiFi-Prototypen anfängt sollte nab den LoFi-Prototypen fertigsteollen. Es kann aber helfen, wichtige Screens die schon final sind, parallel schonmal im HiFi-Design aufzubauen.
 Ein HiFi-Prototyp eignet sich vorallem in der Kommunikation mit dem Kunden, um mit ihm zu diesem Zeitpunkt über Visual Design zu sprechen. Im LoFi-Prototyp sollten solche Diskussionen aber vermieden werden.
 Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfeld abgeklärt werden – während des Prozesses ist es sinnvoll in kurzen Abständen Feedback einzuholen.
+{: .mb-8 }
+
+---
 {: .mb-6 }
 
 ## Namensfindung
@@ -30,6 +33,9 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
 * bocado = Häppchen auf Spanisch
 
 *bocado it is!*
+{: .mb-8 }
+
+---
 {: .mb-6 }
 
 ## Designsysteme
@@ -40,6 +46,9 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
 * Die wichtigsten Aktionen sind im Fokus
 * Progressbars haben eine gute Userführung
 * Kachelsystem wirkt aufgeräumt und responsive
+{: .mb-8 }
+
+---
 {: .mb-6 }
 
 ## Prototypen
@@ -49,6 +58,9 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
 
 [Hi-Fi](https://https://www.figma.com/file/GN1f3SvmzTkia4DAZaBix0/Protoyp-HIFI-%C2%ABfirst-steps%C2%BB?node-id=0%3A1)
 {: .mb-8 }
+
+---
+{: .mb-6 }
 
 ## Erkenntnisse LoFi für HiFi Prototyp
 
@@ -66,6 +78,9 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
 ### Kritisches Problem
 * Zu viele Farben als Feedback bei Fragen
 {: .mb-8 }
+
+---
+{: .mb-6 }
 
 ## Dritter Test
 
@@ -105,6 +120,9 @@ Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Fa
 Er sieht direkt wieviele Benachrichtigungen er hat und denkt er würde mit Klick auf eine Benachrichtigung direkt in eine Frage hinein springen.
 {: .mb-8 }
 
+---
+{: .mb-6 }
+
 ## Fragebogen - Post Session Interview
 ### Was war positiv?
 Es wirkt sehr clean und aufgeräumt. Kommt mit wenig aus und dasMenü wird als «recht cool» empfunden.
@@ -117,6 +135,9 @@ Module müssen auch löschbar sein. Der Kreis von «International Management» i
 
 ### Was haben Sie für einen Gesamteindruck dieser App?
 Funktioniert, hätte Lust es einzusetzen! Das Handling ist intuitiv da man schnell zu den Fragen kommt. Der Usecase macht Sinn.
+{: .mb-8 }
+
+---
 {: .mb-6 }
 
 ### SUS Fragebogen Severin
@@ -143,6 +164,9 @@ Funktioniert, hätte Lust es einzusetzen! Das Handling ist intuitiv da man schne
 **Punktzahl Total: 35 * 2,5 = 87,5**
 {: .mb-8 }
 
+---
+{: .mb-6 }
+
 ## Emotional Cards
 
 ### Gewählte Karten
@@ -152,6 +176,9 @@ Funktioniert, hätte Lust es einzusetzen! Das Handling ist intuitiv da man schne
 * Achievements müsste man nochmals anschauen
 * Gamification hat ihn nicht interessiert, Level waren nicht klar
 {: .mb-10 }
+
+---
+{: .mb-6 }
 
 # SUS Summary
 Unser Hi-Fi Prototyp hat einen hohen Score von 87,5 Punkten erreicht.
