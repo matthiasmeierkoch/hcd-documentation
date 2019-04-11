@@ -216,7 +216,6 @@ Dies kann man sich in Form eines Elevator-Pitches vorstellen, wo man sein Gegen√
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/20190308_154143.jpg?raw=true)
 
 
-[Pr√§sentation Konzept](https://docs.google.com/presentation/d/1Z27C7svCpQ46vJJlRZI5qNWAdbWY-xTMg3-I1RbKSMY/edit?usp=sharing)
 {: .mb-8 }
 
 
