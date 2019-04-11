@@ -10,7 +10,7 @@ nav_order: 4
 {: .mb-8 }
 
 ## Homescreen
-![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/Rotato-Snapshot6_low.png?raw=true)
+![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/Rotato-Snapshot6_low1.png?raw=true)
 {: .mb-8 }
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/Rotato-Snapshot7_low.png?raw=true)
