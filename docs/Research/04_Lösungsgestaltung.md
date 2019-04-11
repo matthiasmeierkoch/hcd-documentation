@@ -24,11 +24,11 @@ What, How, Why Circles.
 {: .mb-6 }
 
 ## Unsere Vision
-> _In einer etwas abstrakteren Art haben wir versucht auf Grund von unserer Challenge eine Vision in Form eines kurzen Tweets zu formulieren. Wichtig dabei war, dass der Text neugierig macht._
+In einer etwas abstrakteren Art haben wir versucht auf Grund von unserer Challenge eine Vision in Form eines kurzen Tweets zu formulieren. Wichtig dabei war, dass der Text neugierig macht.
 {: .mb-6 }
 
 ### «Wie Tapas zum Lernen»
-Wir glauben dass der Schlüssel zum erfolgreichen Lernen in der Vorbereitung liegt welche wir dir häpchenweise servieren.
+> _Wir glauben dass der Schlüssel zum erfolgreichen Lernen in der Vorbereitung liegt welche wir dir häpchenweise servieren._
 {: .fs-6 }
 {: .mb-8 }
 
