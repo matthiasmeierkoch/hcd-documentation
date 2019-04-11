@@ -13,17 +13,17 @@ nav_order: 2
 {:toc}
 {: .mb-8 }
 
-Im nächsten Schritt werden wir zwei Studenten Interviewen um die Benutzer und deren Ziele zu verstehen.
+Im nächsten Schritt werden wir zwei Studenten Interviewen, um die Benutzer und deren Ziele zu verstehen.
 
 ## Interview-Tipps
 Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essentielle Tipps notiert.
 * Nicht mit der eigenen Meinung beeinflussen
-* Nicht forcieren, auf die Antwort warten
+* Nicht forcieren, sondern auf die Antwort warten
 * Show don't tell ist immer besser
 * Möglichst darauf achten, dass sich der Interviewte wohl fühlt
 * Tiefe der Fragen ist wichtiger als die Menge
 * Keine Fragen zur Zukunft stellen – Diese kann niemand beantworten
-* Einfache, kurze und präzise Fragen
+* Einfache, kurze und präzise Fragen stellen
 * Der Kontext ist wichtig – versetze die Person in eine bestimmte Situation
 {: .mb-6 }
 
@@ -45,8 +45,8 @@ Um im nächsten Schritt Interviews durchführen zu können, haben wir hier essen
 {: .mb-6 }
 
 ### 2. Wie lernst du?
-* Kommt auf den Unterricht an, bei theorielastig macht er eine Zusammenfassung, da sehr viel Inhalt, normalerweise reichen aber die Slides von Dozenten
-* Für Zusammenfassungen macht er sich mehr Gedanken.
+* Kommt auf den Unterricht an, wenn theorielastig, macht er eine Zusammenfassung, da sehr viel Inhalt, normalerweise reichen aber die Slides von Dozenten
+* Für Zusammenfassungen macht er sich mehr Gedanken
 * bei theorielastigen Modulen hat es sich bewährt sonst ist es eher ein Schaffen als ein lernen
 * er lernt besser kurz vor der Abgabe, es fehlt im die Zeit regelmässig zu lernen
 * er vergisst es zu Lernen
