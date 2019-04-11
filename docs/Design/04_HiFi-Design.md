@@ -229,7 +229,7 @@ Wir hätten gerne nochmals etwas mehr Zeit gehabt, um die Testergebnisse zu anal
 
 ---
 ## Endpräsentation
-Am 6. Tag war es so weit und wir hielten unsere [Schlusspräsentation](https://docs.google.com/presentation/d/1v9pAsEaABr0mIPf5lBNuAdv2XF_QURejRmAxMGsrhiU/edit#slide=id.p). Nach den 25 Minuten präsentieren, haben wir von den beiden Dozenten ein gutes Feedback erhalten, welches wir gerne so mitnehmen.
+Am 6. Tag war es so weit und wir hielten unsere [Schlusspräsentation](https://docs.google.com/presentation/d/1v9pAsEaABr0mIPf5lBNuAdv2XF_QURejRmAxMGsrhiU/edit#slide=id.p). Nach den knappen 20 Minuten präsentieren, haben wir von den beiden Dozenten ein gutes Feedback erhalten, welches wir gerne so mitnehmen.
 {: .mb-6 }
 
 ### Präsentation Feedback
