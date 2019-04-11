@@ -15,20 +15,13 @@ nav_order: 4
 
 # Lösungsgestaltung
 
-## Start with why
-Wieso kaufen Menschen ein Produkt? Nicht was man macht ist zentral sondern wieso man es macht. 
-What, How, Why Circles.
-{: .mb-8 }
-
----
-{: .mb-6 }
 
 ## Unsere Vision
 In einer etwas abstrakteren Art haben wir versucht auf Grund von unserer Challenge eine Vision in Form eines kurzen Tweets zu formulieren. Wichtig dabei war, dass der Text neugierig macht.
 {: .mb-6 }
 
-### «Wie Tapas zum Lernen»
-> _Wir glauben dass der Schlüssel zum erfolgreichen Lernen in der Vorbereitung liegt welche wir dir häpchenweise servieren._
+### _«Wie Tapas zum Lernen»
+Wir glauben dass der Schlüssel zum erfolgreichen Lernen in der Vorbereitung liegt welche wir dir häpchenweise servieren._
 {: .fs-6 }
 {: .mb-8 }
 
@@ -36,15 +29,10 @@ In einer etwas abstrakteren Art haben wir versucht auf Grund von unserer Challen
 {: .mb-6 }
 
 ## Kreativität
-«It's not that I'm so smart, it's just that I stay with the problems longer.» Albert Einstein
-Originelle Ideen enstehen weg von bekannten Denkmustern.
-{: .mb-8 }
-
----
+_«It's not that I'm so smart, it's just that I stay with the problems longer.» [Albert Einstein](https://de.wikipedia.org/wiki/Albert_Einstein)_
 {: .mb-6 }
 
-## Kreativitätsmethoden
-In einem Postenlauf führen wir 3 verschiedene Kreativitätstechniken durch, um auf originelle Ideen zu kommen. Zuerst definieren wir ein aktuelles Problem aus der User Journey Map und die dazugehörende Challenge.
+Originelle Ideen enstehen weg von bekannten Denkmustern. Mit diesem Input sind wir in einen Postenlauf eingestiegen, indem wir 3 verschiedene Kreativitätstechniken durchführen, um auf andere Ideen zu kommen. Zuerst definieren wir ein aktuelles Problem aus der User Journey Map und die dazugehörende Challenge.
 {: .mb-6 }
 
 ### Problem:
@@ -72,8 +60,8 @@ In der Worstcase Technik haben wir umgedacht und aufgeschrieben, was alles schie
 
 Dann haben wir ein Worstcase Szenario genommen und dieses umgedreht und dann geschaut, was alles Möglichkeiten wären, dass das positive Szenario erfüllt wird: 
 Der User kann die Aufgaben lösen weil die Qualität der Unterlagen gut ist. 
-* gutes Onboarding
-* richtiger Zeitpunkt
+* Gutes Onboarding
+* Richtiger Zeitpunkt
 * Beispiele
 * Step by Step
 * Hilfe
@@ -154,7 +142,7 @@ Das sind die Aufgaben, die aus Benutzersicht zu erledigen sind. Daraus entstehen
 * Reflektion
 * Reward erhalten
 * Lernen und Cüpli trinken
-* bestandene Prüfung feiern
+* Bestandene Prüfung feiern
 {: .mb-6 }
 
 ### Tasks & Epics
@@ -164,12 +152,14 @@ Diese werden mit Nomen und Verb gebildet:
 * Pushnotification erhalten und lesen
 * Aufgaben lösen
 * Reward erhalten
+{: .mb-6 }
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/atwork.jpg?raw=true)
 {: .mb-6 }
 
 ### User Stories
 User Stories werden nach folgendem Muster erstellt: Als User will ich... sodass ich..
+{: .mb-6 }
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/postits.jpg?raw=true)
 {: .mb-8 }
@@ -232,4 +222,4 @@ Dies kann man sich in Form eines Elevator-Pitches vorstellen, wo man sein Gegen�
 
 
 
-[Zu dem Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/){: .btn .btn-blue }
+[Zum Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/){: .btn .btn-blue }
