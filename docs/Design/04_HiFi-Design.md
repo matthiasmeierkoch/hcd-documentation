@@ -198,8 +198,9 @@ Zusatzinhalte der App, wie Übersicht und Achievements waren nicht intuitiv genu
 * Wenn man sich für ein Modul nicht interessiert kann man es nicht löschen.<br/>
 *Lösung &rarr; Lösch-Button in Modulübersicht hinzufügen.*
 {: .mb-6 }
-
 ---
+
+
 Superlearner-Facts
 {: .label .label-green }
 
@@ -230,5 +231,20 @@ Die beiden vorherigen Interviews haben uns weiter gebracht. Beim letzten Intervi
 ### Was/wer kann Euch dabei helfen?
 
 {: .mb-8 }
+
+## Endpräsentation
+https://docs.google.com/presentation/d/1v9pAsEaABr0mIPf5lBNuAdv2XF_QURejRmAxMGsrhiU/edit#slide=id.g55425726d1_2_168
+{: .mb-6 }
+
+### Präsentation Feedback:
+* Alle Benutzergruppen erwähnen: Lehrerseite der Plattform kurz anskizzieren
+* Learnings vom Modul
+* Mehr verbindung zu Bocado ( häppchenweise ) es wäre schön gewesen wenn beim wording mehr darauf eingegangen wurde
+* mehr Enthusiasmus beim präsentieren
+* Farben der Module wurden als Signalfarben verstanden
+* Positiv war dass wir Challenge und Vision miteinbezogen haben
+* Vision war schon zu sehr als Lösung formuliert
+{: .mb-8 }
+
 
 [Zum Endprodukt](https://matthiasmeierkoch.github.io/hcd-documentation/Endprodukt){: .btn .btn-blue }
