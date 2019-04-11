@@ -13,8 +13,9 @@ Das ist die Dokumentation des Moduls Human Centered Design von den Studierenden 
 {: .fs-6 }
 
 Diese Website behandelt die Methoden und Herangehensweisen des [Human Centered Designs (HCD)](https://en.wikipedia.org/wiki/Human-centered_design). Das Hauptthema des Faches besteht darin, den User immer in den Mittelpunkt des Design-Prozesses zu stellen. Wir beschäftigen uns mit dem gesamten Ablauf – von der Entwicklung bis zur Umsetzung eines Produktes. Angefangen bei der persönlichen Auseinandersetzung mit dem Thema, [Personas](https://www.usability.de/leistungen/methoden/personas.html) und Szenarien erstellen bis zur Konzeption und Hi-Fi Gestaltung eines Prototypen. Unsere Notizen zu den gelernten und angewendeten Methoden werden ebenfalls dokumentiert. 
-{: .fs-6 }
 {: .mb-8 }
+
+---
 
 ## Aufgabenbeschrieb
 Die Aufgabe im Modul Human Centered Design besteht darin, eine digitale Lernplattform zu erarbeiten, welche sich an Studierende einer Hochschule richten soll. Sie soll eine zentrale Schnittstelle zwischen Bildungsanbieter und der lernenden Person darstellen.
