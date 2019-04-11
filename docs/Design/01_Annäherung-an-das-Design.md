@@ -14,7 +14,7 @@ nav_order: 1
 {: .mb-8 }
 
 # Annäherung an das Design
-Um uns nach unseren Pitches etwas aufzulockern haben wir uns mit Gestaltungsprinzipien beschäftigt. Jede Gruppe erhielt ein Thema, lies sich ein und präsentierte dann dem Rest der Klasse und versuchten die Gesetze zusammen zu fassen. Unser Thema war Simplicity von [John Maeda](https://de.wikipedia.org/wiki/John_Maeda).
+Um uns nach unseren Pitches etwas aufzulockern haben wir uns mit Gestaltungsprinzipien beschäftigt. Jede Gruppe erhielt ein Thema, studierte es und präsentierte es dann dem Rest der Klasse. Unser Thema war Simplicity von [John Maeda](https://de.wikipedia.org/wiki/John_Maeda).
 {: .mb-8 }
 
 ---
@@ -37,9 +37,9 @@ Wir haben uns mit den 10 Gesetzen der Einfachheit von John Maeda auseinandergese
 9. **Fehlschläge.** Manche Dinge können nicht einfach gemacht werden.
 10. **Das Eine.** Einfachheit entsteht durch Fortlassen des Offensichtlichen und dem Hinzufügen von Wichtigem und Bedeutungshaftem. Definiert in 3 Schlüsselwörtern:
 
-**Entfernt (away):** Mehr sieht nach weniger aus, wenn dies weit entfernt wird. Am Beispiel Google wird hier der Paradigmenwechsel hin zur Implementierung von Software als Service angeführt.
+**Entfernt (away):** Mehr sieht nach weniger aus, wenn dies weit entfernt wird.
 
-**Offen (open):** Offenheit vereinfacht Komplexität. Dieses Prinzip verdeutlicht Maeda am Beispiel Linux (Open Source) und andererseits in offenen Schnittstellen (beispielsweise Amazon-API).
+**Offen (open):** Offenheit vereinfacht Komplexität. 
 
 **Energie (power)**: Verwende weniger, erreiche mehr.
 
@@ -51,17 +51,10 @@ Quelle:
 {: .mb-6 }
 
 ## Usability-Walkthrough
-* 5 Test Personen reichen um 85% der Fehler zu eliminieren. 
-* Alles wird neu sein aber danach sind Patterns ersichtlich.
-* Nach dem Test mit 5 Personen geht man zurück und optimiert die Usability. Mit den Erkenntnissen und dem verbessertem Produkt macht man nochmals einen Test (Iteration) mit 5 Testpersonen. 
-* Es ist besser in kleinen Interationen zu testen.
-* Es braucht eine Belohnung für das Testen des Produktes.
-* Wir sind zu nah am Produkt und brauchen Testpersonen.
-* Der Testperson keine Antwort geben sondern eine Gegenfragen stellen.
-* Der Tester soll laut denken.
-* Ihn bitten ehrlich zu sein. Es ist ein Test über das Produkt nicht über ihn selber. 
-* Falls etwas aufgenommen wird, dies der Testperson mitteilen.
+Füng Testpersonen reichen um 85% der Fehler zu eliminieren. Ein bis drei Beobachter die auch alles notieren ist wichtig. Anfangs wird alles neu sein aber später ergeben sich Patterns mit denen man arbeiten kann. Nach den fünf Probanden geht man zurück und optimiert die Useability. Mit den Erkenntnissen und dem verbessertem Produkt macht man nochmals einen Test (Iteration) mit fünf Testpersonen. Dies weil es besser ist in kleinen Iterationen zu testen. Denn ab einer gewissen Menge an Leute erhält man keine neuen Erkenntnisse. Die Feedbacks werden irgendwann sehr ähnlich sein. Zusätzlich sollte man nicht vergessen den Probanden ein kleines Dankeschön für den Einsatz zu geben. 
+Testpersonen sind sehr wichtig, da wir als Designer zu nahe am Produkt sind und es für uns sowiso verständlich und logisch ist. Wichtig ist es der Testperson keine Antwort zu geben sondern immer eine Gegenfrage zu stellen. Der Tester soll auch die ganze Zeit laut denken, so können wir am besten verstehen was vor sich geht. Den Tester anfangs auch bitten ehrlich zu sein. Wir testen das Produkt und nicht die Person selber. Falls man Aufnahmen machen möchte umbedingt die Testperson zuerst fragen!
 {: .mb-6 }
+
 ### Die 4(5) Grundfragen
 1. Was sehen Sie hier?
 2. Was tun Sie als nächstes?
@@ -69,10 +62,12 @@ Quelle:
 4. Ist das passiert, was Sie erwartet haben?
 5. Ist das gut oder schlecht?
 {: .mb-6 }
+
 ### Testreport
 * Rating in 5 Schritten
 * Wünsche und Anregungen miteinbringen
 {: .mb-6 }
+
 ### Vorgehen Testing
 1. Aufgaben & Leitfaden erstellen
 2. Briefing: Vorstellung Testleiter und Vorgehen
@@ -124,7 +119,7 @@ Wie bereitet man sich optimal auf Useability Tests vor. Es gibt viele Punkte die
 {: .mb-6 }
 
 ### Was war schwierig?
-
+Eine der Gestaltungsprinzipien in unseren Worten der Klasse präsentieren. Auch wenn es etwas ist was die meisten von uns bereits kennen ist es nicht leicht dies verständlich zu erklären in diesere kurzen Zeit. 
 {: .mb-6 }
 
 ### Was war das Lowlight?
