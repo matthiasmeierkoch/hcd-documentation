@@ -15,11 +15,12 @@ nav_order: 1
 
 
 # Nutzungskontext
-## Mindmap Lernplattform
+## Einstieg ins Thema lernen
 Um uns in der Gruppe intensiver mit dem Thema «Lernen» und der Aufgabe zu beschäftigen, haben wir uns für die Methode «Mindmap» entschieden und unsere Perspektive dazu auf einem Plakat festgehalten. Farblich wurden Begriffe nach Must, Should, Could und Won't unterteilt.
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/mindmap.jpg?raw=true)
 {: .mb-8 }
+---
 
 
 ## Methoden 
