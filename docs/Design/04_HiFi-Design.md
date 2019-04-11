@@ -23,16 +23,20 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
 {: .mb-6 }
 
 ## Namensfindung
+Lange hatten wir den Arbeitstitel «first steps» für unser Produkt. Während des Prozesses gefiel er uns allerdings immer weniger und wir entschieden uns dazu, für das Produkt einen neuen Namen zu wählen. Dies passierte jedoch erst in der Hi-Fi-Design-Phase. 
+
+Hier einige Namensideen, welche uns passend erschienen:
 * mirrorme
 * circles
 * easysteps
-* first steps
 * reflect
 * progress
 * closedcircles
-* bocado = Häppchen auf Spanisch
+* bocado
 
 *bocado it is!*
+Entschieden haben wir uns für «bocado», was Häppchen auf Spanisch bedeutet. Dies ist perfekt, da es unsere Vision widerspiegelt, den User häppchenweise mit Fragen zu bedienen. 
+
 {: .mb-8 }
 
 ---
