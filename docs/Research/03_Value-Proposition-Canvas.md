@@ -17,7 +17,7 @@ content-type: text/html
 
 
 # Value Proposition Canvas  
-Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festgehalten.
+Mit dem [Value Propositin Canvas](https://ut11.net/de/blog/der-value-proposition-canvas/) betrachtet man die Zielgruppe systematisch und kann zielgerichtet auf Probleme und Bedürfnisse eingehen. Wir haben die Pains, Gains und Jobs der Interviewes sowie von uns festgehalten.
 
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/lars_vpc.png?raw=true =100)
@@ -48,7 +48,7 @@ Mit dem VPC wurden die Pains Gains und Jobs der Interviewes sowie von uns festge
 
 
 ## Cluster bilden
-Nun werden wir Benutzergruppen bilden, welche sich aus den Beobachtungen ergeben haben. Auch hier werden wir die Pains, Gains und Jobs in der VPC festhalten.
+Nun werden wir Benutzergruppen bilden, welche sich aus den Beobachtungen ergeben haben. Diesen vergeben wir Namen, sodass wir sie besser fassen können. Auch hier werden wir die Pains, Gains und Jobs in der VPC festhalten.
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/peterpressure_vpc.png?raw=true)
 
@@ -64,8 +64,8 @@ Nun werden wir Benutzergruppen bilden, welche sich aus den Beobachtungen ergeben
 ---
 {: .mb-6 }
 
-## Unsere Persona: Hugo Hybrid
-Wir haben uns dazu entschieden, die Benutzergruppe «Hugo Hybrid» zu priorisieren, da er die für unsere Challenge die wichtigsten Painpoints trifft.
+## Die Persona
+Wir haben uns dazu entschieden, die Benutzergruppe «Hugo Hybrid» zu priorisieren, da sie für unsere Challenge die wichtigsten Painpoints trifft.
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/hugo_hybrid_kurzbio.png?raw=true)
 {: .mb-8 }
@@ -74,7 +74,7 @@ Wir haben uns dazu entschieden, die Benutzergruppe «Hugo Hybrid» zu priorisier
 {: .mb-6 }
 
 ## IST-Szenario
-Aufgrund der Persona «Hugo Hybrid wurde das IST-Szenario erstellt, das den aktuellen Nutzungskontext beschreibt.
+Aufgrund der Persona «Hugo Hybrid» wurde das IST-Szenario erstellt, das den aktuellen Nutzungskontext beschreibt.
 {: .mb-6 }
 
 ### Story
