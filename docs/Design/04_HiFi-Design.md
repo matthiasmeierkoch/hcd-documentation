@@ -55,17 +55,6 @@ Entschieden haben wir uns für «bocado», was Häppchen auf Spanisch bedeutet. 
 ---
 {: .mb-6 }
 
-## Prototypen
-[Low-Fi](https://www.figma.com/file/TN06iGxN3xCVXq66bDeWGXct/Protoyp-%C2%ABfirst-steps%C2%BB-VERSION-1?node-id=0%3A1)
-
-[Low-Fi nach Usability Walkthrough](https://www.figma.com/file/XLBaCqPOEOmFO4ujsdx43j/Protoyp-%C2%ABfirst-steps%C2%BB-VERSION-2?node-id=0%3A1)
-
-[Hi-Fi](https://https://www.figma.com/file/GN1f3SvmzTkia4DAZaBix0/Protoyp-HIFI-%C2%ABfirst-steps%C2%BB?node-id=0%3A1)
-{: .mb-8 }
-
----
-{: .mb-6 }
-
 ## Erkenntnisse LoFi für HiFi Prototyp
 
 ### Geringes Problem
@@ -202,8 +191,19 @@ Zusatzinhalte der App, wie Übersicht und Achievements waren nicht intuitiv genu
 * Wenn man sich für ein Modul nicht interessiert kann man es nicht löschen.<br/>
 *Lösung &rarr; Lösch-Button in Modulübersicht hinzufügen.*
 {: .mb-6 }
----
 
+---
+{: .mb-6 }
+
+## Prototypen
+[Low-Fi](https://www.figma.com/file/TN06iGxN3xCVXq66bDeWGXct/Protoyp-%C2%ABfirst-steps%C2%BB-VERSION-1?node-id=0%3A1)
+
+[Low-Fi nach Usability Walkthrough](https://www.figma.com/file/XLBaCqPOEOmFO4ujsdx43j/Protoyp-%C2%ABfirst-steps%C2%BB-VERSION-2?node-id=0%3A1)
+
+[Hi-Fi](https://https://www.figma.com/file/GN1f3SvmzTkia4DAZaBix0/Protoyp-HIFI-%C2%ABfirst-steps%C2%BB?node-id=0%3A1)
+{: .mb-8 }
+
+---
 
 Superlearner-Facts
 {: .label .label-green }
