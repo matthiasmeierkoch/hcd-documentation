@@ -5,7 +5,7 @@ permalink: /Endprodukt/
 nav_order: 4
 ---
 
-# Bocado
+# bocado
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/Rotato%20Movie%205.gif?raw=true)
 {: .mb-8 }
 
