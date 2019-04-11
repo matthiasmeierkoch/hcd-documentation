@@ -31,7 +31,7 @@ _«Wie Tapas zum Lernen»: Wir glauben dass der Schlüssel zum erfolgreichen Ler
 _«It's not that I'm so smart, it's just that I stay with the problems longer.» [Albert Einstein](https://de.wikipedia.org/wiki/Albert_Einstein)_
 {: .mb-6 }
 
-Originelle Ideen enstehen weg von bekannten Denkmustern. Mit diesem Input sind wir in einen Postenlauf eingestiegen, indem wir 3 verschiedene Kreativitätstechniken durchführen, um auf andere Ideen zu kommen. Zuerst definieren wir ein aktuelles Problem aus der User Journey Map und die dazugehörende Challenge.
+Originelle Ideen enstehen weg von bekannten Denkmustern. Mit diesem Input sind wir in einen Postenlauf eingestiegen, indem wir 3 verschiedene Kreativitätstechniken durchführten, um auf andere Ideen zu kommen. Zuerst definieren wir ein aktuelles Problem aus der User Journey Map und die dazugehörende Challenge.
 {: .mb-6 }
 
 ### Problem:
@@ -107,8 +107,10 @@ Feedback auf falsche Antworten soll motivierend sein
 
 ## Storyboard
 Unser Storyboard bildet das gesamte Nutzerszenario ab. Es zeigt wie es zur Nutzung  kam, den User während der Nutzung und was nach der Benutzung passiert.
+{: .mb-6 }
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/storyboard.jpg?raw=true)
+{: .mb-6 }
 
 
 **Szene 1:** Während der Vorlesung hat Hugo besseres zu tun wie sich Notizen zu machen. Ihn interessiert das Fach Mathematik nicht. Er sucht nach neuen Golfkleidern und ist auf Instagram.
@@ -169,6 +171,7 @@ User Stories werden nach folgendem Muster erstellt: Als User will ich... sodass 
 
 ## Erste Scribbles
 Nun skizzieren wir den User Flow als UI-Sketches.
+{: .mb-6 }
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/userflow.jpg?raw=true)
 {: .mb-8 }
