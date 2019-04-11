@@ -234,17 +234,17 @@ Die beiden vorherigen Interviews haben uns weiter gebracht. Beim letzten Intervi
 
 ---
 ## Endpräsentation
-https://docs.google.com/presentation/d/1v9pAsEaABr0mIPf5lBNuAdv2XF_QURejRmAxMGsrhiU/edit#slide=id.g55425726d1_2_168
-{: .mb-6 }
+Am 6. Tag war es so weit und wir hielten unsere [Schlusspräsentation](https://https://docs.google.com/presentation/d/1v9pAsEaABr0mIPf5lBNuAdv2XF_QURejRmAxMGsrhiU/edit#slide=id.g55425726d1_2_168). Nach den 25 Minuten präsentieren, haben wir von den beiden Dozenten ein gutes Feedback erhalten, welches wir gerne so mitnehmen.{: .mb-6 }
 
-### Präsentation Feedback:
-* Alle Benutzergruppen erwähnen: Lehrerseite der Plattform kurz anskizzieren
-* Learnings vom Modul
-* Mehr verbindung zu Bocado ( häppchenweise ) es wäre schön gewesen wenn beim wording mehr darauf eingegangen wurde
-* mehr Enthusiasmus beim präsentieren
-* Farben der Module wurden als Signalfarben verstanden
-* Positiv war dass wir Challenge und Vision miteinbezogen haben
-* Vision war schon zu sehr als Lösung formuliert
+### Präsentation Feedback
+* Alle Benutzergruppen erwähnen: Die Seite des Lehrers der Plattform kurz anskizzieren (z.B. in einem Storyboard)
+* Mehr Verbindung zu bocado (häppchenweise): Es wäre schön gewesen wenn beim Wording «Schliesse deine Kreise» mehr darauf eingegangen würde
+* Ansprechendes, simples Design
+* Allein Fragemodus hat eine Form von Gamefication enthalten
+* Etwas mehr Enthusiasmus beim Präsentieren. Stolz sein auf das, was wir die letzten Wochen geschaffen haben.
+* Farben der Module (Rot und Grün) wurden als Signalfarben verstanden
+* Die Erwähnung der Challenge und der Vision war erfreulich
+* Die Vision war schon etwas zu sehr als Lösung formuliert
 {: .mb-8 }
 
 
