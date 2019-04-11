@@ -326,6 +326,7 @@ Bei den Interviews nicht anfangen der Testperson zu helfen sondern immer Gegenfr
 ### Was war das Lowlight?
 Zu merken dass Features der App die wir toll fanden von den Probanden einfach nicht verstanden oder für unnötig empfunden wurden. Ein Beispiel wäre das Levelsystem welches meist nur verwirrte. Dabei ist der Gamification Aspekt ein grosser Teil unserer Idee.
 
+
 {: .mb-8 }
 
 [Zum HiFi-Design](https://matthiasmeierkoch.github.io/hcd-documentation/Design/HiFi-Design){: .btn .btn-blue }
