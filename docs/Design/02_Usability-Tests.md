@@ -38,28 +38,28 @@ Vimeo Link
 Lese die Push Notification und klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow.png?raw=true)
 ### Beobachtungen
-Er stellt Rückfragen zum Briefing. Als er die erste Frage erreicht findet selber heraus dass er sie beantoworten muss. Die Farben Rot und Grün stehen für richtig und falsch. Er versteht deshalb, ob er die Frage richtig oder falsch beantwortet hat. Er meint, dass das Feedback ja auch ein Button ist weil es farblich gleich wie die Antwort ist. Ihm ist zu wenig klar dass es über das Feedback zur nächsten Frage geht. Das Feedback sowie ein «Weiter-Button» sollen separat sein. Es sind momentan zu viele Infos in einem Element. Danach kommt er auf die Statistiken von einem Modul. Die Lernkurve versteht er und die Smileys zeigen wie oft er schlecht gewesen ist. Es zeigt wie viele Fragen er noch bearbeiten muss.
+Er stellt Rückfragen zum Briefing. Als er die erste Frage erreicht findet er selber heraus, dass er sie beantworten muss. Die Farben Rot und Grün stehen für richtig und falsch. Er versteht deshalb, ob er die Frage richtig oder falsch beantwortet hat. Er meint, dass das Feedback auch ein Button ist weil es farblich gleich wie die Antwort ist. Ihm ist zu wenig klar dass es über das Feedback zur nächsten Frage geht. Das Feedback sowie ein «Weiter-Button» sollen separat sein. Es sind momentan zu viele Infos in einem Element. Danach kommt er auf die Statistiken von einem Modul. Die Lernkurve versteht er und die Smileys zeigen wie oft er schlecht gewesen ist. Es zeigt wie viele Fragen er noch bearbeiten muss.
 {: .mb-6 }
 
 ### Aufgabe 2
 Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management aus? Repetiere das Modul.
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow.png?raw=true)
 ### Beobachtungen
-Er kommt auf die Übersicht und versteht nicht, dass es hier kein Fragescreen ist, bzw. er mein, dass es auch eine Aufgabe ist, die man lösen muss, da die Seite ähnlich aufgebaut ist. Die 3 Buttons verwirren. Diese könnten auch Antworten sein. Er klickt auf repetieren.
+Er kommt auf die Übersicht und versteht nicht, dass es hier kein Fragescreen ist, bzw. er meint, dass es auch eine Aufgabe ist, die man lösen muss, da die Seite ähnlich aufgebaut ist. Die 3 Buttons verwirren. Diese könnten auch Antworten sein. Er klickt auf repetieren.
 {: .mb-6 }
 
 ### Aufgabe 3
 Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow.png?raw=true)
 ### Beobachtungen
-Er gelangt auf die Übersicht und nimmt an das Taco-Icon steht für sein Profilicon. Er weiss nicht wie klar das ist, aber er meint, dass es nunmal das einzig mögliche Icon ist. Auf der Levelseite hat er keine möglichkeit den Gesamtlevel anzusehen. Er meint es wäre spannender eine Gesamtüberasicht über das Modul anzuzeigen und nicht nur der Level. Die Punktezusammensetzung ist ihm nicht klar. «Wie erreiche ich die Punkte?», fragt er sich. Er weiss es nicht. Die Punkte setzen sich aus der Lernkurve zusammen. Resultieren aus den 5 Fragen ebenfalls 5 Punkte?
+Er gelangt auf die Übersicht und nimmt an das Taco-Icon steht für sein Profilicon. Er weiss nicht wie klar das ist, aber er meint, dass es nunmal das einzig mögliche Icon ist. Auf der Levelseite hat er keine möglichkeit den Gesamtlevel anzusehen. Er meint es wäre spannender eine Gesamtübersicht über das Modul anzuzeigen und nicht nur das Level. Die Punktezusammensetzung ist ihm nicht klar. «Wie erreiche ich die Punkte?», fragt er sich. Er weiss es nicht. Die Punkte setzen sich aus der Lernkurve zusammen. Resultieren aus den 5 Fragen ebenfalls 5 Punkte?
 {: .mb-6 }
 
 ### Aufgabe 4
 Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/04_usabilityflow.png?raw=true)
 ### Beobachtungen
-Er nimmt an, dass die Benachrichtigungen beim Icon mit der Glocke zu finden sind. Er liest die Benachrichtigungen durch. Er ist sich nicht sicher, ob jetzt nur die 5 Fragen auf der jeweiligen Benachrichtigung zu finden ist oder alle ungelösten. Auf dem Repetieren-Button erwartet er, dass er alle Fragen repetieren muss, also auch diese, die er bereits richtig beantwortet hat.
+Er nimmt an, dass die Benachrichtigungen beim Icon mit der Glocke zu finden sind. Er liest die Benachrichtigungen durch. Er ist sich nicht sicher, ob jetzt nur die 5 Fragen auf der jeweiligen Benachrichtigung zu finden sind oder alle ungelösten. Auf dem Repetieren-Button erwartet er, dass er alle Fragen repetieren muss, also auch diese, die er bereits richtig beantwortet hat.
 {: .mb-8 }
 
 ---
@@ -80,13 +80,13 @@ Eine Gruppierung der Module und eine Angabe des Dozenten. Es ist nicht klar wer 
 Sie ist aufgeräumt aber Gleiches soll auch Gleiches machen, Unterschiedliches soll sich auch anders verhalten.
 
 ### Was hat gefallen?
-Sehr simple und ufgeräumt. Es gibt keine unnötigen Infos und der Usecase ist auf das nötigste reduziert.
+Sehr simpel und ufgeräumt. Es gibt keine unnötigen Infos und der Usecase ist auf das nötigste reduziert.
 
 ### Verbesserungen?
-Modulstatistiken sind noch nicht klar. Es macht keinen Sinn den Level zu verstecken. 
+Modulstatistiken sind noch nicht klar. Es macht keinen Sinn das Level zu verstecken. 
 
 ### War das Menu klar?
-Die Icons sollen nicht oben stehen sondern nach unten, da man sie oben schlecht klicken kann und swipen könnte man auch unten. Der Aufbau müsste man ändern wenn icons nach unten kommen. Es sollte mit mehr Ebenen gearbeitet werden und nicht alles versuchen mit swipen zu lösen. 
+Die Icons sollen nicht oben stehen sondern nach unten, da man sie oben schlecht klicken kann und swipen könnte man auch unten. Den Aufbau müsste man ändern, wenn icons nach unten kommen. Es sollte mit mehr Ebenen gearbeitet werden und nicht alles versuchen mit swipen zu lösen. 
 
 ### Gegenfragen:
 Wer macht fragen bereit? Gibt es einen Login? Inhalt noch etwas mehr gliedern: Bei welchem Dozent habe ich was, wie sind die Module aufgeteilt? Braucht es ein Archiv, das die abgeschlossenen Fächer zeigt?
@@ -96,7 +96,7 @@ Wer macht fragen bereit? Gibt es einen Login? Inhalt noch etwas mehr gliedern: B
 {: .mb-6 }
 
 ## Emo-Cards
-Man legt Karten mit diversen Adjektiven auf den Tisch aus und Testperson wählt drei Karten. Wichtig ist, was der Tester zu den Karten sagt.
+Man legt Karten mit diversen Adjektiven auf den Tisch aus und Testperson wählt drei Karten, welche er findet passt am besten zum Produkt. Wichtig ist, was der Tester zu den Karten sagt.
 
 ### Gewählte Karten
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_nils.png?raw=true)
@@ -106,7 +106,7 @@ Man legt Karten mit diversen Adjektiven auf den Tisch aus und Testperson wählt 
 {: .mb-6 }
 
 # Der SUS-Fragebogen
-Mithilfe eines einfachen Fragebogens (System Usability Score), der aus insgesamt zehn Fragen auf Basis von Likert-Skalen mit je fünf Optionen besteht, kann ermittelt werden, wie nutzerfreundlich eine Software wahrgenommen wird. Der SUS-Fragebogen enthält fünf positiv und fünf negativ formulierte Aussagen zur Usability des zu bewertenden Systems.
+Mithilfe eines einfachen Fragebogens (System Usability Scale), der aus insgesamt zehn Fragen, auf Basis von Likert-Skalen mit je fünf Optionen besteht, kann ermittelt werden, wie nutzerfreundlich eine Software wahrgenommen wird. Der SUS-Fragebogen enthält fünf positiv und fünf negativ formulierte Aussagen zur Usability des zu bewertenden Systems.
 {: .mb-6 }
 
 ## Auswertung
@@ -206,7 +206,7 @@ Der Übersichtscreen war ihr klar, da sie ihn erwartet hat. Sie sieht die 2 offe
 Die Fragestellung war sehr intuitiv.
 
 ### Was war negativ?
-Man kann nicht zurück um nochmals zur letzten Frage zu gehen. Sie hätte etwas mehr erwartet.
+Man kann nicht zurück, um nochmals zur letzten Frage zu gehen. Sie hätte etwas mehr erwartet.
 
 ### Was hat ihnen gefehlt?
 Eine Übersicht der Fragen wäre spannend. Es wäre spannend die Fragen für die Prüfung nochmals durchgehen zu können und eine Art Fehlerrate angezeigt bekommt.
@@ -294,11 +294,11 @@ Superlearner-Facts
 ## Tag 5
 
 ### Was haben wir gelernt?
-
+Auch wenn einem das Produkt super einfach vorkommt, merkt man durch die Interviews, was man alles vergessen hat oder doch nicht so gut durchdacht. 
 {: .mb-6 }
 
 ### Was war das Highlight?
-
+Es war total spannend zu sehen was die Testpersonen zu unserem Produkt für Feedback gaben. Hat uns auf jedenfall geholfen uns selber nochmals gewisse Fragen zu stellen und alles aus einem anderen Blickwinkel zu betrachten.
 {: .mb-6 }
 
 ### Fragen?
@@ -306,7 +306,7 @@ Superlearner-Facts
 {: .mb-6 }
 
 ### Was war schwierig?
-
+Bei den Interviews nicht anfangen der Testperson zu helfen sondern immer Gegenfragen stellen, um so noch mehr über die Denkweise der User zu erhalten.
 {: .mb-6 }
 
 ### Was war das Lowlight?
