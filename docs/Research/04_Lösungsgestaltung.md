@@ -20,8 +20,7 @@ nav_order: 4
 In einer etwas abstrakteren Art haben wir versucht auf Grund von unserer Challenge eine Vision in Form eines kurzen Tweets zu formulieren. Wichtig dabei war, dass der Text neugierig macht.
 {: .mb-6 }
 
-### _«Wie Tapas zum Lernen»
-Wir glauben dass der Schlüssel zum erfolgreichen Lernen in der Vorbereitung liegt welche wir dir häpchenweise servieren._
+_«Wie Tapas zum Lernen»: Wir glauben dass der Schlüssel zum erfolgreichen Lernen in der Vorbereitung liegt welche wir dir häpchenweise servieren._
 {: .fs-6 }
 {: .mb-8 }
 
