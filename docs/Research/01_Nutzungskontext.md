@@ -51,6 +51,7 @@ Hier werden einige Methoden beschrieben, die helfen, den Nutzungskontext zu vers
 ## Unsere Challenge
 {: .text-green-000 }
 > Wie können wir Studenten helfen, den vergangenen Tag ohne grosse Einstiegshürde zu reflektieren?
+{: .fs-6 }
 {: .mb-8 }
 
 ## Projektziel
