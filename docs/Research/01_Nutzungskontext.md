@@ -23,36 +23,36 @@ Um uns in der Gruppe intensiver mit dem Thema «Lernen» und der Aufgabe zu besc
 
 
 ## Methoden 
-Hier werden einige Methoden beschrieben, die helfen den Nutzungskontext zu verstehen.
+Hier werden einige Methoden beschrieben, die helfen, den Nutzungskontext zu verstehen.
 
 **Beobachten:** Usern beim Bedienen zuschauen und danach die richtigen Fragen stellen.
 
 **Tagebuchstudien:** Man macht Auskunftstudien über das Leben von Personen.  Meist wird dies über längere Zeit gemacht. Diese Methode ist eher selten, da sie sehr zeitintensiv ist.
 
-**Contextual Inquiry & Design:** Man geht hin und lässt sich ausbilden. Voraussetzung dafür ist: Du bist neugierig und stellst Fragen. Diese Methode eignet sich gut zu zweit.
+**Contextual Inquiry & Design:** Der Untersucher beobachtet den Benutzer bei seinen üblichen Aktivitäten und diskutiert diese mit dem Benutzer. Voraussetzung dafür ist, dass man neugierig ist und Fragen stellt. Diese Methode eignet sich gut, wenn man zu zweit ist.
 
-**Interview:** Diese Methode sollte auch zu zweit gemacht werden. Einer stellt die Fragen und der andere notiert.
+**Interview:** Diese Methode sollte ebenfalls zu zweit gemacht werden. Einer stellt die Fragen und der andere notiert die Antworten.
 
-**Fragebogen:** Mit einem Fragebogen erhält man quantitative Ergebnisse (40% von den potenziellen Nutzern haben dieses Problem). Für qualitative Datensätze kann man einige heraussuchen. Resarcher sind eher im quantitaven Bereich tätig. Designer arbeiten eher mit Methoden mit qualitativen Ergebnissen. Dies ist aber immer projektabhängig.
+**Fragebogen:** Mit einem Fragebogen erhält man quantitative Ergebnisse (40% der potenziellen Nutzern haben dieses Problem). Für qualitative Datensätze kann man sich auf wenige Personen fokusieren. Forscher sind eher im quantitativen Bereich tätig. Designer arbeiten eher mit Methoden, welche qualitative Ergebnisse erzeugen. Dies ist aber immer projektabhängig.
 
-**Fokusgruppen:** Eignen sich für Tagungen um ganz schnell zu viel Infos und einem gewissen Wissenstand zu kommen. Man eignet sich schnell viel Wissen an.
+**Fokusgruppen:** Eignen sich für Tagungen, um schnell zu viel Infos und einem gewissen Wissenstand zu kommen.
 
-**Workshops:** Sind gut, aber auch gefährlich, da man vielfach genauere Infos bekommt wenn man an Ort und Stelle Beobachtungen macht – also sogenannte Contectual Inquiries macht. Workshops können zu jeder Zeit im Projekt gemacht werden.
+**Workshops:** Sind gut, aber auch gefährlich, da man vielfach genauere Infos bekommt, wenn man an Ort und Stelle Beobachtungen macht – also sogenannte Contectual Inquiries macht. Workshops können zu jeder Zeit im Projekt gemacht werden.
 
 **User experience sketching:** Dies kann wie ein Theater funktionieren. Man geht mit einer Person mit (z.B. einem Postboten). Dann gibt man ihm einen Prototyp, den er direkt testen kann.
 
-**Szenarien:** Du versetzt dich in die Rolle des Users.
+**Szenarien:** Man versetzt sich in die Rolle des Users.
 {: .mb-8 }
 
 ---
 {: .mb-6 }
 
 ## Unsere Challenge
-> Wie können wir Studenten helfen, ohne grosse Einstiegshürde den vergangenen Tag zu reflektieren?
+> Wie können wir Studenten helfen, den vergangenen Tag ohne grosse Einstiegshürde zu reflektieren?
 {: .mb-8 }
 
 ## Projektziel
-Studenten fällt es leichter, den Einstieg ins Lernen zu finden. Sie sind in der Prüfungsphase besser auf den Stoff vorbereitet und müssen weniger auf einmal lernen. 
+Studenten fällt es leichter, den Einstieg ins Lernen zu finden. Sie sind in der Prüfungsphase besser auf den Lernstoff vorbereitet und müssen weniger auf einmal lernen. 
 {: .mb-8 }
 
 ## 1. Lösungsansatz
@@ -69,7 +69,7 @@ Superlearner-Facts
 
 
 ### Was hat uns Spass gemacht?
-Mit der Innoventa einmal den ganzen Designprozess in nur 90 Minuten durchzuspielen. Es war sehr aufschlussreich und hat in nur kurzer Zeit bereits originelle Lösungen hervorgebracht.
+Mit der Innoventa einen ganzen Designprozess in nur 90 Minuten durchzuspielen. Es war sehr aufschlussreich und hat in kurzer Zeit bereits originelle Lösungen hervorgebracht.
 {: .mb-6 }
 
 ### Was hat uns keinen Spass gemacht?
@@ -78,11 +78,11 @@ Mentalen Modell](https://www.netnode.ch/blog/mentale-modelle-als-zentrales-konze
 {: .mb-6 }
 
 ### Was haben wir gelernt?
-In kurzer Zeit kann man mit verschiedensten Techniken, wie z.B. das Brain Dumping, schnell auf eine brauchbare Lösung kommen.
+In kurzer Zeit kann man mit verschiedensten Techniken, wie z.B. Brain Dumping, schnell auf eine brauchbare Lösung kommen.
 
-Die Begriffe «UX» und «Usability» bedeuten nicht dasselbe. Die «User Experience» beginnt vor, während und nach der Nutzung eines Produktes. «Usability» ist das Erlebnis der tatsächlichen Benutzung.
+Die Begriffe «UX» und «Usability» bedeuten nicht dasselbe. Die «User Experience» beginnt vor, während und nach der Nutzung eines Produktes. «Usability» ist das Erlebnis bei der tatsächlichen Benutzung.
 
-Es wurden uns diverse Methoden um den Nutzungskontext zu verstehen wie Beobachtungen, Contextual Inquiry, Interviews, Workshops etc. kurz erläutert und gaben einen Überblick, was alles möglich ist.
+Es wurden uns diverse Methoden wie Beobachtungen, Contextual Inquiry, Interviews, Workshops etc. kurz erläutert, um den Nutzungskontext zu verstehen. Das gab uns einen guten Überblick, was es alles für Möglichkeiten gibt. 
 {: .mb-8 }
 
 
