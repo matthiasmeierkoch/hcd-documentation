@@ -14,7 +14,7 @@ nav_order: 3
 {: .mb-8 }
 
 # HiFi Prototyp
-Bevor man mit einem HiFi-Prototypen anfängt sollte nab den LoFi-Prototypen fertigsteollen. Es kann aber helfen, wichtige Screens die schon final sind, parallel schonmal im HiFi-Design aufzubauen.
+Bevor man mit einem HiFi-Prototypen anfängt sollte man den LoFi-Prototypen fertigstellen. So ist kann man sich sicher sein den User Flow komplett zu haben. Es kann aber helfen, wichtige Screens die schon final sind, parallel bereits im HiFi-Design aufzubauen.
 Ein HiFi-Prototyp eignet sich vorallem in der Kommunikation mit dem Kunden, um mit ihm zu diesem Zeitpunkt über Visual Design zu sprechen. Im LoFi-Prototyp sollten solche Diskussionen aber vermieden werden.
 Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfeld abgeklärt werden – während des Prozesses ist es sinnvoll in kurzen Abständen Feedback einzuholen.
 {: .mb-8 }
@@ -76,7 +76,7 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
 {: .mb-6 }
 
 ### Kritisches Problem
-* Zu viele Farben als Feedback bei Fragen
+* Zu viele Farben als Feedback bei Fragen, dies verwirrt total
 {: .mb-8 }
 
 ---
@@ -103,7 +103,7 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
 Klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.
 
 ### Beobachtungen
-Er will swipen wegen den Punkten im Onboarding und würde den Text nicht lesen. Er meint vielleicht ist es so dass man über das Icon «+» eventuell neue Module hinzufügen könne? Es verwirrt ihn, dass er als Feedback 4 von 5 Fragen richtig beantwortet hat, sich das aber nicht auf das ganze Modul bezieht.
+Er will swipen wegen den Punkten im Onboarding und würde den Text nicht lesen. Er meint vielleicht ist es so, dass man über das Icon «+» eventuell neue Module hinzufügen könne? Es verwirrt ihn, dass er als Feedback 4 von 5 Fragen richtig beantwortet hat, sich das aber nicht auf das ganze Modul bezieht.
 {: .mb-6 }
 
 ### Aufgabe 2
@@ -207,11 +207,11 @@ Superlearner-Facts
 
 
 ### Was haben wir gelernt?
-
+Der visuelle Eindruck eines Produkt kann sehr viel zum Benutzererlebniss beitragen. 
 {: .mb-6 }
 
 ### Was war das Highlight?
-
+Die beiden vorherigen Interviews haben uns weiter gebracht. Beim letzten Interview haben wir einen sehr hohen SUS-Score von 87,5 Punkten erreicht.
 {: .mb-6 }
 
 ### Fragen?
