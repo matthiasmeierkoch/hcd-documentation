@@ -193,7 +193,7 @@ Sie klickt sich zum Logo und weiss von da nicht ob sie weiter muss. Sie kommt zu
 {: .mb-6 }
 
 ### Aufgabe 2
-Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management Modell aus? Repetiere das Modul. 
+Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management aus? Repetiere das Modul. 
 
 ### Beobachtungen
 Sie versteht dass die Kreise ganze Module darstellen. Sie klickt direkt in das Modul St.Galler Management Modell. Bei der Statistik des Lernverlaufs fragt sie wie man erkennt wie viel man gelernt hat? Sie denkt es ist der Zeitraum wann ich wieviel gelernt habe. Ihr fehlt aber die y-Achse. Es ist ihr klar, dass man das Modul über den entsprechenden Button repetieren kann. Sie fragt: wird der letzte Push repetiert? Sie fände es besser wenn sie auswählen kann was genau sie repetiert. Es wäre cool, wenn man nur Fragen, die man noch nicht beantwortet hat zuerst beantworten kann.
@@ -319,20 +319,12 @@ Auch wenn einem das Produkt super einfach vorkommt, merkt man durch die Intervie
 Es war total spannend zu sehen was die Testpersonen zu unserem Produkt für Feedback gaben. Hat uns auf jedenfall geholfen uns selber nochmals gewisse Fragen zu stellen und alles aus einem anderen Blickwinkel zu betrachten.
 {: .mb-6 }
 
-### Fragen?
-
-{: .mb-6 }
-
 ### Was war schwierig?
 Bei den Interviews nicht anfangen der Testperson zu helfen sondern immer Gegenfragen stellen, um so noch mehr über die Denkweise der User zu erhalten.
 {: .mb-6 }
 
 ### Was war das Lowlight?
-
-{: .mb-6 }
-
-
-### Was/wer kann Euch dabei helfen?
+Zu merken dass Features der App die wir toll fanden von den Probanden einfach nicht verstanden oder für unnötig empfunden wurden. Ein Beispiel wäre das Levelsystem welches meist nur verwirrte. Dabei ist der Gamification Aspekt ein grosser Teil unserer Idee.
 
 {: .mb-8 }
 
