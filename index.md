@@ -16,7 +16,7 @@ Diese Website behandelt die Methoden und Herangehensweisen des [Human Centered D
 {: .fs-6 }
 {: .mb-8 }
 
-## Aufgabenbeschreib
+## Aufgabenbeschrieb
 Die Aufgabe im Modul Human Centered Design besteht darin eine digitale Lernplattform zu erarbeiten, welche sich an Studierende an einer Hochschule richten soll. Sie soll eine zentrale Schnittstelle zwischen Bildungsanbieter und der lernenden Person darstellen.
 
 Sie kann folgende Themen beinhalten:
