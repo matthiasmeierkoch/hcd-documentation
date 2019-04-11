@@ -84,39 +84,38 @@ Im nächsten Schritt werden wir zwei Studenten interviewen, um die Benutzer und 
 ### 1. Zeichne auf den Zeitstrahl wann du lernst
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/zeitstrahl_marius.png?raw=true)
 
-* effektiv lernt er erst in den letzten Tagen vor der Prüfung/Abgabe
-* vorher lernt er nicht, er denkt das er noch nicht alle Infos hat, da das Modul noch nicht fertig wäre
-* Er hat irgendwann Druck/Stressmoment, dass er anfangen muss zu lernen
-* er braucht den Druck
-* zwischen 2 und 4 Tagen lernt er intensiv
-* vorher hat er noch Wochenende ohne Lernen
-* er lernt normalerweise alleine
-* manchmal lernt er irgendwo mit anderen, es hilft ihm wirklich anfangen zu lernen
-* er druckt viel aus, längerer Text aus Modul zum Beispiel, er will das nicht als Papier da er das verliert 
-* er markiert Dinge darauf, macht eine Zusammenfassung nicht als Text sondern macht Mindmapartige Zusammenfassung von Hand
+* Effektiv lernt er erst in den letzten Tagen vor der Prüfung
+* Vorher lernt er nicht, da er denkt, dass er noch nicht alle Infos hat, da das Modul noch nicht fertig ist
+* Irgendwann kommt der Druck auf und er realisiert, dass er anfangen muss 
+* Er braucht den Druck
+* Zwischen 2 und 4 Tagen lernt er intensiv
+* Vorher hat er noch ein Wochenende an dem er nicht lernt
+* Er lernt normalerweise alleine
+* Manchmal lernt er irgendwo mit anderen. Das hilft ihm wirklich anzufangen
+* Er druckt viel aus, ein längerer Text aus dem Modul zum Beispiel 
+* Er markiert wichtiges auf dem Material
+* Er macht eine Zusammenfassung nicht als Text sondern als mindmapartige Zusammenfassung von Hand
 {: .mb-6 }
 
 ### 2. Gibt es Hindernisse die dich vom Lernen abhalten?
-* Leute wollen was und er lässt sich da schnell dazu überreden 
-* er lenkt sich selber auch gut ab, er putzt vorher als er lernt
+* Leute wollen was und er lässt sich da schnell dazu überreden mitzumachen, zu helfen 
+* Er lenkt sich selber auch gut ab. Zum Beispiel putzt er vorher als er lernen würde
 {: .mb-6 }
 
 ### 3. Wie festigst du das Gelernte langfristig?
-* nur beim praktischen Anwenden
-* Notizen helfen ihm nicht so, mittelfristig aber er versucht das Gelernte bei der Arbeit anzuwenden, damit es ihm etwas bringt
-* Bei Teamsitzung gesagt was wir in der Schule hatten, sie wissen dass er das kann/auf ihn zukommen können
-* das macht er relativ zeitnah
-* er beginnt mit den Sachen zu sichten, und recherchiert auch wenn er nicht alles hat
-* er hätte sich auch schon gewünscht dass er Notizen gemacht hat
+* Nur beim praktischen Anwenden
+* Notizen helfen ihm nicht so. Er versucht deshalb das Gelernte bei der Arbeit anzuwenden damit es ihm etwas bringt.
+* Bei Teamsitzungen erwähnt er oft, was er gerade in der Schule durchnimmt. 
+* Er hat sich auch schon oft gewünscht, dass er Notizen gemacht hätte
 {: .mb-8 }
 
 ---
 {: .mb-6 }
 
 ## Erkenntnisse von beiden Interviews
-* Viel gelernt wird erst kurz vor der Prüfung
+* Viel gelernt wird erst kurz vor der Prüfung da die Motivation oft nicht da ist vorher
 * Wir haben zwei Bereiche beim Lernen: eine Vorbereitung und eine intensive Lernphase
-* Je besser die Vorbereitung desto mehr kannst du dich auf das Lernen konzentieren
+* Je besser die Vorbereitung desto mehr kannst du dich auf das Lernen konzentrieren
 {: .mb-8 }
 
 
