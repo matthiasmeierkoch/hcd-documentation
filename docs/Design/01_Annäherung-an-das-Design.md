@@ -107,15 +107,12 @@ Wie bereitet man sich optimal auf Useability Tests vor. Es gibt viele Punkte, di
 {: .mb-6 }
 
 ### Was war das Highlight?
-
+Die Präsentation unseres Pitches stellte ein Highlight dar, weil es eine grosse Herausforderung ist, in kurzer Zeit, seine Konzeptidee überzeugend zu vermitteln.
 {: .mb-6 }
 
 
 ### Was war schwierig?
-Eine der Gestaltungsprinzipien in unseren Worten der Klasse präsentieren. Auch wenn es die meisten von uns bereits kennen, ist es nicht leicht, dies in so kurzer Zeit verständlich zu erklären. 
-{: .mb-6 }
-
-### Was war das Lowlight?
+Eine der Gestaltungsprinzipien in unseren Worten der Klasse präsentieren. Auch wenn es die meisten von uns bereits kennen, ist es nicht leicht, dies spontan verständlich zu erklären. 
 
 
 {: .mb-8 }
