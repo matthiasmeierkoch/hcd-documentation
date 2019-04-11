@@ -36,13 +36,14 @@ Vimeo Link
 
 ### Aufgabe 1
 Lese die Push Notification und klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow.png?raw=true)
 ### Beobachtungen
 Er stellt Rückfragen zum Briefing. Als er die erste Frage erreicht findet er selber heraus, dass er sie beantworten muss. Die Farben Rot und Grün stehen für richtig und falsch. Er versteht deshalb, ob er die Frage richtig oder falsch beantwortet hat. Er meint, dass das Feedback auch ein Button ist weil es farblich gleich wie die Antwort ist. Ihm ist zu wenig klar dass es über das Feedback zur nächsten Frage geht. Das Feedback sowie ein «Weiter-Button» sollen separat sein. Es sind momentan zu viele Infos in einem Element. Danach kommt er auf die Statistiken von einem Modul. Die Lernkurve versteht er und die Smileys zeigen wie oft er schlecht gewesen ist. Es zeigt wie viele Fragen er noch bearbeiten muss.
-{: .mb-6 }
 
 ### Aufgabe 2
 Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management aus? Repetiere das Modul.
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow.png?raw=true)
 ### Beobachtungen
 Er kommt auf die Übersicht und versteht nicht, dass es hier kein Fragescreen ist, bzw. er meint, dass es auch eine Aufgabe ist, die man lösen muss, da die Seite ähnlich aufgebaut ist. Die 3 Buttons verwirren. Diese könnten auch Antworten sein. Er klickt auf repetieren.
@@ -50,14 +51,18 @@ Er kommt auf die Übersicht und versteht nicht, dass es hier kein Fragescreen is
 
 ### Aufgabe 3
 Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow.png?raw=true)
+
 ### Beobachtungen
 Er gelangt auf die Übersicht und nimmt an das Taco-Icon steht für sein Profilicon. Er weiss nicht wie klar das ist, aber er meint, dass es nunmal das einzig mögliche Icon ist. Auf der Levelseite hat er keine möglichkeit den Gesamtlevel anzusehen. Er meint es wäre spannender eine Gesamtübersicht über das Modul anzuzeigen und nicht nur das Level. Die Punktezusammensetzung ist ihm nicht klar. «Wie erreiche ich die Punkte?», fragt er sich. Er weiss es nicht. Die Punkte setzen sich aus der Lernkurve zusammen. Resultieren aus den 5 Fragen ebenfalls 5 Punkte?
 {: .mb-6 }
 
 ### Aufgabe 4
 Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/04_usabilityflow.png?raw=true)
+
 ### Beobachtungen
 Er nimmt an, dass die Benachrichtigungen beim Icon mit der Glocke zu finden sind. Er liest die Benachrichtigungen durch. Er ist sich nicht sicher, ob jetzt nur die 5 Fragen auf der jeweiligen Benachrichtigung zu finden sind oder alle ungelösten. Auf dem Repetieren-Button erwartet er, dass er alle Fragen repetieren muss, also auch diese, die er bereits richtig beantwortet hat.
 {: .mb-8 }
