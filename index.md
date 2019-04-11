@@ -9,9 +9,9 @@ description: "Human Centered Design Dokumentation"
 ---
 
 # Einleitung in das Modul Human&nbsp;Centered&nbsp;Design&nbsp;
-Das ist die Dokumentation des Moduls Human Centered Design von den Studierenden Pascale Anderegg, Nicole Watrinet, Marc Hatt und Matthias Koch.  
+Das ist die Dokumentation des Moduls Human Centered Design von den Studierenden Pascale Anderegg, Nicole Watrinet, Marc Hatt und Matthias Koch.  {: .fs-5 }
 
-Diese Website behandelt die Methoden und Herangehensweisen des [Human Centered Designs (HCD)](https://en.wikipedia.org/wiki/Human-centered_design). Das Hauptthema des Faches besteht darin den User, also den Menschen, immer in den Mittelpunkt des Design-Prozesses zu stellen. Wir beschäftigen uns mit dem gesamten Ablauf von der Entwicklung bis zur Umsetzung eines Produktes. Angefangen von der persönlichen Auseinandersetzung mit dem Thema, [Personas](https://www.usability.de/leistungen/methoden/personas.html) und Szenarien erstellen bis zu Konzeption und Hi-Fi Gestaltung eines Prototypen. Unsere Notizen zu den gelernten und angewendeten Methoden werden ebenfalls dokumentiert. 
+Diese Website behandelt die Methoden und Herangehensweisen des [Human Centered Designs (HCD)](https://en.wikipedia.org/wiki/Human-centered_design). Das Hauptthema des Faches besteht darin den User, also den Menschen, immer in den Mittelpunkt des Design-Prozesses zu stellen. Wir beschäftigen uns mit dem gesamten Ablauf von der Entwicklung bis zur Umsetzung eines Produktes. Angefangen von der persönlichen Auseinandersetzung mit dem Thema, [Personas](https://www.usability.de/leistungen/methoden/personas.html) und Szenarien erstellen bis zu Konzeption und Hi-Fi Gestaltung eines Prototypen. Unsere Notizen zu den gelernten und angewendeten Methoden werden ebenfalls dokumentiert. {: .fs-5 }
 
 ## Aufgabenbeschreib
 Die Aufgabe im Modul Human Centered Design besteht darin eine digitale Lernplattform zu erarbeiten, welche sich an Studierende an einer Hochschule richten soll. Sie soll eine zentrale Schnittstelle zwischen Bildungsanbieter und der lernenden Person darstellen.
