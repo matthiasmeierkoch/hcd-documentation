@@ -24,8 +24,7 @@ What, How, Why Circles.
 {: .mb-6 }
 
 ## Unsere Vision
-{: .text-green-000 }
-In einer etwas abstrakteren Art haben wir versucht auf Grund von unserer Challenge eine Vision in Form eines kurzen Tweets zu formulieren. Wichtig dabei war, dass der Text neugierig macht.
+_In einer etwas abstrakteren Art haben wir versucht auf Grund von unserer Challenge eine Vision in Form eines kurzen Tweets zu formulieren. Wichtig dabei war, dass der Text neugierig macht._
 {: .mb-6 }
 
 ### «Wie Tapas zum Lernen»
