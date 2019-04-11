@@ -82,6 +82,8 @@ Im nächsten Schritt werden wir zwei Studenten interviewen, um die Benutzer und 
 ## Interview 2: Marius 
 
 ### 1. Zeichne auf den Zeitstrahl wann du lernst
+{: .mb-6 }
+
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/zeitstrahl_marius.png?raw=true)
 
 * Effektiv lernt er erst in den letzten Tagen vor der Prüfung
