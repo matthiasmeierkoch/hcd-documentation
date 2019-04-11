@@ -14,7 +14,7 @@ nav_order: 1
 {: .mb-8 }
 
 # Annäherung an das Design
-Um uns nach unseren Pitches etwas aufzulockern haben wir uns mit Gestaltungsprinzipien beschäftigt. Jede Gruppe erhielt ein Thema, studierte es und präsentierte es dann dem Rest der Klasse. Unser Thema war Simplicity von [John Maeda](https://de.wikipedia.org/wiki/John_Maeda).
+Um uns nach unseren Pitches etwas aufzulockern, haben wir uns mit Gestaltungsprinzipien beschäftigt. Jede Gruppe erhielt ein Thema, studierte es und präsentierte es dann dem Rest der Klasse. Unser Thema war Simplicity von [John Maeda](https://de.wikipedia.org/wiki/John_Maeda).
 {: .mb-8 }
 
 ---
@@ -51,8 +51,8 @@ Quelle:
 {: .mb-6 }
 
 ## Usability-Walkthrough
-Füng Testpersonen reichen um 85% der Fehler zu eliminieren. Ein bis drei Beobachter die auch alles notieren ist wichtig. Anfangs wird alles neu sein aber später ergeben sich Patterns mit denen man arbeiten kann. Nach den fünf Probanden geht man zurück und optimiert die Useability. Mit den Erkenntnissen und dem verbessertem Produkt macht man nochmals einen Test (Iteration) mit fünf Testpersonen. Dies weil es besser ist in kleinen Iterationen zu testen. Denn ab einer gewissen Menge an Leute erhält man keine neuen Erkenntnisse. Die Feedbacks werden irgendwann sehr ähnlich sein. Zusätzlich sollte man nicht vergessen den Probanden ein kleines Dankeschön für den Einsatz zu geben. 
-Testpersonen sind sehr wichtig, da wir als Designer zu nahe am Produkt sind und es für uns sowiso verständlich und logisch ist. Wichtig ist es der Testperson keine Antwort zu geben sondern immer eine Gegenfrage zu stellen. Der Tester soll auch die ganze Zeit laut denken, so können wir am besten verstehen was vor sich geht. Den Tester anfangs auch bitten ehrlich zu sein. Wir testen das Produkt und nicht die Person selber. Falls man Aufnahmen machen möchte umbedingt die Testperson zuerst fragen!
+Fünf Testpersonen reichen, um 85% der Fehler zu eliminieren. Ein bis drei Beobachter, die alles notieren sind wichtig. Anfangs wird alles neu sein aber später ergeben sich Patterns mit denen man arbeiten kann. Nach den fünf Probanden geht man zurück und optimiert die Useability. Mit den Erkenntnissen und dem verbessertem Produkt macht man nochmals einen Test (Iteration) mit fünf Testpersonen. Dies, weil es besser ist, in kleinen Iterationen zu testen. Denn ab einer gewissen Menge an Leuten, erhält man keine neuen Erkenntnisse. Die Feedbacks werden irgendwann sehr ähnlich sein. Zusätzlich sollte man nicht vergessen den Probanden ein kleines Dankeschön für den Einsatz zu geben. 
+Testpersonen sind sehr wichtig, da wir als Designer zu nahe am Produkt sind und es für uns sowiso verständlich und logisch ist. Wichtig ist es der Testperson keine Antwort zu geben, sondern immer eine Gegenfrage zu stellen. Der Tester soll auch die ganze Zeit laut denken, so können wir am besten verstehen, was vor sich geht. Den Tester sollte man anfangs auch bitten, ehrlich zu sein. Wir testen das Produkt und nicht die Person selber. Falls man Aufnahmen machen möchte, sollte man unbedingt die Testperson zuerst fragen!
 {: .mb-6 }
 
 ### Die 4(5) Grundfragen
@@ -63,10 +63,6 @@ Testpersonen sind sehr wichtig, da wir als Designer zu nahe am Produkt sind und 
 5. Ist das gut oder schlecht?
 {: .mb-6 }
 
-### Testreport
-* Rating in 5 Schritten
-* Wünsche und Anregungen miteinbringen
-{: .mb-6 }
 
 ### Vorgehen Testing
 1. Aufgaben & Leitfaden erstellen
@@ -83,16 +79,16 @@ Testpersonen sind sehr wichtig, da wir als Designer zu nahe am Produkt sind und 
 ## Briefing
 Liebe Benutzerin, lieber Benutzer
 
-Du bist ein Student an einer Hochschule und nimmst täglich an Vorlesungen und Workshops teil. Als Teil deines Lernplans ist es sinnvoll, täglich deinen Tag zu repetieren. Um das zu vereinfachen bist du Benutzer unserer App.
+Du bist ein Student an einer Hochschule und nimmst täglich an Vorlesungen und Workshops teil. Als Teil deines Lernplans ist es sinnvoll, täglich deinen Tag zu repetieren. Um das zu vereinfachen, bist du Benutzer unserer App.
 {: .mb-6 }
 ### Was du alles machst
-Du bist fünf Mal die Woche an der Uni und bist täglich damit beschäftigt an Vorlesungen Teil zu nehmen und deine Unterlagen für die Prüfungen zusammen zu stellen. Der Uni-Alltag ist besonders in den Prüfungs-Phasen relativ stressig und fordert viel – bei der Vorbereitung auf diese Zeit soll unsere App möglichst zeitsparend helfen.
+Du bist fünf Mal die Woche an der Uni und bist täglich damit beschäftigt, an Vorlesungen teilzunehmen und deine Unterlagen für die Prüfungen zusammenzustellen. Der Uni-Alltag ist besonders in den Prüfungs-Phasen stressig und ist sehr fordernd – bei der Vorbereitung auf diese Zeit soll unsere App möglichst zeitsparend wirken.
 {: .mb-6 }
 ### Wie das geht
-Am Ende deines anstrengenden Uni-Tages machst du dich auf den Heimweg. Nehmen wir an du bist im Zug und bist gerade am Handy.
-Du bekommst eine Push-Notification unserer App, die dich informiert, dass du nun 5 Fragen zu deinem Schultag beantworten kannst. Du klickst dich durch die 5 Fragen und erhälst nach jeder Frage direkt Feedback ob sie stimmt oder nicht. Wenn du alle Fragen beantwortet hast kommst du auf eine Übersicht, die den Fortschritt in deinem Fach zeigt. Motiviert dabei wirst du sowohl dadurch, dass du so stetig dein Fachwissen ohne grossen Aufwand vergrössern und festigen kannst, aber auch durch ein internes Achievement und Level-System, mit dem du deinen Fortschritt verfolgen kannst.
+Am Ende deines anstrengenden Uni-Tages machst du dich auf den Heimweg. Nehmen wir an, du bist im Zug und gerade am Handy.
+Du bekommst eine Push-Notification unserer App, die dich informiert, dass du nun 5 Fragen zu deinem Schultag beantworten kannst. Du klickst dich durch die 5 Fragen und erhälst nach jeder Frage direkt Feedback, ob du richtig oder falsch geantwortet hast. Wenn du alle Fragen beantwortet hast, kommst du auf eine Übersicht, die den Fortschritt in deinem Fach zeigt. Motiviert dabei wirst du sowohl dadurch, dass du so stetig dein Fachwissen ohne grossen Aufwand vergrössern und festigen kannst, als auch durch ein internes Achievement und Level-System, mit dem du deinen Fortschritt verfolgen kannst.
 
-Uns ist Ihr Feedback sehr wichtig, damit wir ein möglichst gutes Produkt entwickeln können, deshalb gilt der Vorsatz: Nicht Sie werden getestet, sondern unser Produkt. 
+Uns ist dein Feedback sehr wichtig, damit wir ein möglichst gutes Produkt entwickeln können, deshalb gilt der Vorsatz: Nicht du wirst getestet, sondern unser Produkt. 
 
 Die Dauer der Befragung beträgt maximal 30 Minuten.
 {: .mb-8 }
@@ -107,27 +103,20 @@ Superlearner-Facts
 
 
 ### Was haben wir gelernt?
-Wie bereitet man sich optimal auf Useability Tests vor. Es gibt viele Punkte die man beachten muss um ein hilfreiches Interview zu führen. Sehr wichtig ist, dass man der Testperson immer Gegenfragen stellt und so sie selbst überlegen lässt.
+Wie bereitet man sich optimal auf Useability Tests vor. Es gibt viele Punkte, die man beachten muss, um ein hilfreiches Interview zu führen. Sehr wichtig ist, dass man der Testperson immer Gegenfragen stellt und sie so selbst überlegen lässt.
 {: .mb-6 }
 
 ### Was war das Highlight?
 
 {: .mb-6 }
 
-### Fragen?
-
-{: .mb-6 }
 
 ### Was war schwierig?
-Eine der Gestaltungsprinzipien in unseren Worten der Klasse präsentieren. Auch wenn es etwas ist was die meisten von uns bereits kennen ist es nicht leicht dies verständlich zu erklären in diesere kurzen Zeit. 
+Eine der Gestaltungsprinzipien in unseren Worten der Klasse präsentieren. Auch wenn es die meisten von uns bereits kennen, ist es nicht leicht, dies in so kurzer Zeit verständlich zu erklären. 
 {: .mb-6 }
 
 ### Was war das Lowlight?
 
-{: .mb-6 }
-
-
-### Was/wer kann Euch dabei helfen?
 
 {: .mb-8 }
 
