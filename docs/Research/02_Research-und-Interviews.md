@@ -39,7 +39,7 @@ Im nächsten Schritt werden wir zwei Studenten interviewen, um die Benutzer und 
 ## Interview 1: Lars 
 
 ### 1. Zeichne auf den Zeitstrahl wann du lernst
-{: .mb-4 }
+{: .mb-6 }
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/zeitstrahl_lars.png?raw=true)
 
