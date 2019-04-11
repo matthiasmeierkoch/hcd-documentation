@@ -49,9 +49,9 @@ Hier werden einige Methoden beschrieben, die helfen, den Nutzungskontext zu vers
 {: .mb-6 }
 
 ## Unsere Challenge
+{: .text-green-000 }
 > Wie können wir Studenten helfen, den vergangenen Tag ohne grosse Einstiegshürde zu reflektieren?
-
-{: .mb-8 .text-green-000}
+{: .mb-8 }
 
 ## Projektziel
 Studenten fällt es leichter, den Einstieg ins Lernen zu finden. Sie sind in der Prüfungsphase besser auf den Lernstoff vorbereitet und müssen weniger auf einmal lernen. 
