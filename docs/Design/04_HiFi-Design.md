@@ -234,7 +234,8 @@ Die beiden vorherigen Interviews haben uns weiter gebracht. Beim letzten Intervi
 
 ---
 ## Endpräsentation
-Am 6. Tag war es so weit und wir hielten unsere [Schlusspräsentation](https://https://docs.google.com/presentation/d/1v9pAsEaABr0mIPf5lBNuAdv2XF_QURejRmAxMGsrhiU/edit#slide=id.g55425726d1_2_168). Nach den 25 Minuten präsentieren, haben wir von den beiden Dozenten ein gutes Feedback erhalten, welches wir gerne so mitnehmen.{: .mb-6 }
+Am 6. Tag war es so weit und wir hielten unsere [Schlusspräsentation](https://https://docs.google.com/presentation/d/1v9pAsEaABr0mIPf5lBNuAdv2XF_QURejRmAxMGsrhiU/edit#slide=id.g55425726d1_2_168). Nach den 25 Minuten präsentieren, haben wir von den beiden Dozenten ein gutes Feedback erhalten, welches wir gerne so mitnehmen.
+{: .mb-6 }
 
 ### Präsentation Feedback
 * Alle Benutzergruppen erwähnen: Die Seite des Lehrers der Plattform kurz anskizzieren (z.B. in einem Storyboard)
