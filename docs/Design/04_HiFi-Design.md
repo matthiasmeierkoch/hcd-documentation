@@ -212,29 +212,20 @@ Superlearner-Facts
 
 
 ### Was haben wir gelernt?
-Der visuelle Eindruck eines Produkt kann sehr viel zum Benutzererlebniss beitragen. 
+Der visuelle Eindruck eines Produktes kann sehr viel zum Benutzererlebniss beitragen. Wir haben nach der Präsi wertvolles Feedback bekommen, welches wir in nächsten Projekten einsetzen werden. 
 {: .mb-6 }
 
 ### Was war das Highlight?
 Die beiden vorherigen Interviews haben uns weiter gebracht. Beim letzten Interview haben wir einen sehr hohen SUS-Score von 87,5 Punkten erreicht.
 {: .mb-6 }
 
-### Fragen?
-
-{: .mb-6 }
-
 ### Was war schwierig?
-
+In der Präsentation innerhalb von 20 min alles zu erwähnen. Es ist etwas sehr short wenn man bedenkt, was wir alles gemacht haben.
 {: .mb-6 }
 
 ### Was war das Lowlight?
-
+Wir hätten gerne nochmals etwas mehr Zeit gehabt, um die Testergebnisse zu analysieren und die Feedbacks in einem weiteren Designsprint einzusetzen.
 {: .mb-6 }
-
-
-### Was/wer kann Euch dabei helfen?
-
-{: .mb-8 }
 
 ---
 ## Endpräsentation
