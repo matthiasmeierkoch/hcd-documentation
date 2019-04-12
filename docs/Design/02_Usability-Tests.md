@@ -15,7 +15,7 @@ nav_order: 2
 
 # Usability Tests
 ## Erster Usability Walkthrough
-Die ersten beiden Tests werden mit dem Low-Fi Prototyp durchgeführt. Das visuelle Erscheinungbild ist hier noch nicht relevant. Die Person liest sich zuerst das Briefing durch und wir führen sie danach durch unsere vorbereiteten Aufgaben. Im ersten Testing haben wir die Person bzw. die Benutzung des Prototypen gefilmt, um zusätzliche Beobachtungen festzuhalten. Für die Dokumentation haben wir das Video auf relevante Sequenzen geschnitten.
+Die ersten beiden Tests werden mit dem LowFi Prototyp durchgeführt. Das visuelle Erscheinungbild ist hier noch nicht relevant. Die Person liest sich zuerst das Briefing durch und wir führen sie danach durch unsere vorbereiteten Aufgaben. Im ersten Testing haben wir die Person bzw. die Benutzung des Prototypen gefilmt, um zusätzliche Beobachtungen festzuhalten. Für die Dokumentation haben wir das Video auf relevante Sequenzen geschnitten.
 {: .mb-6 }
 
 <iframe src="https://player.vimeo.com/video/329846999" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
