@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  
+
+  <title>HiFi Design - Bocado</title>
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/just-the-docs.css">
+
+  
+
+  
+    <script type="text/javascript" src="http://localhost:4000/assets/js/vendor/lunr.min.js"></script>
+  
+  <script type="text/javascript" src="http://localhost:4000/assets/js/just-the-docs.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+  <div class="page-wrap">
+    <div class="side-bar">
+      <a href="http://localhost:4000" class="site-title fs-6 lh-tight">Bocado</a>
+      <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
+      <div class="navigation main-nav js-main-nav">
+        <nav role="navigation" aria-label="Main navigation">
+  <ul class="navigation-list">
+    
+    
+      
+        
+          <li class="navigation-list-item active">
+            
+            <a href="http://localhost:4000/404/" class="navigation-list-link"></a>
+            
+          </li>
+        
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <li class="navigation-list-item">
+            
+            <a href="http://localhost:4000/" class="navigation-list-link">Home</a>
+            
+          </li>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <li class="navigation-list-item">
+            
+            <a href="http://localhost:4000/Research/" class="navigation-list-link">Research</a>
+            
+              
+              <ul class="navigation-list-child-list ">
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Research/Nutzungskontext/" class="navigation-list-link">Nutzungskontext</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Research/Research-und-Interviews/" class="navigation-list-link">Research und Interviews</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Research/Value-Proposition-Canvas/" class="navigation-list-link">Value Proposition Canvas</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Research/L%C3%B6sungsgestaltung/" class="navigation-list-link">Lösungsgestaltung</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+              </ul>
+            
+          </li>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <li class="navigation-list-item active">
+            
+            <a href="http://localhost:4000/Design/" class="navigation-list-link">Design</a>
+            
+              
+              <ul class="navigation-list-child-list ">
+                
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Design/Ann%C3%A4herung-an-das-Design" class="navigation-list-link">Annäherung an das Design</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Design/Usability-Tests" class="navigation-list-link">Usability Tests</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item  active">
+                      
+                      <a href="http://localhost:4000/Design/HiFi-Design" class="navigation-list-link active">HiFi Design</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+              </ul>
+            
+          </li>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <li class="navigation-list-item">
+            
+            <a href="http://localhost:4000/Endprodukt/" class="navigation-list-link">Endprodukt</a>
+            
+          </li>
+        
+      
+    
+  </ul>
+</nav>
+
+      </div>
+      <footer role="contentinfo" class="site-footer">
+        <p class="text-small text-grey-dk-000 mb-0">This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.</p>
+      </footer>
+    </div>
+    <div class="main-content-wrap js-main-content" tabindex="0">
+      <div class="page-header">
+        <div class="main-content">
+          
+          <div class="search js-search">
+            <div class="search-input-wrap">
+              <input type="text" class="js-search-input search-input" tabindex="0" placeholder="Search Bocado" aria-label="Search Bocado" autocomplete="off">
+              <svg width="14" height="14" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="search-icon"><title>Search</title><g fill-rule="nonzero"><path d="M17.332 20.735c-5.537 0-10-4.6-10-10.247 0-5.646 4.463-10.247 10-10.247 5.536 0 10 4.601 10 10.247s-4.464 10.247-10 10.247zm0-4c3.3 0 6-2.783 6-6.247 0-3.463-2.7-6.247-6-6.247s-6 2.784-6 6.247c0 3.464 2.7 6.247 6 6.247z"/><path d="M11.672 13.791L.192 25.271 3.02 28.1 14.5 16.62z"/></g></svg>
+            </div>
+            <div class="js-search-results search-results-wrap"></div>
+          </div>
+          
+          
+        </div>
+      </div>
+      <div class="main-content">
+        
+          
+            <nav class="breadcrumb-nav">
+              <ol class="breadcrumb-nav-list">
+                
+                  <li class="breadcrumb-nav-list-item"><a href="http://localhost:4000/Design/">Design</a></li>
+                
+                <li class="breadcrumb-nav-list-item"><span>HiFi Design</span></li>
+              </ol>
+            </nav>
+          
+        
+        <div id="main-content" class="page-content" role="main">
+          <h2 class="no_toc text-delta" id="inhaltsverzeichnis">Inhaltsverzeichnis</h2>
+
+<ol class="mb-8" id="markdown-toc">
+  <li><a href="#hifi-prototyp" id="markdown-toc-hifi-prototyp">HiFi Prototyp</a>    <ol>
+      <li><a href="#namensfindung" id="markdown-toc-namensfindung">Namensfindung</a></li>
+      <li><a href="#designsysteme" id="markdown-toc-designsysteme">Designsysteme</a></li>
+      <li><a href="#erkenntnisse-lofi-für-hifi-prototyp" id="markdown-toc-erkenntnisse-lofi-für-hifi-prototyp">Erkenntnisse LoFi für HiFi Prototyp</a>        <ol>
+          <li><a href="#geringes-problem" id="markdown-toc-geringes-problem">Geringes Problem</a></li>
+          <li><a href="#ernsthaftes-problem" id="markdown-toc-ernsthaftes-problem">Ernsthaftes Problem</a></li>
+          <li><a href="#kritisches-problem" id="markdown-toc-kritisches-problem">Kritisches Problem</a></li>
+        </ol>
+      </li>
+      <li><a href="#dritter-test" id="markdown-toc-dritter-test">Dritter Test</a>        <ol>
+          <li><a href="#angaben-zur-testperson-3" id="markdown-toc-angaben-zur-testperson-3">Angaben zur Testperson 3</a></li>
+          <li><a href="#aufgabe-1" id="markdown-toc-aufgabe-1">Aufgabe 1</a></li>
+          <li><a href="#beobachtungen" id="markdown-toc-beobachtungen">Beobachtungen</a></li>
+          <li><a href="#aufgabe-2" id="markdown-toc-aufgabe-2">Aufgabe 2</a></li>
+          <li><a href="#beobachtungen-1" id="markdown-toc-beobachtungen-1">Beobachtungen</a></li>
+          <li><a href="#aufgabe-3" id="markdown-toc-aufgabe-3">Aufgabe 3</a></li>
+          <li><a href="#beobachtungen-2" id="markdown-toc-beobachtungen-2">Beobachtungen</a></li>
+        </ol>
+      </li>
+      <li><a href="#fragebogen---post-session-interview" id="markdown-toc-fragebogen---post-session-interview">Fragebogen - Post Session Interview</a>        <ol>
+          <li><a href="#was-war-positiv" id="markdown-toc-was-war-positiv">Was war positiv?</a></li>
+          <li><a href="#was-war-negativ" id="markdown-toc-was-war-negativ">Was war negativ?</a></li>
+          <li><a href="#was-hat-ihnen-gefehlt" id="markdown-toc-was-hat-ihnen-gefehlt">Was hat ihnen gefehlt?</a></li>
+          <li><a href="#was-haben-sie-für-einen-gesamteindruck-dieser-app" id="markdown-toc-was-haben-sie-für-einen-gesamteindruck-dieser-app">Was haben Sie für einen Gesamteindruck dieser App?</a></li>
+          <li><a href="#sus-fragebogen-severin" id="markdown-toc-sus-fragebogen-severin">SUS Fragebogen Severin</a></li>
+        </ol>
+      </li>
+      <li><a href="#emotional-cards" id="markdown-toc-emotional-cards">Emotional Cards</a>        <ol>
+          <li><a href="#gewählte-karten" id="markdown-toc-gewählte-karten">Gewählte Karten</a></li>
+          <li><a href="#zusätzliches-feedback" id="markdown-toc-zusätzliches-feedback">Zusätzliches Feedback</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li><a href="#sus-summary" id="markdown-toc-sus-summary">SUS Summary</a>    <ol>
+      <li><a href="#grösstes-usability-problem" id="markdown-toc-grösstes-usability-problem">Grösstes Usability-Problem:</a></li>
+      <li><a href="#drei-grösste-probleme-und-mögliche-lösungen" id="markdown-toc-drei-grösste-probleme-und-mögliche-lösungen">Drei grösste Probleme und mögliche Lösungen:</a></li>
+      <li><a href="#prototypen" id="markdown-toc-prototypen">Prototypen</a></li>
+      <li><a href="#tag-6" id="markdown-toc-tag-6">Tag 6</a>        <ol>
+          <li><a href="#was-haben-wir-gelernt" id="markdown-toc-was-haben-wir-gelernt">Was haben wir gelernt?</a></li>
+          <li><a href="#was-war-das-highlight" id="markdown-toc-was-war-das-highlight">Was war das Highlight?</a></li>
+          <li><a href="#was-war-schwierig" id="markdown-toc-was-war-schwierig">Was war schwierig?</a></li>
+          <li><a href="#was-war-das-lowlight" id="markdown-toc-was-war-das-lowlight">Was war das Lowlight?</a></li>
+        </ol>
+      </li>
+      <li><a href="#endpräsentation" id="markdown-toc-endpräsentation">Endpräsentation</a>        <ol>
+          <li><a href="#präsentation-feedback" id="markdown-toc-präsentation-feedback">Präsentation Feedback</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+<h1 id="hifi-prototyp">HiFi Prototyp</h1>
+<p class="mb-8">Bevor man mit einem HiFi-Prototypen anfängt sollte man den LoFi-Prototypen fertigstellen. So ist kann man sich sicher sein den User Flow komplett zu haben. Es kann aber helfen, wichtige Screens die schon final sind, parallel bereits im HiFi-Design aufzubauen.
+Ein HiFi-Prototyp eignet sich vorallem in der Kommunikation mit dem Kunden, um mit ihm zu diesem Zeitpunkt über Visual Design zu sprechen. Im LoFi-Prototyp sollten solche Diskussionen aber vermieden werden.
+Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfeld abgeklärt werden – während des Prozesses ist es sinnvoll in kurzen Abständen Feedback einzuholen.</p>
+
+<hr class="mb-6" />
+
+<h2 id="namensfindung">Namensfindung</h2>
+<p>Lange hatten wir den Arbeitstitel «first steps» für unser Produkt. Während des Prozesses gefiel er uns allerdings immer weniger und wir entschieden uns dazu, für das Produkt einen neuen Namen zu wählen. Dies passierte jedoch erst in der Hi-Fi-Design-Phase.</p>
+
+<p>Hier einige Namensideen, welche uns passend erschienen:</p>
+<ul>
+  <li>mirrorme</li>
+  <li>circles</li>
+  <li>easysteps</li>
+  <li>reflect</li>
+  <li>progress</li>
+  <li>closedcircles</li>
+  <li>bocado</li>
+</ul>
+
+<p><em>bocado it is!</em>
+Entschieden haben wir uns für «bocado», was Häppchen auf Spanisch bedeutet. Dies ist perfekt, da es unsere Vision widerspiegelt, den User häppchenweise mit Fragen zu bedienen.</p>
+
+<hr class="mb-8 mb-6" />
+
+<h2 id="designsysteme">Designsysteme</h2>
+<ul class="mb-8">
+  <li>Grids oft im goldenen Schnitt, z.B. Facebook</li>
+  <li>Ausrichtung von Elementen zueinander</li>
+  <li>Animation soll Fluss von Elementen zeigen, also wie sich das Element entwickelt</li>
+  <li>Overlays haben sich im Desktop etabliert, auf Mobile ist ein neuer Screen üblicher</li>
+  <li>Die wichtigsten Aktionen sind im Fokus</li>
+  <li>Progressbars haben eine gute Userführung</li>
+  <li>Kachelsystem wirkt aufgeräumt und responsive</li>
+</ul>
+
+<hr class="mb-6" />
+
+<h2 id="erkenntnisse-lofi-für-hifi-prototyp">Erkenntnisse LoFi für HiFi Prototyp</h2>
+
+<h3 id="geringes-problem">Geringes Problem</h3>
+<ul class="mb-6">
+  <li>Hinzufügen von Modul durch User → Hugo Hybrid fügt nur die Module hinzu, die er auch möchte</li>
+  <li>Auswahl aus Pool</li>
+</ul>
+
+<h3 id="ernsthaftes-problem">Ernsthaftes Problem</h3>
+<ul class="mb-6">
+  <li>Onboarding wichtig</li>
+  <li>Wie viel Module können angezeigt werden? → Wir setzen Grenzen: Bis 10 Module möglich</li>
+  <li>Unsere Kreise schliessen Funktion ist nicht mehr attraktiv mit mehr als 10 Farben</li>
+</ul>
+
+<h3 id="kritisches-problem">Kritisches Problem</h3>
+<ul class="mb-8">
+  <li>Zu viele Farben als Feedback bei Fragen, dies verwirrt total</li>
+</ul>
+
+<hr class="mb-6" />
+
+<h2 id="dritter-test">Dritter Test</h2>
+
+<h3 id="angaben-zur-testperson-3">Angaben zur Testperson 3</h3>
+<dl class="mb-6">
+  <dt>Name</dt>
+  <dd>Severin</dd>
+  <dt>Beruf</dt>
+  <dd>Informatiker</dd>
+  <dt>Alter</dt>
+  <dd>23</dd>
+  <dt>Geschlecht</dt>
+  <dd>Männlich</dd>
+  <dt>Erfahrung</dt>
+  <dd>Ja Quizlet</dd>
+</dl>
+
+<h3 id="aufgabe-1">Aufgabe 1</h3>
+<p>Klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.</p>
+
+<h3 id="beobachtungen">Beobachtungen</h3>
+<p class="mb-6">Er will swipen wegen den Punkten im Onboarding und würde den Text nicht lesen. Er meint vielleicht ist es so, dass man über das Icon «+» eventuell neue Module hinzufügen könne? Es verwirrt ihn, dass er als Feedback 4 von 5 Fragen richtig beantwortet hat, sich das aber nicht auf das ganze Modul bezieht.</p>
+
+<h3 id="aufgabe-2">Aufgabe 2</h3>
+<p>Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.</p>
+
+<h3 id="beobachtungen-1">Beobachtungen</h3>
+<p class="mb-6">Das Level ist nicht klar weil man keine Nummer hat. Das Icon fällt jedoch sofort auf. Er hielt Daystreak für seinen Level. Er meint «Trophies» brauchen einen Titel. Er kann Levels nicht mit anderen vergleichen (da keine klare Reihenfolge welches Level wie hoch ist).  Der Daystreak fällt aus dem Rahmen weil keine Nummer ist. Unerreichte Achievements sollten versteckt sein. X direkt auf Übersichtsseite in Achievements (wird erwartet). Unerreichte Achievements sollten (on Tap) anzeigen, was ich machen muss um diese zu erreichen.</p>
+
+<h3 id="aufgabe-3">Aufgabe 3</h3>
+<p>Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.</p>
+
+<h3 id="beobachtungen-2">Beobachtungen</h3>
+<p class="mb-8">Er sieht direkt wieviele Benachrichtigungen er hat und denkt er würde mit Klick auf eine Benachrichtigung direkt in eine Frage hinein springen.</p>
+
+<hr class="mb-6" />
+
+<h2 id="fragebogen---post-session-interview">Fragebogen - Post Session Interview</h2>
+<h3 id="was-war-positiv">Was war positiv?</h3>
+<p>Es wirkt sehr clean und aufgeräumt. Kommt mit wenig aus und dasMenü wird als «recht cool» empfunden.</p>
+
+<h3 id="was-war-negativ">Was war negativ?</h3>
+<p>Teilweise zu bräuchte es etwas mehr Informationen. Die Kreise auf der Übersicht waren nicht klar genug. Das Icon von Level/Achievments ist nicht intuitiv.</p>
+
+<h3 id="was-hat-ihnen-gefehlt">Was hat ihnen gefehlt?</h3>
+<p>Module müssen auch löschbar sein. Der Kreis von «International Management» ist nicht gleich wie in der Modul Übersichtsseite. Da das Menu nur bei «Home» kommt müssen die Kreise nicht nochmals da sein.</p>
+
+<h3 id="was-haben-sie-für-einen-gesamteindruck-dieser-app">Was haben Sie für einen Gesamteindruck dieser App?</h3>
+<p class="mb-8">Funktioniert, hätte Lust es einzusetzen! Das Handling ist intuitiv da man schnell zu den Fragen kommt. Der Usecase macht Sinn.</p>
+
+<hr class="mb-6" />
+
+<h3 id="sus-fragebogen-severin">SUS Fragebogen Severin</h3>
+<ol>
+  <li>
+    <p>Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 → 3 Punkte</p>
+  </li>
+  <li>
+    <p>Ich empfinde das System als unnötig komplex. 1 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich empfinde das System als einfach zu nutzen. 4 von 5 → 3 Punkte</p>
+  </li>
+  <li>
+    <p>Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 1 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 5 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich finde, dass es im System zu viele Inkonsistenzen gibt. 2 von 5 → 3 Punkte</p>
+  </li>
+  <li>
+    <p>Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich empfinde die Bedienung als sehr umständlich. 2 von 5 → 3 Punkte</p>
+  </li>
+  <li>
+    <p>Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 5 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 2 von 5 → 3 Punkte</p>
+  </li>
+</ol>
+
+<p class="mb-8"><strong>Punktzahl Total: 35 * 2,5 = 87,5</strong></p>
+
+<hr class="mb-6" />
+
+<h2 id="emotional-cards">Emotional Cards</h2>
+
+<h3 id="gewählte-karten">Gewählte Karten</h3>
+<p><img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_sevi.png?raw=true" alt="" /></p>
+
+<h3 id="zusätzliches-feedback">Zusätzliches Feedback</h3>
+<ul class="mb-10">
+  <li>Achievements müsste man nochmals anschauen</li>
+  <li>Gamification hat ihn nicht interessiert, Level waren nicht klar</li>
+</ul>
+
+<hr class="mb-6" />
+
+<h1 id="sus-summary">SUS Summary</h1>
+<p>Unser Hi-Fi Prototyp hat einen hohen Score von 87,5 Punkten erreicht.</p>
+
+<h2 id="grösstes-usability-problem">Grösstes Usability-Problem:</h2>
+<p>Zusatzinhalte der App, wie Übersicht und Achievements waren nicht intuitiv genug.</p>
+
+<h2 id="drei-grösste-probleme-und-mögliche-lösungen">Drei grösste Probleme und mögliche Lösungen:</h2>
+<ul class="mb-4">
+  <li>Die Level wurden nicht klar erkannt und der Vergleich mit Mitschülern war schwierig.<br />
+<em>Lösung → Level rauswerfen, mit klar definierten Achievements ersetzen.</em></li>
+</ul>
+
+<ul class="mb-4">
+  <li>Die Gamification-Aspekte wurden nicht als interessant empfunden weil alle Achievements schon ersichtlich waren. Das Icon war sichtbar, war aber nur ausgegraut.<br />
+<em>Lösung → Ausgegraute, inaktive Achievements mit Vorhängeschlössern ersetzen. Wie man sie freischaltet kann durch antappen erfahren werden.</em></li>
+</ul>
+
+<ul class="mb-6">
+  <li>Wenn man sich für ein Modul nicht interessiert kann man es nicht löschen.<br />
+<em>Lösung → Lösch-Button in Modulübersicht hinzufügen.</em></li>
+</ul>
+
+<hr class="mb-6" />
+
+<h2 id="prototypen">Prototypen</h2>
+<p><a href="https://www.figma.com/file/TN06iGxN3xCVXq66bDeWGXct/Protoyp-%C2%ABfirst-steps%C2%BB-VERSION-1?node-id=0%3A1">Low-Fi</a></p>
+
+<p><a href="https://www.figma.com/file/XLBaCqPOEOmFO4ujsdx43j/Protoyp-%C2%ABfirst-steps%C2%BB-VERSION-2?node-id=0%3A1">Low-Fi nach Usability Walkthrough</a></p>
+
+<p class="mb-8"><a href="https://https://www.figma.com/file/GN1f3SvmzTkia4DAZaBix0/Protoyp-HIFI-%C2%ABfirst-steps%C2%BB?node-id=0%3A1">Hi-Fi</a></p>
+
+<hr />
+
+<p class="label label-green">Superlearner-Facts</p>
+
+<h2 id="tag-6">Tag 6</h2>
+
+<h3 id="was-haben-wir-gelernt">Was haben wir gelernt?</h3>
+<p class="mb-6">Der visuelle Eindruck eines Produktes kann sehr viel zum Benutzererlebniss beitragen. Wir haben nach der Präsi wertvolles Feedback bekommen, welches wir in nächsten Projekten einsetzen werden.</p>
+
+<h3 id="was-war-das-highlight">Was war das Highlight?</h3>
+<p class="mb-6">Die beiden vorherigen Interviews haben uns weiter gebracht. Beim letzten Interview haben wir einen sehr hohen SUS-Score von 87,5 Punkten erreicht.</p>
+
+<h3 id="was-war-schwierig">Was war schwierig?</h3>
+<p class="mb-6">In der Präsentation innerhalb von 20 min alles zu erwähnen. Es ist etwas sehr short wenn man bedenkt, was wir alles gemacht haben.</p>
+
+<h3 id="was-war-das-lowlight">Was war das Lowlight?</h3>
+<p class="mb-6">Wir hätten gerne nochmals etwas mehr Zeit gehabt, um die Testergebnisse zu analysieren und die Feedbacks in einem weiteren Designsprint einzusetzen.</p>
+
+<hr />
+<h2 id="endpräsentation">Endpräsentation</h2>
+<p class="mb-6">Am 6. Tag war es so weit und wir hielten unsere <a href="https://docs.google.com/presentation/d/1v9pAsEaABr0mIPf5lBNuAdv2XF_QURejRmAxMGsrhiU/edit#slide=id.p">Schlusspräsentation</a>. Nach den knappen 20 Minuten präsentieren, haben wir von den beiden Dozenten ein gutes Feedback erhalten, welches wir gerne so mitnehmen.</p>
+
+<h3 id="präsentation-feedback">Präsentation Feedback</h3>
+<ul class="mb-8">
+  <li>Alle Benutzergruppen erwähnen: Die Seite des Lehrers der Plattform kurz anskizzieren (z.B. in einem Storyboard)</li>
+  <li>Mehr Verbindung zu bocado (häppchenweise): Es wäre schön gewesen wenn beim Wording «Schliesse deine Kreise» mehr darauf eingegangen würde</li>
+  <li>Ansprechendes, simples Design</li>
+  <li>Allein Fragemodus hat eine Form von Gamefication enthalten</li>
+  <li>Etwas mehr Enthusiasmus beim Präsentieren. Stolz sein auf das, was wir die letzten Wochen geschaffen haben.</li>
+  <li>Farben der Module (Rot und Grün) wurden als Signalfarben verstanden</li>
+  <li>Die Erwähnung der Challenge und der Vision war erfreulich</li>
+  <li>Die Vision war schon etwas zu sehr als Lösung formuliert</li>
+</ul>
+
+<p><a href="https://matthiasmeierkoch.github.io/hcd-documentation/Endprodukt" class="btn btn-blue">Zum Endprodukt</a></p>
+
+
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

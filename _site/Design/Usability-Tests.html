@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  
+
+  <title>Usability Tests - Bocado</title>
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/just-the-docs.css">
+
+  
+
+  
+    <script type="text/javascript" src="http://localhost:4000/assets/js/vendor/lunr.min.js"></script>
+  
+  <script type="text/javascript" src="http://localhost:4000/assets/js/just-the-docs.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+  <div class="page-wrap">
+    <div class="side-bar">
+      <a href="http://localhost:4000" class="site-title fs-6 lh-tight">Bocado</a>
+      <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
+      <div class="navigation main-nav js-main-nav">
+        <nav role="navigation" aria-label="Main navigation">
+  <ul class="navigation-list">
+    
+    
+      
+        
+          <li class="navigation-list-item active">
+            
+            <a href="http://localhost:4000/404/" class="navigation-list-link"></a>
+            
+          </li>
+        
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <li class="navigation-list-item">
+            
+            <a href="http://localhost:4000/" class="navigation-list-link">Home</a>
+            
+          </li>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <li class="navigation-list-item">
+            
+            <a href="http://localhost:4000/Research/" class="navigation-list-link">Research</a>
+            
+              
+              <ul class="navigation-list-child-list ">
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Research/Nutzungskontext/" class="navigation-list-link">Nutzungskontext</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Research/Research-und-Interviews/" class="navigation-list-link">Research und Interviews</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Research/Value-Proposition-Canvas/" class="navigation-list-link">Value Proposition Canvas</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Research/L%C3%B6sungsgestaltung/" class="navigation-list-link">Lösungsgestaltung</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+              </ul>
+            
+          </li>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <li class="navigation-list-item active">
+            
+            <a href="http://localhost:4000/Design/" class="navigation-list-link">Design</a>
+            
+              
+              <ul class="navigation-list-child-list ">
+                
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Design/Ann%C3%A4herung-an-das-Design" class="navigation-list-link">Annäherung an das Design</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item  active">
+                      
+                      <a href="http://localhost:4000/Design/Usability-Tests" class="navigation-list-link active">Usability Tests</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                    <li class="navigation-list-item ">
+                      
+                      <a href="http://localhost:4000/Design/HiFi-Design" class="navigation-list-link">HiFi Design</a>
+                      
+                    </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+              </ul>
+            
+          </li>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <li class="navigation-list-item">
+            
+            <a href="http://localhost:4000/Endprodukt/" class="navigation-list-link">Endprodukt</a>
+            
+          </li>
+        
+      
+    
+  </ul>
+</nav>
+
+      </div>
+      <footer role="contentinfo" class="site-footer">
+        <p class="text-small text-grey-dk-000 mb-0">This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.</p>
+      </footer>
+    </div>
+    <div class="main-content-wrap js-main-content" tabindex="0">
+      <div class="page-header">
+        <div class="main-content">
+          
+          <div class="search js-search">
+            <div class="search-input-wrap">
+              <input type="text" class="js-search-input search-input" tabindex="0" placeholder="Search Bocado" aria-label="Search Bocado" autocomplete="off">
+              <svg width="14" height="14" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="search-icon"><title>Search</title><g fill-rule="nonzero"><path d="M17.332 20.735c-5.537 0-10-4.6-10-10.247 0-5.646 4.463-10.247 10-10.247 5.536 0 10 4.601 10 10.247s-4.464 10.247-10 10.247zm0-4c3.3 0 6-2.783 6-6.247 0-3.463-2.7-6.247-6-6.247s-6 2.784-6 6.247c0 3.464 2.7 6.247 6 6.247z"/><path d="M11.672 13.791L.192 25.271 3.02 28.1 14.5 16.62z"/></g></svg>
+            </div>
+            <div class="js-search-results search-results-wrap"></div>
+          </div>
+          
+          
+        </div>
+      </div>
+      <div class="main-content">
+        
+          
+            <nav class="breadcrumb-nav">
+              <ol class="breadcrumb-nav-list">
+                
+                  <li class="breadcrumb-nav-list-item"><a href="http://localhost:4000/Design/">Design</a></li>
+                
+                <li class="breadcrumb-nav-list-item"><span>Usability Tests</span></li>
+              </ol>
+            </nav>
+          
+        
+        <div id="main-content" class="page-content" role="main">
+          <h2 class="no_toc text-delta" id="inhaltsverzeichnis">Inhaltsverzeichnis</h2>
+
+<ol class="mb-8" id="markdown-toc">
+  <li><a href="#usability-tests" id="markdown-toc-usability-tests">Usability Tests</a>    <ol>
+      <li><a href="#erster-usability-walkthrough" id="markdown-toc-erster-usability-walkthrough">Erster Usability Walkthrough</a>        <ol>
+          <li><a href="#angaben-zur-testperson-1" id="markdown-toc-angaben-zur-testperson-1">Angaben zur Testperson 1</a></li>
+          <li><a href="#aufgabe-1" id="markdown-toc-aufgabe-1">Aufgabe 1</a></li>
+          <li><a href="#beobachtungen" id="markdown-toc-beobachtungen">Beobachtungen</a></li>
+          <li><a href="#aufgabe-2" id="markdown-toc-aufgabe-2">Aufgabe 2</a></li>
+          <li><a href="#beobachtungen-1" id="markdown-toc-beobachtungen-1">Beobachtungen</a></li>
+          <li><a href="#aufgabe-3" id="markdown-toc-aufgabe-3">Aufgabe 3</a></li>
+          <li><a href="#beobachtungen-2" id="markdown-toc-beobachtungen-2">Beobachtungen</a></li>
+          <li><a href="#aufgabe-4" id="markdown-toc-aufgabe-4">Aufgabe 4</a></li>
+          <li><a href="#beobachtungen-3" id="markdown-toc-beobachtungen-3">Beobachtungen</a></li>
+        </ol>
+      </li>
+      <li><a href="#fragebogen--post-session-interview" id="markdown-toc-fragebogen--post-session-interview">Fragebogen – Post Session Interview</a>        <ol>
+          <li><a href="#was-war-positiv" id="markdown-toc-was-war-positiv">Was war positiv?</a></li>
+          <li><a href="#was-war-negativ" id="markdown-toc-was-war-negativ">Was war negativ?</a></li>
+          <li><a href="#was-hat-ihnen-gefehlt" id="markdown-toc-was-hat-ihnen-gefehlt">Was hat ihnen gefehlt?</a></li>
+          <li><a href="#was-haben-sie-für-einen-gesamteindruck-dieser-app" id="markdown-toc-was-haben-sie-für-einen-gesamteindruck-dieser-app">Was haben Sie für einen Gesamteindruck dieser App?</a></li>
+          <li><a href="#was-hat-gefallen" id="markdown-toc-was-hat-gefallen">Was hat gefallen?</a></li>
+          <li><a href="#verbesserungen" id="markdown-toc-verbesserungen">Verbesserungen?</a></li>
+          <li><a href="#war-das-menu-klar" id="markdown-toc-war-das-menu-klar">War das Menu klar?</a></li>
+          <li><a href="#gegenfragen" id="markdown-toc-gegenfragen">Gegenfragen:</a></li>
+        </ol>
+      </li>
+      <li><a href="#emo-cards" id="markdown-toc-emo-cards">Emo-Cards</a>        <ol>
+          <li><a href="#gewählte-karten" id="markdown-toc-gewählte-karten">Gewählte Karten</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li><a href="#der-sus-fragebogen" id="markdown-toc-der-sus-fragebogen">Der SUS-Fragebogen</a>    <ol>
+      <li><a href="#auswertung" id="markdown-toc-auswertung">Auswertung</a></li>
+      <li><a href="#sus-fragebogen-test-1" id="markdown-toc-sus-fragebogen-test-1">SUS-Fragebogen Test 1</a></li>
+      <li><a href="#zweiter-usability-walkthrough" id="markdown-toc-zweiter-usability-walkthrough">Zweiter Usability Walkthrough</a>        <ol>
+          <li><a href="#angaben-zur-testperson-2" id="markdown-toc-angaben-zur-testperson-2">Angaben zur Testperson 2</a></li>
+          <li><a href="#aufgabe-1-1" id="markdown-toc-aufgabe-1-1">Aufgabe 1</a></li>
+          <li><a href="#beobachtungen-4" id="markdown-toc-beobachtungen-4">Beobachtungen</a></li>
+          <li><a href="#aufgabe-2-1" id="markdown-toc-aufgabe-2-1">Aufgabe 2</a></li>
+          <li><a href="#beobachtungen-5" id="markdown-toc-beobachtungen-5">Beobachtungen</a></li>
+          <li><a href="#aufgabe-3-1" id="markdown-toc-aufgabe-3-1">Aufgabe 3</a></li>
+          <li><a href="#beobachtungen-6" id="markdown-toc-beobachtungen-6">Beobachtungen</a></li>
+          <li><a href="#aufgabe-4-1" id="markdown-toc-aufgabe-4-1">Aufgabe 4</a></li>
+          <li><a href="#beobachtungen-7" id="markdown-toc-beobachtungen-7">Beobachtungen</a></li>
+        </ol>
+      </li>
+      <li><a href="#fragebogen---post-session-interview" id="markdown-toc-fragebogen---post-session-interview">Fragebogen - Post Session Interview</a>        <ol>
+          <li><a href="#was-war-positiv-1" id="markdown-toc-was-war-positiv-1">Was war positiv?</a></li>
+          <li><a href="#was-war-negativ-1" id="markdown-toc-was-war-negativ-1">Was war negativ?</a></li>
+          <li><a href="#was-hat-ihnen-gefehlt-1" id="markdown-toc-was-hat-ihnen-gefehlt-1">Was hat ihnen gefehlt?</a></li>
+          <li><a href="#was-haben-sie-für-einen-gesamteindruck-dieser-app-1" id="markdown-toc-was-haben-sie-für-einen-gesamteindruck-dieser-app-1">Was haben Sie für einen Gesamteindruck dieser App?</a></li>
+        </ol>
+      </li>
+      <li><a href="#emo-cards-1" id="markdown-toc-emo-cards-1">Emo-Cards</a>        <ol>
+          <li><a href="#gewählte-karten-1" id="markdown-toc-gewählte-karten-1">Gewählte Karten</a></li>
+        </ol>
+      </li>
+      <li><a href="#sus-fragebogen-steffi" id="markdown-toc-sus-fragebogen-steffi">SUS Fragebogen Steffi</a></li>
+      <li><a href="#befunde-nach-beiden-tests" id="markdown-toc-befunde-nach-beiden-tests">Befunde nach beiden Tests</a>        <ol>
+          <li><a href="#verbesserte-screens-des-lowfi-prototyp" id="markdown-toc-verbesserte-screens-des-lowfi-prototyp">Verbesserte Screens des LowFi Prototyp</a></li>
+        </ol>
+      </li>
+      <li><a href="#tag-5" id="markdown-toc-tag-5">Tag 5</a>        <ol>
+          <li><a href="#was-haben-wir-gelernt" id="markdown-toc-was-haben-wir-gelernt">Was haben wir gelernt?</a></li>
+          <li><a href="#was-war-das-highlight" id="markdown-toc-was-war-das-highlight">Was war das Highlight?</a></li>
+          <li><a href="#was-war-schwierig" id="markdown-toc-was-war-schwierig">Was war schwierig?</a></li>
+          <li><a href="#was-war-das-lowlight" id="markdown-toc-was-war-das-lowlight">Was war das Lowlight?</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+<h1 id="usability-tests">Usability Tests</h1>
+<h2 id="erster-usability-walkthrough">Erster Usability Walkthrough</h2>
+<p class="mb-6">Die ersten beiden Tests werden mit dem Low-Fi Prototyp durchgeführt. Das visuelle Erscheinungbild ist hier noch nicht relevant. Die Person liest sich zuerst das Briefing durch und wir führen sie danach durch unsere vorbereiteten Aufgaben. Im ersten Testing haben wir die Person bzw. die Benutzung des Prototypen gefilmt, um zusätzliche Beobachtungen festzuhalten. Für die Dokumentation haben wir das Video auf relevante Sequenzen geschnitten.</p>
+
+<iframe src="https://player.vimeo.com/video/329846999" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
+
+<h3 class="mb-8" id="angaben-zur-testperson-1">Angaben zur Testperson 1</h3>
+<dl class="mb-6">
+  <dt>Name</dt>
+  <dd>Nils</dd>
+  <dt>Beruf</dt>
+  <dd>UX/UI Designer</dd>
+  <dt>Alter</dt>
+  <dd>25</dd>
+  <dt>Geschlecht</dt>
+  <dd>Männlich</dd>
+  <dt>Erfahrung</dt>
+  <dd>Keine</dd>
+</dl>
+
+<h3 id="aufgabe-1">Aufgabe 1</h3>
+<p class="mb-6 mb-6">Lese die Push Notification und klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.</p>
+
+<p><img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow.png?raw=true" alt="" /></p>
+<h3 id="beobachtungen">Beobachtungen</h3>
+<p class="mb-6">Er stellt Rückfragen zum Briefing. Als er die erste Frage erreicht findet er selber heraus, dass er sie beantworten muss. Die Farben Rot und Grün stehen für richtig und falsch. Er versteht deshalb, ob er die Frage richtig oder falsch beantwortet hat. Er meint, dass das Feedback auch ein Button ist weil es farblich gleich wie die Antwort ist. Ihm ist zu wenig klar dass es über das Feedback zur nächsten Frage geht. Das Feedback sowie ein «Weiter-Button» sollen separat sein. Es sind momentan zu viele Infos in einem Element. Danach kommt er auf die Statistiken von einem Modul. Die Lernkurve versteht er und die Smileys zeigen wie oft er schlecht gewesen ist. Es zeigt wie viele Fragen er noch bearbeiten muss.</p>
+
+<h3 id="aufgabe-2">Aufgabe 2</h3>
+<p class="mb-6">Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management aus? Repetiere das Modul.</p>
+
+<p><img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow.png?raw=true" alt="" /></p>
+<h3 id="beobachtungen-1">Beobachtungen</h3>
+<p class="mb-6">Er kommt auf die Übersicht und versteht nicht, dass es hier kein Fragescreen ist, bzw. er meint, dass es auch eine Aufgabe ist, die man lösen muss, da die Seite ähnlich aufgebaut ist. Die 3 Buttons verwirren. Diese könnten auch Antworten sein. Er klickt auf repetieren.</p>
+
+<h3 id="aufgabe-3">Aufgabe 3</h3>
+<p class="mb-6">Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.</p>
+
+<p class="mb-6"><img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow.png?raw=true" alt="" /></p>
+
+<h3 id="beobachtungen-2">Beobachtungen</h3>
+<p class="mb-6">Er gelangt auf die Übersicht und nimmt an das Taco-Icon steht für sein Profilicon. Er weiss nicht wie klar das ist, aber er meint, dass es nunmal das einzig mögliche Icon ist. Auf der Levelseite hat er keine möglichkeit den Gesamtlevel anzusehen. Er meint es wäre spannender eine Gesamtübersicht über das Modul anzuzeigen und nicht nur das Level. Die Punktezusammensetzung ist ihm nicht klar. «Wie erreiche ich die Punkte?», fragt er sich. Er weiss es nicht. Die Punkte setzen sich aus der Lernkurve zusammen. Resultieren aus den 5 Fragen ebenfalls 5 Punkte?</p>
+
+<h3 id="aufgabe-4">Aufgabe 4</h3>
+<p class="mb-6">Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.</p>
+
+<p class="mb-6"><img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/04_usabilityflow.png?raw=true" alt="" /></p>
+
+<h3 id="beobachtungen-3">Beobachtungen</h3>
+<p class="mb-8">Er nimmt an, dass die Benachrichtigungen beim Icon mit der Glocke zu finden sind. Er liest die Benachrichtigungen durch. Er ist sich nicht sicher, ob jetzt nur die 5 Fragen auf der jeweiligen Benachrichtigung zu finden sind oder alle ungelösten. Auf dem Repetieren-Button erwartet er, dass er alle Fragen repetieren muss, also auch diese, die er bereits richtig beantwortet hat.</p>
+
+<hr class="mb-6" />
+
+<h2 id="fragebogen--post-session-interview">Fragebogen – Post Session Interview</h2>
+<h3 id="was-war-positiv">Was war positiv?</h3>
+<p class="mb-6">Die Fragestellung war sehr intuitiv.</p>
+
+<h3 id="was-war-negativ">Was war negativ?</h3>
+<p>Inkonsistenz: Es war nicht klar, dass die Übersicht die Module zeigt. Bei den Fragen ist das Feedback verwirrend.</p>
+
+<h3 id="was-hat-ihnen-gefehlt">Was hat ihnen gefehlt?</h3>
+<p>Eine Gruppierung der Module und eine Angabe des Dozenten. Es ist nicht klar wer die Fragen macht.</p>
+
+<h3 id="was-haben-sie-für-einen-gesamteindruck-dieser-app">Was haben Sie für einen Gesamteindruck dieser App?</h3>
+<p>Sie ist aufgeräumt aber Gleiches soll auch Gleiches machen, Unterschiedliches soll sich auch anders verhalten.</p>
+
+<h3 id="was-hat-gefallen">Was hat gefallen?</h3>
+<p>Sehr simpel und ufgeräumt. Es gibt keine unnötigen Infos und der Usecase ist auf das nötigste reduziert.</p>
+
+<h3 id="verbesserungen">Verbesserungen?</h3>
+<p>Modulstatistiken sind noch nicht klar. Es macht keinen Sinn das Level zu verstecken.</p>
+
+<h3 id="war-das-menu-klar">War das Menu klar?</h3>
+<p>Die Icons sollen nicht oben stehen sondern nach unten, da man sie oben schlecht klicken kann und swipen könnte man auch unten. Den Aufbau müsste man ändern, wenn icons nach unten kommen. Es sollte mit mehr Ebenen gearbeitet werden und nicht alles versuchen mit swipen zu lösen.</p>
+
+<h3 id="gegenfragen">Gegenfragen:</h3>
+<p class="mb-8">Wer macht fragen bereit? Gibt es einen Login? Inhalt noch etwas mehr gliedern: Bei welchem Dozent habe ich was, wie sind die Module aufgeteilt? Braucht es ein Archiv, das die abgeschlossenen Fächer zeigt?</p>
+
+<hr class="mb-6" />
+
+<h2 id="emo-cards">Emo-Cards</h2>
+<p>Man legt Karten mit diversen Adjektiven auf den Tisch aus und Testperson wählt drei Karten, welche er findet passt am besten zum Produkt. Wichtig ist, was der Tester zu den Karten sagt.</p>
+
+<h3 id="gewählte-karten">Gewählte Karten</h3>
+<p class="mb-10"><img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_nils.png?raw=true" alt="" /></p>
+
+<hr class="mb-6" />
+
+<h1 id="der-sus-fragebogen">Der SUS-Fragebogen</h1>
+<p class="mb-6">Mithilfe eines einfachen Fragebogens (System Usability Scale), der aus insgesamt zehn Fragen, auf Basis von Likert-Skalen mit je fünf Optionen besteht, kann ermittelt werden, wie nutzerfreundlich eine Software wahrgenommen wird. Der SUS-Fragebogen enthält fünf positiv und fünf negativ formulierte Aussagen zur Usability des zu bewertenden Systems.</p>
+
+<h2 id="auswertung">Auswertung</h2>
+<ul class="mb-8">
+  <li>Immer die gleichen 10 Fragen.</li>
+  <li>Am Schluss gibt eine Note zwischen 1-4.</li>
+  <li>Bei ungraden Fragen jeweils Antwort - 1.</li>
+  <li>Bei graden Fragen jeweils 5(max Punkte)-Antwort.</li>
+  <li>Alle Punkte zusammenzählen und mit 2,5 multiplizieren, ergibt Punktzahl von 100. Am Schluss bekommt man einen Wert, der keine Prozente angibt.</li>
+  <li>60 bis 80 ist grenzwärtig. Wenn man +80 erhält, ist man auf einem guten Weg.</li>
+</ul>
+
+<hr class="mb-6" />
+
+<h2 id="sus-fragebogen-test-1">SUS-Fragebogen Test 1</h2>
+<ol>
+  <li>
+    <p>Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 → 3 Punkte</p>
+  </li>
+  <li>
+    <p>Ich empfinde das System als unnötig komplex. 2 von 5 → 3 Punkte</p>
+  </li>
+  <li>
+    <p>Ich empfinde das System als einfach zu nutzen. 3 von 5 → 2 Punkte</p>
+  </li>
+  <li>
+    <p>Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 1 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 3 von 5 → 2 Punkte</p>
+  </li>
+  <li>
+    <p>Ich finde, dass es im System zu viele Inkonsistenzen gibt. 2 von 5 → 3 Punkte</p>
+  </li>
+  <li>
+    <p>Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich empfinde die Bedienung als sehr umständlich. 3 von 5 → 2 Punkte</p>
+  </li>
+  <li>
+    <p>Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 5 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 1 von 5 → 4 Punkte</p>
+  </li>
+</ol>
+
+<p class="mb-8"><strong>Punktzahl Total: 31 * 2,5 = 77,5</strong></p>
+
+<hr class="mb-6" />
+
+<h2 id="zweiter-usability-walkthrough">Zweiter Usability Walkthrough</h2>
+<h3 id="angaben-zur-testperson-2">Angaben zur Testperson 2</h3>
+<dl class="mb-6">
+  <dt>Name</dt>
+  <dd>Stefanie</dd>
+  <dt>Beruf</dt>
+  <dd>UX/UI Designer</dd>
+  <dt>Alter</dt>
+  <dd>33</dd>
+  <dt>Geschlecht</dt>
+  <dd>Weiblich</dd>
+  <dt>Erfahrung</dt>
+  <dd>Keine</dd>
+</dl>
+
+<h3 id="aufgabe-1-1">Aufgabe 1</h3>
+<p>Lese die Push Notification und klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.</p>
+
+<h3 id="beobachtungen-4">Beobachtungen</h3>
+<p class="mb-6">Sie klickt sich zum Logo und weiss von da nicht ob sie weiter muss. Sie kommt zu den Fragen und ihr ist klar, dass es 5 Fragen gibt. Sie fragt sich ob es nur 3 Antworten sind? Sie weiss nicht ob der Button sie zur nächsten Frage bringt. Muss sie scrollen oder bringt es sie automatisch weiter? Da der Button auch rot ist würde sie nicht draufklicken. Wir fragen sie ob es mit einem Pfeil klarer ist. Sie meint ja aber es wäre irritierend mit zwei roten Buttons. Sie findet es verwirrend dass wir bei falscher Eingabe 3 unterschiedliche Farben anzeigen. «Was soll der Taco? Kann ich da etwas essen?»</p>
+
+<h3 id="aufgabe-2-1">Aufgabe 2</h3>
+<p>Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management aus? Repetiere das Modul.</p>
+
+<h3 id="beobachtungen-5">Beobachtungen</h3>
+<p class="mb-6">Sie versteht dass die Kreise ganze Module darstellen. Sie klickt direkt in das Modul St.Galler Management Modell. Bei der Statistik des Lernverlaufs fragt sie wie man erkennt wie viel man gelernt hat? Sie denkt es ist der Zeitraum wann ich wieviel gelernt habe. Ihr fehlt aber die y-Achse. Es ist ihr klar, dass man das Modul über den entsprechenden Button repetieren kann. Sie fragt: wird der letzte Push repetiert? Sie fände es besser wenn sie auswählen kann was genau sie repetiert. Es wäre cool, wenn man nur Fragen, die man noch nicht beantwortet hat zuerst beantworten kann.</p>
+
+<h3 id="aufgabe-3-1">Aufgabe 3</h3>
+<p>Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.</p>
+
+<h3 id="beobachtungen-6">Beobachtungen</h3>
+<p class="mb-6">Sie klickt auf das Homeicon. Die Menu-Platzierung oben stört sie nicht. Sie findet die Levels nicht. Sie klickt irgendwann auf das Level-Icon, da sie nicht weiss wo sie sonst klicken soll. Ihrer Ansicht nach muss das Levelsystem erklärt werden. Levelsystem mit Icons im Foodbereich sind verwirrend, da die App nichts mit Essen zu tun hat. Sie findet, dass ein Profilbutton klarer wäre. Zurück swipen oder ein Homebutton um auf die Übersicht zu gelangen wäre wünschenswert.</p>
+
+<h3 id="aufgabe-4-1">Aufgabe 4</h3>
+<p>Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.</p>
+
+<h3 id="beobachtungen-7">Beobachtungen</h3>
+<p class="mb-6">Der Übersichtscreen war ihr klar, da sie ihn erwartet hat. Sie sieht die 2 offenen Mitteilungen. Sie fragt sich was geklickt werden muss um nur diese Fragen zu repetieren. Sie denkt, dass direkt auf den Benachrichtigungen nur die Fragen kommen, die man repetieren sollte und wenn man auf den Repetieren-Buton klickt, kommt alles was noch offen ist.</p>
+
+<p class="mb-6"><img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/useability-test-steffi.jpeg?raw=true" alt="" /></p>
+
+<hr class="mb-6" />
+
+<h2 id="fragebogen---post-session-interview">Fragebogen - Post Session Interview</h2>
+<h3 id="was-war-positiv-1">Was war positiv?</h3>
+<p>Die Fragestellung war sehr intuitiv.</p>
+
+<h3 id="was-war-negativ-1">Was war negativ?</h3>
+<p>Man kann nicht zurück, um nochmals zur letzten Frage zu gehen. Sie hätte etwas mehr erwartet.</p>
+
+<h3 id="was-hat-ihnen-gefehlt-1">Was hat ihnen gefehlt?</h3>
+<p>Eine Übersicht der Fragen wäre spannend. Es wäre spannend die Fragen für die Prüfung nochmals durchgehen zu können und eine Art Fehlerrate angezeigt bekommt.</p>
+
+<h3 id="was-haben-sie-für-einen-gesamteindruck-dieser-app-1">Was haben Sie für einen Gesamteindruck dieser App?</h3>
+<p class="mb-8">Der Anfang der Fragen war klar. Man könnte aber noch etwas mehr machen. Sie hätte erwartet, dass sie noch mehr repetieren kann.</p>
+
+<hr class="mb-6" />
+
+<h2 id="emo-cards-1">Emo-Cards</h2>
+
+<h3 id="gewählte-karten-1">Gewählte Karten</h3>
+<p class="mb-8"><img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_steffi.png?raw=true" alt="" /></p>
+
+<hr class="mb-6" />
+
+<h2 id="sus-fragebogen-steffi">SUS Fragebogen Steffi</h2>
+<ol>
+  <li>
+    <p>Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 5 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich empfinde das System als unnötig komplex. 1 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich empfinde das System als einfach zu nutzen. 4 von 5 → 3 Punkte</p>
+  </li>
+  <li>
+    <p>Ich denke, dass ich technischen Support brauchen würde, um das System zu nutzen. 3 von 5 → 2 Punkte</p>
+  </li>
+  <li>
+    <p>Ich finde, dass die verschiedenen Funktionen des Systems gut integriert sind. 5 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich finde, dass es im System zu viele Inkonsistenzen gibt. 3 von 5 → 2 Punkte</p>
+  </li>
+  <li>
+    <p>Ich kann mir vorstellen, dass die meisten Leute das System schnell zu beherrschen lernen. 5 von 5 → 4 Punkte</p>
+  </li>
+  <li>
+    <p>Ich empfinde die Bedienung als sehr umständlich. 2 von 5 → 3 Punkte</p>
+  </li>
+  <li>
+    <p>Ich habe mich bei der Nutzung des Systems sehr sicher gefühlt. 4 von 5 → 3 Punkte</p>
+  </li>
+  <li>
+    <p>Ich musste eine Menge Dinge lernen, bevor ich mit dem System arbeiten konnte. 1 von 5 → 4 Punkte</p>
+  </li>
+</ol>
+
+<p class="mb-8"><strong>Punktzahl Total: 33 * 2,5 = 82,5</strong></p>
+
+<hr class="mb-6" />
+
+<h2 id="befunde-nach-beiden-tests">Befunde nach beiden Tests</h2>
+<ul class="mb-6">
+  <li>Menu: Platzierung überdenken, Level im Onboarding erklären</li>
+  <li>Oboarding mit den wichtigsten Funktionen erstellen</li>
+  <li>Repetieren-Button: Wording nicht dem Use-Case entsprechend. Anderes Wording → eventuell Textbox «Du hast noch X Fragen falsch oder noch nicht beantwortet, hole das HIER nach →»</li>
+  <li>Feedback bei Fragen soll klarer sein, Feedback von Weiter Button trennen. optisch von Antwort abheben</li>
+  <li>Lernverlauf: Statistik-Page muss klarer sein. Was wird gezeigt, wie wird es gezeigt.</li>
+  <li>Level nicht in Detailansicht zeigen → zeigt ja Fotschritt über alle Module</li>
+</ul>
+
+<h3 class="mb-6" id="verbesserte-screens-des-lowfi-prototyp">Verbesserte Screens des LowFi Prototyp</h3>
+
+<p class="mb-4">Übersichtsscreen angepasst mit «Modul hinzufügen» Button, Levelseite angepasst:</p>
+
+<p class="mb-8"><img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow_verbesserungen.png?raw=true" alt="" /></p>
+
+<p class="mb-4">Mitteilungen zusammengefasst, Feedback bei Fragen vereinfacht, Modulübersicht Repetierbuttons neu:</p>
+
+<p class="mb-8"><img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow_verbesserungen.png?raw=true" alt="" /></p>
+
+<p class="mb-4">Onboarding mit den wichtigsten 4 Features:</p>
+
+<p class="mb-6"><img src="https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/03_usabilityflow_verbesserungen.png?raw=true" alt="" /></p>
+
+<hr />
+<p class="label label-green">Superlearner-Facts</p>
+
+<h2 id="tag-5">Tag 5</h2>
+
+<h3 id="was-haben-wir-gelernt">Was haben wir gelernt?</h3>
+<p class="mb-6">Auch wenn einem das Produkt super einfach vorkommt, merkt man durch die Interviews, was man alles vergessen hat oder doch nicht so gut durchdacht.</p>
+
+<h3 id="was-war-das-highlight">Was war das Highlight?</h3>
+<p class="mb-6">Es war total spannend zu sehen was die Testpersonen zu unserem Produkt für Feedback gaben. Hat uns auf jedenfall geholfen uns selber nochmals gewisse Fragen zu stellen und alles aus einem anderen Blickwinkel zu betrachten.</p>
+
+<h3 id="was-war-schwierig">Was war schwierig?</h3>
+<p class="mb-6">Bei den Interviews nicht anfangen der Testperson zu helfen sondern immer Gegenfragen stellen, um so noch mehr über die Denkweise der User zu erhalten.</p>
+
+<h3 id="was-war-das-lowlight">Was war das Lowlight?</h3>
+<p>Zu merken dass Features der App die wir toll fanden von den Probanden einfach nicht verstanden oder für unnötig empfunden wurden. Ein Beispiel wäre das Levelsystem welches meist nur verwirrte. Dabei ist der Gamification Aspekt ein grosser Teil unserer Idee.</p>
+
+<p class="mb-8"><a href="https://matthiasmeierkoch.github.io/hcd-documentation/Design/HiFi-Design" class="btn btn-blue">Zum HiFi-Design</a></p>
+
+
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
