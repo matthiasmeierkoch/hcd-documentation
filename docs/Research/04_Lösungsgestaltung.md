@@ -34,11 +34,11 @@ _«It's not that I'm so smart, it's just that I stay with the problems longer.»
 Originelle Ideen enstehen weg von bekannten Denkmustern. Mit diesem Input sind wir in einen Postenlauf eingestiegen, indem wir 3 verschiedene Kreativitätstechniken durchführten, um auf andere Ideen zu kommen. Zuerst definieren wir ein aktuelles Problem aus der User Journey Map und die dazugehörende Challenge.
 {: .mb-6 }
 
-### Problem:
+### Problem
 Der User beschäftigt sich nicht mit Fächern, für die er sich nicht begeistern lässt.
 {: .mb-6 }
 
-### Challenge:
+### Challenge
 Wie können wir dem User helfen, sich auch mit für ihn unineressanten Fächern zu beschäftigen?
 {: .mb-6 }
 
@@ -184,7 +184,7 @@ Superlearner-Facts
 
 ## Tag 3
 
-### Artefakte, die wir erstellt und abgegeben haben:
+### Artefakte, die wir erstellt und abgegeben haben
 Storyboard und User Story Map, User Flow als UI Sketch.
 {: .mb-6 }
 
