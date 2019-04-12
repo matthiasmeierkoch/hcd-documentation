@@ -78,6 +78,7 @@ Aufgrund der Persona «Hugo Hybrid» wurde das IST-Szenario erstellt, das den ak
 {: .mb-6 }
 
 ### Story
+{: .no_toc }
 Hugo ist im 4. Semester des Studiengangs Business Innovation, mit dem Ziel, eines Tages sein eigenes Start-Up an die Spitze zu bringen. Er verbringt seine Tage damit Vorlesungen zu besuchen, interessante Themen zu vertiefen und an Networking-Events teilzunehmen. Neben seinem Studium engagiert er sich in einer Studentenverbindung. Nicht aber, um anderen zu helfen – sondern um sich mit mehr Leuten bekannt zu machen und für die praktische Festigung von Theoretisch erlerntem. Sonst trifft er gerne seine Freunde auf ein Bier. Networking ist ihm sehr wichtig.
 
 In seinem Studium gibt es Lieblingsfächer, wie zum Beispiel «Geschäftsmodellinnovationen», in die er sich hinein kniet und ausgiebig Notizen und Überlegungen macht. In diesen Fächern hat er auch stets gute Noten und durch sein reges Interesse fällt es ihm in der Lernphase nicht schwer, das gesammelte zu lernen und auch längerfristig zu merken.
@@ -103,10 +104,12 @@ Superlearner-Facts
 ## Tag 2
 
 ### Artefakte, die wir erstellt und abgegeben haben
+{: .no_toc }
 Interview Skripts, 3 Personas definiert, daraus aus dem Mittelfeld 1 Persona erstellt und uns auf diese fokussiert
 {: .mb-6 }
 
 ### Was haben wir gelernt?
+{: .no_toc }
 * Wie führt man Interviews, richtige Fragen stellen
 * Was kann man daraus schliessen
 * verschiedene Hilfreiche Tools ([
@@ -116,14 +119,17 @@ User journeys](https://uxpressia.com/p/Qr8zZ/p/YgOOW) erstellen)
 {: .mb-6 }
 
 ### Was war schwierig?
+{: .no_toc }
 Viele neue Begriffe, die man noch nicht mit etwas verknüpfen kann.
 {: .mb-6 }
 
 ### Was war das Highlight?
+{: .no_toc }
 Die Interviews zu führen oder den Interviewten zu spielen. War spannend zu sehen wie sich das anfühlt und was man alles dabei neues herausfinden kann.
 {: .mb-6 }
 
 ### Was war das Lowlight?
+{: .no_toc }
 Alles muss ratz fatz gehen. Ein wenig mehr Bedenkzeit wäre zum Teil schon nötig.
 Bei den Interviews ist leider untergangen diese zu filmen. Dafür haben wir sie ausführlich schriftlich festgehalten.
 {: .mb-8 }
