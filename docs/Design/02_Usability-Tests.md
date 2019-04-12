@@ -24,6 +24,7 @@ Die ersten beiden Tests werden mit dem LowFi Prototyp durchgeführt. Das visuell
 {: .mb-8 }
 
 ### Angaben zur Testperson 1
+{: .no_toc }
 <dl>
   <dt>Name</dt>
   <dd>Nils</dd>
@@ -39,25 +40,30 @@ Die ersten beiden Tests werden mit dem LowFi Prototyp durchgeführt. Das visuell
 {: .mb-6 }
 
 ### Aufgabe 1
+{: .no_toc }
 Lese die Push Notification und klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.
 {: .mb-6 }
 {: .mb-6 }
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/01_usabilityflow.png?raw=true)
 ### Beobachtungen
+{: .no_toc }
 Er stellt Rückfragen zum Briefing. Als er die erste Frage erreicht findet er selber heraus, dass er sie beantworten muss. Die Farben Rot und Grün stehen für richtig und falsch. Er versteht deshalb, ob er die Frage richtig oder falsch beantwortet hat. Er meint, dass das Feedback auch ein Button ist weil es farblich gleich wie die Antwort ist. Ihm ist zu wenig klar dass es über das Feedback zur nächsten Frage geht. Das Feedback sowie ein «Weiter-Button» sollen separat sein. Es sind momentan zu viele Infos in einem Element. Danach kommt er auf die Statistiken von einem Modul. Die Lernkurve versteht er und die Smileys zeigen wie oft er schlecht gewesen ist. Es zeigt wie viele Fragen er noch bearbeiten muss.
 {: .mb-6 }
 
 ### Aufgabe 2
+{: .no_toc }
 Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management aus? Repetiere das Modul.
 {: .mb-6 }
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/02_usabilityflow.png?raw=true)
 ### Beobachtungen
+{: .no_toc }
 Er kommt auf die Übersicht und versteht nicht, dass es hier kein Fragescreen ist, bzw. er meint, dass es auch eine Aufgabe ist, die man lösen muss, da die Seite ähnlich aufgebaut ist. Die 3 Buttons verwirren. Diese könnten auch Antworten sein. Er klickt auf repetieren.
 {: .mb-6 }
 
 ### Aufgabe 3
+{: .no_toc }
 Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.
 {: .mb-6 }
 
@@ -65,10 +71,12 @@ Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen L
 {: .mb-6 }
 
 ### Beobachtungen
+{: .no_toc }
 Er gelangt auf die Übersicht und nimmt an das Taco-Icon steht für sein Profilicon. Er weiss nicht wie klar das ist, aber er meint, dass es nunmal das einzig mögliche Icon ist. Auf der Levelseite hat er keine möglichkeit den Gesamtlevel anzusehen. Er meint es wäre spannender eine Gesamtübersicht über das Modul anzuzeigen und nicht nur das Level. Die Punktezusammensetzung ist ihm nicht klar. «Wie erreiche ich die Punkte?», fragt er sich. Er weiss es nicht. Die Punkte setzen sich aus der Lernkurve zusammen. Resultieren aus den 5 Fragen ebenfalls 5 Punkte?
 {: .mb-6 }
 
 ### Aufgabe 4
+{: .no_toc }
 Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.
 {: .mb-6 }
 
@@ -76,6 +84,7 @@ Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Fa
 {: .mb-6 }
 
 ### Beobachtungen
+{: .no_toc }
 Er nimmt an, dass die Benachrichtigungen beim Icon mit der Glocke zu finden sind. Er liest die Benachrichtigungen durch. Er ist sich nicht sicher, ob jetzt nur die 5 Fragen auf der jeweiligen Benachrichtigung zu finden sind oder alle ungelösten. Auf dem Repetieren-Button erwartet er, dass er alle Fragen repetieren muss, also auch diese, die er bereits richtig beantwortet hat.
 {: .mb-8 }
 
@@ -84,28 +93,36 @@ Er nimmt an, dass die Benachrichtigungen beim Icon mit der Glocke zu finden sind
 
 ## Fragebogen – Post Session Interview
 ### Was war positiv?
+{: .no_toc }
 Die Fragestellung war sehr intuitiv.
 {: .mb-6 }
 
 ### Was war negativ?
+{: .no_toc }
 Inkonsistenz: Es war nicht klar, dass die Übersicht die Module zeigt. Bei den Fragen ist das Feedback verwirrend.
 
 ### Was hat ihnen gefehlt?
+{: .no_toc }
 Eine Gruppierung der Module und eine Angabe des Dozenten. Es ist nicht klar wer die Fragen macht.
 
 ### Was haben Sie für einen Gesamteindruck dieser App?
+{: .no_toc }
 Sie ist aufgeräumt aber Gleiches soll auch Gleiches machen, Unterschiedliches soll sich auch anders verhalten.
 
 ### Was hat gefallen?
+{: .no_toc }
 Sehr simpel und ufgeräumt. Es gibt keine unnötigen Infos und der Usecase ist auf das nötigste reduziert.
 
 ### Verbesserungen?
+{: .no_toc }
 Modulstatistiken sind noch nicht klar. Es macht keinen Sinn das Level zu verstecken. 
 
 ### War das Menu klar?
+{: .no_toc }
 Die Icons sollen nicht oben stehen sondern nach unten, da man sie oben schlecht klicken kann und swipen könnte man auch unten. Den Aufbau müsste man ändern, wenn icons nach unten kommen. Es sollte mit mehr Ebenen gearbeitet werden und nicht alles versuchen mit swipen zu lösen. 
 
 ### Gegenfragen:
+{: .no_toc }
 Wer macht fragen bereit? Gibt es einen Login? Inhalt noch etwas mehr gliedern: Bei welchem Dozent habe ich was, wie sind die Module aufgeteilt? Braucht es ein Archiv, das die abgeschlossenen Fächer zeigt?
 {: .mb-8 }
 
@@ -116,6 +133,7 @@ Wer macht fragen bereit? Gibt es einen Login? Inhalt noch etwas mehr gliedern: B
 Man legt Karten mit diversen Adjektiven auf den Tisch aus und Testperson wählt drei Karten, welche er findet passt am besten zum Produkt. Wichtig ist, was der Tester zu den Karten sagt.
 
 ### Gewählte Karten
+{: .no_toc }
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_nils.png?raw=true)
 {: .mb-10 }
 
@@ -171,6 +189,7 @@ Mithilfe eines einfachen Fragebogens (System Usability Scale), der aus insgesamt
 
 ## Zweiter Usability Walkthrough
 ### Angaben zur Testperson 2
+{: .no_toc }
 <dl>
   <dt>Name</dt>
   <dd>Stefanie</dd>
@@ -186,30 +205,38 @@ Mithilfe eines einfachen Fragebogens (System Usability Scale), der aus insgesamt
 {: .mb-6 }
 
 ### Aufgabe 1
+{: .no_toc }
 Lese die Push Notification und klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.
 
 ### Beobachtungen 
+{: .no_toc }
 Sie klickt sich zum Logo und weiss von da nicht ob sie weiter muss. Sie kommt zu den Fragen und ihr ist klar, dass es 5 Fragen gibt. Sie fragt sich ob es nur 3 Antworten sind? Sie weiss nicht ob der Button sie zur nächsten Frage bringt. Muss sie scrollen oder bringt es sie automatisch weiter? Da der Button auch rot ist würde sie nicht draufklicken. Wir fragen sie ob es mit einem Pfeil klarer ist. Sie meint ja aber es wäre irritierend mit zwei roten Buttons. Sie findet es verwirrend dass wir bei falscher Eingabe 3 unterschiedliche Farben anzeigen. «Was soll der Taco? Kann ich da etwas essen?» 
 {: .mb-6 }
 
 ### Aufgabe 2
+{: .no_toc }
 Du steigst direkt in App ein und gelangst auf die Startseite. Wie sieht deine Statistik für das Modul St.Galler Management aus? Repetiere das Modul. 
 
 ### Beobachtungen
+{: .no_toc }
 Sie versteht dass die Kreise ganze Module darstellen. Sie klickt direkt in das Modul St.Galler Management Modell. Bei der Statistik des Lernverlaufs fragt sie wie man erkennt wie viel man gelernt hat? Sie denkt es ist der Zeitraum wann ich wieviel gelernt habe. Ihr fehlt aber die y-Achse. Es ist ihr klar, dass man das Modul über den entsprechenden Button repetieren kann. Sie fragt: wird der letzte Push repetiert? Sie fände es besser wenn sie auswählen kann was genau sie repetiert. Es wäre cool, wenn man nur Fragen, die man noch nicht beantwortet hat zuerst beantworten kann.
 {: .mb-6 }
 
 ### Aufgabe 3
+{: .no_toc }
 Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.
 
 ### Beobachtungen
+{: .no_toc }
 Sie klickt auf das Homeicon. Die Menu-Platzierung oben stört sie nicht. Sie findet die Levels nicht. Sie klickt irgendwann auf das Level-Icon, da sie nicht weiss wo sie sonst klicken soll. Ihrer Ansicht nach muss das Levelsystem erklärt werden. Levelsystem mit Icons im Foodbereich sind verwirrend, da die App nichts mit Essen zu tun hat. Sie findet, dass ein Profilbutton klarer wäre. Zurück swipen oder ein Homebutton um auf die Übersicht zu gelangen wäre wünschenswert.  
 {: .mb-6 }
 
 ### Aufgabe 4
+{: .no_toc }
 Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.
 
 ### Beobachtungen
+{: .no_toc }
 Der Übersichtscreen war ihr klar, da sie ihn erwartet hat. Sie sieht die 2 offenen Mitteilungen. Sie fragt sich was geklickt werden muss um nur diese Fragen zu repetieren. Sie denkt, dass direkt auf den Benachrichtigungen nur die Fragen kommen, die man repetieren sollte und wenn man auf den Repetieren-Buton klickt, kommt alles was noch offen ist. 
 {: .mb-6 }
 
@@ -221,15 +248,19 @@ Der Übersichtscreen war ihr klar, da sie ihn erwartet hat. Sie sieht die 2 offe
 
 ## Fragebogen - Post Session Interview
 ### Was war positiv?
+{: .no_toc }
 Die Fragestellung war sehr intuitiv.
 
 ### Was war negativ?
+{: .no_toc }
 Man kann nicht zurück, um nochmals zur letzten Frage zu gehen. Sie hätte etwas mehr erwartet.
 
 ### Was hat ihnen gefehlt?
+{: .no_toc }
 Eine Übersicht der Fragen wäre spannend. Es wäre spannend die Fragen für die Prüfung nochmals durchgehen zu können und eine Art Fehlerrate angezeigt bekommt.
 
 ### Was haben Sie für einen Gesamteindruck dieser App?
+{: .no_toc }
 Der Anfang der Fragen war klar. Man könnte aber noch etwas mehr machen. Sie hätte erwartet, dass sie noch mehr repetieren kann.
 {: .mb-8 }
 
@@ -239,6 +270,7 @@ Der Anfang der Fragen war klar. Man könnte aber noch etwas mehr machen. Sie hä
 ## Emo-Cards
 
 ### Gewählte Karten
+{: .no_toc }
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_steffi.png?raw=true)
 {: .mb-8 }
 
@@ -285,6 +317,7 @@ Der Anfang der Fragen war klar. Man könnte aber noch etwas mehr machen. Sie hä
 {: .mb-6 }
 
 ### Verbesserte Screens des LowFi Prototyp
+{: .no_toc }
 {: .mb-6 }
 
 Übersichtsscreen angepasst mit «Modul hinzufügen» Button, Levelseite angepasst:
@@ -312,18 +345,21 @@ Superlearner-Facts
 ## Tag 5
 
 ### Was haben wir gelernt?
+{: .no_toc }
 Auch wenn einem das Produkt super einfach vorkommt, merkt man durch die Interviews, was man alles vergessen hat oder doch nicht so gut durchdacht. 
 {: .mb-6 }
 
 ### Was war das Highlight?
+{: .no_toc }
 Es war total spannend zu sehen was die Testpersonen zu unserem Produkt für Feedback gaben. Hat uns auf jedenfall geholfen uns selber nochmals gewisse Fragen zu stellen und alles aus einem anderen Blickwinkel zu betrachten.
 {: .mb-6 }
 
 ### Was war schwierig?
+{: .no_toc }
 Bei den Interviews nicht anfangen der Testperson zu helfen sondern immer Gegenfragen stellen, um so noch mehr über die Denkweise der User zu erhalten.
 {: .mb-6 }
 
-### Was war das Lowlight?
+### Was war das Lowlight?{: .no_toc }
 Zu merken dass Features der App die wir toll fanden von den Probanden einfach nicht verstanden oder für unnötig empfunden wurden. Ein Beispiel wäre das Levelsystem welches meist nur verwirrte. Dabei ist der Gamification Aspekt ein grosser Teil unserer Idee.
 
 
