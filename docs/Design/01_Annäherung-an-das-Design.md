@@ -56,6 +56,7 @@ Testpersonen sind sehr wichtig, da wir als Designer zu nahe am Produkt sind und 
 {: .mb-6 }
 
 ### Die 4(5) Grundfragen
+{: .no_toc }
 1. Was sehen Sie hier?
 2. Was tun Sie als nächstes?
 3. Was erwarten Sie was passiert?
@@ -65,6 +66,7 @@ Testpersonen sind sehr wichtig, da wir als Designer zu nahe am Produkt sind und 
 
 
 ### Vorgehen Testing
+{: .no_toc }
 1. Aufgaben & Leitfaden erstellen
 2. Briefing: Vorstellung Testleiter und Vorgehen
 3. Presession: Interview (aufnehmen)
@@ -82,9 +84,11 @@ Liebe Benutzerin, lieber Benutzer
 Du bist ein Student an einer Hochschule und nimmst täglich an Vorlesungen und Workshops teil. Als Teil deines Lernplans ist es sinnvoll, täglich deinen Tag zu repetieren. Um das zu vereinfachen, bist du Benutzer unserer App.
 {: .mb-6 }
 ### Was du alles machst
+{: .no_toc }
 Du bist fünf Mal die Woche an der Uni und bist täglich damit beschäftigt, an Vorlesungen teilzunehmen und deine Unterlagen für die Prüfungen zusammenzustellen. Der Uni-Alltag ist besonders in den Prüfungs-Phasen stressig und ist sehr fordernd – bei der Vorbereitung auf diese Zeit soll unsere App möglichst zeitsparend wirken.
 {: .mb-6 }
 ### Wie das geht
+{: .no_toc }
 Am Ende deines anstrengenden Uni-Tages machst du dich auf den Heimweg. Nehmen wir an, du bist im Zug und gerade am Handy.
 Du bekommst eine Push-Notification unserer App, die dich informiert, dass du nun 5 Fragen zu deinem Schultag beantworten kannst. Du klickst dich durch die 5 Fragen und erhälst nach jeder Frage direkt Feedback, ob du richtig oder falsch geantwortet hast. Wenn du alle Fragen beantwortet hast, kommst du auf eine Übersicht, die den Fortschritt in deinem Fach zeigt. Motiviert dabei wirst du sowohl dadurch, dass du so stetig dein Fachwissen ohne grossen Aufwand vergrössern und festigen kannst, als auch durch ein internes Achievement und Level-System, mit dem du deinen Fortschritt verfolgen kannst.
 
@@ -103,15 +107,18 @@ Superlearner-Facts
 
 
 ### Was haben wir gelernt?
+{: .no_toc }
 Wie bereitet man sich optimal auf Useability Tests vor. Es gibt viele Punkte, die man beachten muss, um ein hilfreiches Interview zu führen. Sehr wichtig ist, dass man der Testperson immer Gegenfragen stellt und sie so selbst überlegen lässt.
 {: .mb-6 }
 
 ### Was war das Highlight?
+{: .no_toc }
 Die Präsentation unseres Pitches stellte ein Highlight dar, weil es eine grosse Herausforderung ist, in kurzer Zeit, seine Konzeptidee überzeugend zu vermitteln.
 {: .mb-6 }
 
 
 ### Was war schwierig?
+{: .no_toc }
 Eine der Gestaltungsprinzipien in unseren Worten der Klasse präsentieren. Auch wenn es die meisten von uns bereits kennen, ist es nicht leicht, dies spontan verständlich zu erklären. 
 
 
