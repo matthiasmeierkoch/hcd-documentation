@@ -57,17 +57,20 @@ Entschieden haben wir uns für «bocado», was Häppchen auf Spanisch bedeutet. 
 ## Erkenntnisse LoFi für HiFi Prototyp
 
 ### Geringes Problem
+{: .no_toc }
 * Hinzufügen von Modul durch User &rarr; Hugo Hybrid fügt nur die Module hinzu, die er auch möchte
 * Auswahl aus Pool
 {: .mb-6 }
 
 ### Ernsthaftes Problem
+{: .no_toc }
 * Onboarding wichtig
 * Wie viel Module können angezeigt werden? &rarr; Wir setzen Grenzen: Bis 10 Module möglich
 * Unsere Kreise schliessen Funktion ist nicht mehr attraktiv mit mehr als 10 Farben
 {: .mb-6 }
 
 ### Kritisches Problem
+{: .no_toc }
 * Zu viele Farben als Feedback bei Fragen, dies verwirrt total
 {: .mb-8 }
 
@@ -77,6 +80,7 @@ Entschieden haben wir uns für «bocado», was Häppchen auf Spanisch bedeutet. 
 ## Dritter Test
 
 ### Angaben zur Testperson 3
+{: .no_toc }
 <dl>
   <dt>Name</dt>
   <dd>Severin</dd>
@@ -92,23 +96,29 @@ Entschieden haben wir uns für «bocado», was Häppchen auf Spanisch bedeutet. 
 {: .mb-6 }
 
 ### Aufgabe 1
+{: .no_toc }
 Klicke dich zur ersten Frage. Beantworte eine Frage. Für den Flow gehen wir davon aus, dass du 4 von 5 Fragen richtig beantwortet hast. Du kannst dann die Fragen abschliessen.
 
 ### Beobachtungen
+{: .no_toc }
 Er will swipen wegen den Punkten im Onboarding und würde den Text nicht lesen. Er meint vielleicht ist es so, dass man über das Icon «+» eventuell neue Module hinzufügen könne? Es verwirrt ihn, dass er als Feedback 4 von 5 Fragen richtig beantwortet hat, sich das aber nicht auf das ganze Modul bezieht.
 {: .mb-6 }
 
 ### Aufgabe 2
+{: .no_toc }
 Gehe auf die Übersicht wo die Module aufgelistet sind. Finde deinen aktuellen Level.
 
 ### Beobachtungen
+{: .no_toc }
 Das Level ist nicht klar weil man keine Nummer hat. Das Icon fällt jedoch sofort auf. Er hielt Daystreak für seinen Level. Er meint «Trophies» brauchen einen Titel. Er kann Levels nicht mit anderen vergleichen (da keine klare Reihenfolge welches Level wie hoch ist).  Der Daystreak fällt aus dem Rahmen weil keine Nummer ist. Unerreichte Achievements sollten versteckt sein. X direkt auf Übersichtsseite in Achievements (wird erwartet). Unerreichte Achievements sollten (on Tap) anzeigen, was ich machen muss um diese zu erreichen.
 {: .mb-6 }
 
 ### Aufgabe 3
+{: .no_toc }
 Starte beim Übersichtsscreen und schau ob du offene Benachrichtigungen hast. Falls ja, lese sie.
 
 ### Beobachtungen
+{: .no_toc }
 Er sieht direkt wieviele Benachrichtigungen er hat und denkt er würde mit Klick auf eine Benachrichtigung direkt in eine Frage hinein springen.
 {: .mb-8 }
 
@@ -117,15 +127,19 @@ Er sieht direkt wieviele Benachrichtigungen er hat und denkt er würde mit Klick
 
 ## Fragebogen - Post Session Interview
 ### Was war positiv?
+{: .no_toc }
 Es wirkt sehr clean und aufgeräumt. Kommt mit wenig aus und dasMenü wird als «recht cool» empfunden.
 
 ### Was war negativ?
+{: .no_toc }
 Teilweise zu bräuchte es etwas mehr Informationen. Die Kreise auf der Übersicht waren nicht klar genug. Das Icon von Level/Achievments ist nicht intuitiv.
 
 ### Was hat ihnen gefehlt?
+{: .no_toc }
 Module müssen auch löschbar sein. Der Kreis von «International Management» ist nicht gleich wie in der Modul Übersichtsseite. Da das Menu nur bei «Home» kommt müssen die Kreise nicht nochmals da sein. 
 
 ### Was haben Sie für einen Gesamteindruck dieser App?
+{: .no_toc }
 Funktioniert, hätte Lust es einzusetzen! Das Handling ist intuitiv da man schnell zu den Fragen kommt. Der Usecase macht Sinn.
 {: .mb-8 }
 
@@ -133,6 +147,7 @@ Funktioniert, hätte Lust es einzusetzen! Das Handling ist intuitiv da man schne
 {: .mb-6 }
 
 ### SUS Fragebogen Severin
+{: .no_toc }
 1. Ich kann mir sehr gut vorstellen, das System regelmäßig zu nutzen. 4 von 5 &rarr; 3 Punkte
 
 2. Ich empfinde das System als unnötig komplex. 1 von 5 &rarr; 4 Punkte
@@ -162,9 +177,11 @@ Funktioniert, hätte Lust es einzusetzen! Das Handling ist intuitiv da man schne
 ## Emotional Cards
 
 ### Gewählte Karten
+{: .no_toc }
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/emocards_sevi.png?raw=true)
 
 ### Zusätzliches Feedback
+{: .no_toc }
 * Achievements müsste man nochmals anschauen
 * Gamification hat ihn nicht interessiert, Level waren nicht klar
 {: .mb-10 }
@@ -212,18 +229,22 @@ Superlearner-Facts
 
 
 ### Was haben wir gelernt?
+{: .no_toc }
 Der visuelle Eindruck eines Produktes kann sehr viel zum Benutzererlebniss beitragen. Wir haben nach der Präsi wertvolles Feedback bekommen, welches wir in nächsten Projekten einsetzen werden. 
 {: .mb-6 }
 
 ### Was war das Highlight?
+{: .no_toc }
 Die beiden vorherigen Interviews haben uns weiter gebracht. Beim letzten Interview haben wir einen sehr hohen SUS-Score von 87,5 Punkten erreicht.
 {: .mb-6 }
 
 ### Was war schwierig?
+{: .no_toc }
 In der Präsentation innerhalb von 20 min alles zu erwähnen. Es ist etwas sehr short wenn man bedenkt, was wir alles gemacht haben.
 {: .mb-6 }
 
 ### Was war das Lowlight?
+{: .no_toc }
 Wir hätten gerne nochmals etwas mehr Zeit gehabt, um die Testergebnisse zu analysieren und die Feedbacks in einem weiteren Designsprint einzusetzen.
 {: .mb-6 }
 
@@ -233,6 +254,7 @@ Am 6. Tag war es so weit und wir hielten unsere [Schlusspräsentation](https://d
 {: .mb-6 }
 
 ### Präsentation Feedback
+{: .no_toc }
 * Alle Benutzergruppen erwähnen: Die Seite des Lehrers der Plattform kurz anskizzieren (z.B. in einem Storyboard)
 * Mehr Verbindung zu bocado (häppchenweise): Es wäre schön gewesen wenn beim Wording «Schliesse deine Kreise» mehr darauf eingegangen würde
 * Ansprechendes, simples Design
