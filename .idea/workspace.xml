@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="36ecfb06-5a0f-4f80-b371-77c0733ad81d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docs/Design/02_Usability-Tests.md" afterPath="$PROJECT_DIR$/docs/Design/02_Usability-Tests.md" />
+      <change beforePath="$PROJECT_DIR$/docs/Research/02_Research-und-Interviews.md" afterPath="$PROJECT_DIR$/docs/Research/02_Research-und-Interviews.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +21,22 @@
         <entry file="file://$PROJECT_DIR$/docs/Research/01_Nutzungskontext.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1245">
-                <caret line="83" column="26" lean-forward="false" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
-                <folding>
-                  <marker date="1555060533934" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
-                </folding>
+              <first_editor relative-caret-position="386">
+                <caret line="86" column="12" lean-forward="false" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_Research-und-Interviews.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/Research/02_Research-und-Interviews.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="435">
+                <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -45,37 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04_Lösungsgestaltung.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/Research/04_Lösungsgestaltung.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1440">
-                <caret line="96" column="12" lean-forward="false" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
-                <folding>
-                  <marker date="1555060533936" expanded="true" signature="6442:6517" ph="{: .no_toc }&#10;Unsere Vi...b-8 }" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="01_Annäherung-an-das-Design.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/Design/01_Annäherung-an-das-Design.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1695">
-                <caret line="113" column="22" lean-forward="false" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
-                <folding>
-                  <marker date="1555060533933" expanded="true" signature="5931:6115" ph="{: .no_toc }&#10;Eine der ...ren. " />
-                </folding>
+              <first_editor relative-caret-position="870">
+                <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02_Usability-Tests.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="02_Usability-Tests.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/Design/02_Usability-Tests.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -88,12 +82,38 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="03_SUS.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/Design/03_SUS.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="285">
+                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="04_HiFi-Design.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/Design/04_HiFi-Design.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="327">
-                <caret line="202" column="3" lean-forward="true" selection-start-line="202" selection-start-column="3" selection-end-line="202" selection-end-column="3" />
+              <first_editor relative-caret-position="341">
+                <caret line="256" column="12" lean-forward="false" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="design.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/Design/design.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="99" lean-forward="false" selection-start-line="13" selection-start-column="99" selection-end-line="13" selection-end-column="99" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -141,20 +161,20 @@
         <option value="$PROJECT_DIR$/docs/Einstieg-ins-Projekt.md" />
         <option value="$PROJECT_DIR$/docs/Design/03_SUS.md" />
         <option value="$PROJECT_DIR$/docs/Design/design.md" />
-        <option value="$PROJECT_DIR$/docs/Research/02_Research-und-Interviews.md" />
         <option value="$PROJECT_DIR$/_sass/custom/custom.scss" />
         <option value="$PROJECT_DIR$/_sass/support/support.scss" />
         <option value="$PROJECT_DIR$/_sass/base.scss" />
         <option value="$PROJECT_DIR$/docs/Research/Research.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/docs/Research/01_Nutzungskontext.md" />
         <option value="$PROJECT_DIR$/docs/Research/03_Value-Proposition-Canvas.md" />
         <option value="$PROJECT_DIR$/docs/Research/04_Lösungsgestaltung.md" />
-        <option value="$PROJECT_DIR$/docs/Design/01_Annäherung-an-das-Design.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.md" />
-        <option value="$PROJECT_DIR$/docs/Design/04_HiFi-Design.md" />
         <option value="$PROJECT_DIR$/docs/Design/02_Usability-Tests.md" />
+        <option value="$PROJECT_DIR$/docs/Design/01_Annäherung-an-das-Design.md" />
+        <option value="$PROJECT_DIR$/docs/Design/04_HiFi-Design.md" />
+        <option value="$PROJECT_DIR$/docs/Research/01_Nutzungskontext.md" />
+        <option value="$PROJECT_DIR$/docs/Research/02_Research-und-Interviews.md" />
       </list>
     </option>
   </component>
@@ -204,6 +224,12 @@
               <item name="hcd-documentation" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="Design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcd-documentation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcd-documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="Research" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,7 +287,7 @@
       <workItem from="1555012504084" duration="1459000" />
       <workItem from="1555014137675" duration="797000" />
       <workItem from="1555050308797" duration="2605000" />
-      <workItem from="1555058487300" duration="1566000" />
+      <workItem from="1555058487300" duration="1856000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1554222442626</created>
@@ -550,11 +576,39 @@
       <option name="project" value="LOCAL" />
       <updated>1555061622340</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="inhaltsverzeichnis">
+      <created>1555065707416</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1555065707416</updated>
+    </task>
+    <task id="LOCAL-00043" summary="inhaltsverzeichnis">
+      <created>1555065781421</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1555065781421</updated>
+    </task>
+    <task id="LOCAL-00044" summary="inhaltsverzeichnis">
+      <created>1555065909180</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1555065909180</updated>
+    </task>
+    <task id="LOCAL-00045" summary="inhaltsverzeichnis">
+      <created>1555065947985</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1555065947985</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17894000" />
+    <option name="totallyTimeSpent" value="18184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -694,9 +748,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1260">
             <caret line="84" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-            <folding>
-              <marker date="1555060533934" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
-            </folding>
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -777,9 +829,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1555060533934" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
-            </folding>
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -858,36 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Design/03_SUS.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="106" lean-forward="false" selection-start-line="19" selection-start-column="106" selection-end-line="19" selection-end-column="106" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Research/02_Research-und-Interviews.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="533">
-            <caret line="109" column="135" lean-forward="false" selection-start-line="109" selection-start-column="135" selection-end-line="109" selection-end-column="135" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Design/design.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="13" column="99" lean-forward="false" selection-start-line="13" selection-start-column="99" selection-end-line="13" selection-end-column="99" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/custom.scss" />
     <entry file="file://$PROJECT_DIR$/_sass/utilities/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -956,19 +976,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Research/01_Nutzungskontext.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1245">
-            <caret line="83" column="26" lean-forward="false" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
-            <folding>
-              <marker date="1555060533934" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/Research/04_Lösungsgestaltung.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -976,19 +983,6 @@
             <caret line="96" column="12" lean-forward="false" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
             <folding>
               <marker date="1555060533936" expanded="true" signature="6442:6517" ph="{: .no_toc }&#10;Unsere Vi...b-8 }" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Design/01_Annäherung-an-das-Design.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1695">
-            <caret line="113" column="22" lean-forward="false" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
-            <folding>
-              <marker date="1555060533933" expanded="true" signature="5931:6115" ph="{: .no_toc }&#10;Eine der ...ren. " />
             </folding>
           </first_editor>
           <second_editor />
@@ -1025,11 +1019,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Design/04_HiFi-Design.md">
+    <entry file="file://$PROJECT_DIR$/docs/Design/01_Annäherung-an-das-Design.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="327">
-            <caret line="202" column="3" lean-forward="true" selection-start-line="202" selection-start-column="3" selection-end-line="202" selection-end-column="3" />
+          <first_editor relative-caret-position="870">
+            <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1041,6 +1035,61 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="341">
             <caret line="356" column="22" lean-forward="true" selection-start-line="356" selection-start-column="22" selection-end-line="356" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Design/03_SUS.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Design/04_HiFi-Design.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="341">
+            <caret line="256" column="12" lean-forward="false" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Design/design.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="99" lean-forward="false" selection-start-line="13" selection-start-column="99" selection-end-line="13" selection-end-column="99" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Research/01_Nutzungskontext.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="386">
+            <caret line="86" column="12" lean-forward="false" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Research/02_Research-und-Interviews.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />

@@ -27,6 +27,7 @@ Im nächsten Schritt werden wir zwei Studenten interviewen, um die Benutzer und 
 {: .mb-6 }
 
 ### Was wollen wir bei den Interviews herausfinden?
+{: .no_toc }
 * Haben sie Probleme mit Motivation, Zeit und dem Einstieg beim Lernen?
 * Wie lernen Sie? Methoden? Arbeitsmaterial? 
 * Wann lernen sie? Im Voraus? Kurz bevor der Prüfung?
@@ -39,6 +40,7 @@ Im nächsten Schritt werden wir zwei Studenten interviewen, um die Benutzer und 
 ## Interview 1: Lars 
 
 ### 1. Zeichne auf den Zeitstrahl wann du lernst
+{: .no_toc }
 {: .mb-6 }
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/zeitstrahl_lars.png?raw=true)
@@ -48,6 +50,7 @@ Im nächsten Schritt werden wir zwei Studenten interviewen, um die Benutzer und 
 {: .mb-6 }
 
 ### 2. Wie lernst du?
+{: .no_toc }
 * Es kommt auf den Unterricht an, wenn das Modul sehr theorielastig mit sehr viel Inhalt ist, macht er eine Zusammenfassung. Normalerweise reichen aber die Slides von Dozenten.
 * Für Zusammenfassungen macht er sich mehr Gedanken.
 * Bei theorielastigen Modulen hat es sich bewährt sonst ist es eher ein Schaffen als ein Lernen.
@@ -58,12 +61,14 @@ Im nächsten Schritt werden wir zwei Studenten interviewen, um die Benutzer und 
 {: .mb-6 }
 
 ### 3. Gibt es Hindernisse die dich vom Lernen abhalten?
+{: .no_toc }
 * Er wird beeinflusst, abgelenkt
 * Daten wiederfinden, bis man alles wieder hat
 * Man ist aufgeschmissen wenn man keine Notizen gemacht hat. Er musste auch schon bei Nils schauen oder ob jemand anders eine Zusammenfassung gemacht hat.
 {: .mb-6 }
 
 ### 4. Wie festigst du das Gelernte langfristig?
+{: .no_toc }
 * Er benutzt seine Notizen und die Slides.  
 * Wissen behalten tut er indem er es praktisch anwendet
 * Notizen machen helfen sich das Gelernte zu merken, da man auch lernt indem man etwas niederschreibt.
@@ -82,6 +87,7 @@ Im nächsten Schritt werden wir zwei Studenten interviewen, um die Benutzer und 
 ## Interview 2: Marius 
 
 ### 1. Zeichne auf den Zeitstrahl wann du lernst
+{: .no_toc }
 {: .mb-6 }
 
 ![](https://github.com/matthiasmeierkoch/hcd-documentation/blob/gh-pages/images/zeitstrahl_marius.png?raw=true)
@@ -100,11 +106,13 @@ Im nächsten Schritt werden wir zwei Studenten interviewen, um die Benutzer und 
 {: .mb-6 }
 
 ### 2. Gibt es Hindernisse die dich vom Lernen abhalten?
+{: .no_toc }
 * Leute wollen was und er lässt sich da schnell dazu überreden mitzumachen, zu helfen 
 * Er lenkt sich selber auch gut ab. Zum Beispiel putzt er vorher als er lernen würde
 {: .mb-6 }
 
 ### 3. Wie festigst du das Gelernte langfristig?
+{: .no_toc }
 * Nur beim praktischen Anwenden
 * Notizen helfen ihm nicht so. Er versucht deshalb das Gelernte bei der Arbeit anzuwenden damit es ihm etwas bringt.
 * Bei Teamsitzungen erwähnt er oft, was er gerade in der Schule durchnimmt. 
