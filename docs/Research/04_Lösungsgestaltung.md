@@ -35,18 +35,22 @@ Originelle Ideen enstehen weg von bekannten Denkmustern. Mit diesem Input sind w
 {: .mb-6 }
 
 ### Problem
+{: .no_toc }
 Der User beschäftigt sich nicht mit Fächern, für die er sich nicht begeistern lässt.
 {: .mb-6 }
 
 ### Challenge
+{: .no_toc }
 Wie können wir dem User helfen, sich auch mit für ihn unineressanten Fächern zu beschäftigen?
 {: .mb-6 }
 
 ### Worstcase Technik
+{: .no_toc }
 In der Worstcase Technik haben wir umgedacht und aufgeschrieben, was alles schiefgehen kann.
 {: .mb-6 }
 
 ### Ideen
+{: .no_toc }
 * Die App wird nicht heruntergeladen
 * Die App wird nicht benutzt
 * Die Pushnachrichten werden ignoriert
@@ -76,10 +80,12 @@ Wir haben somit einen Pool an Ideen kreirt, der mögliche Lösungen für Inhalts
 {: .mb-6 }
 
 ### Brainwriting
+{: .no_toc }
 Bei dieser Methode haben wir in der Gruppe unsere Ansätze weiterentwickelt, in dem wir ein Papier weitergegeben haben. Daraus haben sich schon sehr konkrete Ideen entwickelt, die sich stark auf unser Hauptproblem fokussieren.
 {: .mb-6 }
 
 ### Ideen
+{: .no_toc }
 * Gamefication
 * Interaktiv zur richtigen Antwort klicken
 * Coach Chatbot
@@ -90,10 +96,12 @@ Bei dieser Methode haben wir in der Gruppe unsere Ansätze weiterentwickelt, in 
 {: .mb-6 }
 
 ### Pair sketching
+{: .no_toc }
 Pairsketching ist eine Kreativitätsmethode in der man in der Gruppe sketcht. Wenn man eine Idee hat fängt man an zu zeichnen und kann einen Satz dazu anbringen. Diese Methode war anfangs etwas schwierig für uns, wir sind jedoch am Ende auf ähnliche Ansätze wie im Brain Writing gekommen.
 {: .mb-6 }
 
 ### Ideen
+{: .no_toc }
 Gamefication ist ein wichtiger Teil. Es braucht eine Belohnung. Was kann das sein? 
 Battle gegen den Lehrer?
 Wandel oder Anpassungen von Fragen (Schwierigkeitsgrad), Avatar ändert sich
@@ -137,6 +145,7 @@ Das sind die Aufgaben, die aus Benutzersicht zu erledigen sind. Daraus entstehen
 {: .mb-6 }
 
 ### Aktivitäten
+{: .no_toc }
 * Sich im Unterricht ablenken
 * Nachhause fahren
 * Push Notification erhalten
@@ -147,6 +156,7 @@ Das sind die Aufgaben, die aus Benutzersicht zu erledigen sind. Daraus entstehen
 {: .mb-6 }
 
 ### Tasks & Epics
+{: .no_toc }
 Diese werden mit Nomen und Verb gebildet:
 * Ablenkung im Unterricht
 * Musik hören
@@ -159,6 +169,7 @@ Diese werden mit Nomen und Verb gebildet:
 {: .mb-6 }
 
 ### User Stories
+{: .no_toc }
 User Stories werden nach folgendem Muster erstellt: Als User will ich... sodass ich..
 {: .mb-6 }
 
@@ -185,24 +196,29 @@ Superlearner-Facts
 ## Tag 3
 
 ### Artefakte, die wir erstellt und abgegeben haben
+{: .no_toc }
 Storyboard und User Story Map, User Flow als UI Sketch.
 {: .mb-6 }
 
 ### Was haben wir gelernt?
+{: .no_toc }
 * Das Anwenden verschiedener Kreativmethoden
 * Eine User Story Map zu erstellen
 {: .mb-6 }
 
 ### Was war schwierig?
+{: .no_toc }
 * Die Vision kurz und knackig zu definieren.
 * Unterschied zwischen User Task, Aktivität und User Story
 {: .mb-6 }
 
 ### Was war das Highlight?
+{: .no_toc }
 Unsere Ideen als User Flow umzusetzen.
 {: .mb-6 }
 
 ### Was war das Lowlight?
+{: .no_toc }
 Unsere Vision auf das Papier zu bringen war ziemlich schwierig.
 {: .mb-8 }
 
