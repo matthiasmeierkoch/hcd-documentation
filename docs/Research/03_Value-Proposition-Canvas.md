@@ -102,7 +102,7 @@ Superlearner-Facts
 
 ## Tag 2
 
-### Artefakte, die wir erstellt und abgegeben haben:
+### Artefakte, die wir erstellt und abgegeben haben
 Interview Skripts, 3 Personas definiert, daraus aus dem Mittelfeld 1 Persona erstellt und uns auf diese fokussiert
 {: .mb-6 }
 
