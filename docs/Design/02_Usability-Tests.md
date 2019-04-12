@@ -359,7 +359,8 @@ Es war total spannend zu sehen was die Testpersonen zu unserem Produkt für Feed
 Bei den Interviews nicht anfangen der Testperson zu helfen sondern immer Gegenfragen stellen, um so noch mehr über die Denkweise der User zu erhalten.
 {: .mb-6 }
 
-### Was war das Lowlight?{: .no_toc }
+### Was war das Lowlight?
+{: .no_toc }
 Zu merken dass Features der App die wir toll fanden von den Probanden einfach nicht verstanden oder für unnötig empfunden wurden. Ein Beispiel wäre das Levelsystem welches meist nur verwirrte. Dabei ist der Gamification Aspekt ein grosser Teil unserer Idee.
 
 
