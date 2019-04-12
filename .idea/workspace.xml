@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36ecfb06-5a0f-4f80-b371-77c0733ad81d" name="Default" comment="alter stand widerehergestellt" />
+    <list default="true" id="36ecfb06-5a0f-4f80-b371-77c0733ad81d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/docs/Design/04_HiFi-Design.md" afterPath="$PROJECT_DIR$/docs/Design/04_HiFi-Design.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,7 +24,7 @@
               <first_editor relative-caret-position="1245">
                 <caret line="83" column="26" lean-forward="false" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
                 <folding>
-                  <marker date="1555060330052" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
+                  <marker date="1555060533934" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -29,12 +32,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03_Value-Proposition-Canvas.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03_Value-Proposition-Canvas.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/Research/03_Value-Proposition-Canvas.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="536">
-                <caret line="131" column="0" lean-forward="true" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+                <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -49,7 +52,7 @@
               <first_editor relative-caret-position="1440">
                 <caret line="96" column="12" lean-forward="false" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
                 <folding>
-                  <marker date="1555060330054" expanded="true" signature="6442:6517" ph="{: .no_toc }&#10;Unsere Vi...b-8 }" />
+                  <marker date="1555060533936" expanded="true" signature="6442:6517" ph="{: .no_toc }&#10;Unsere Vi...b-8 }" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -64,7 +67,7 @@
               <first_editor relative-caret-position="1695">
                 <caret line="113" column="22" lean-forward="false" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
                 <folding>
-                  <marker date="1555060330051" expanded="true" signature="5931:6115" ph="{: .no_toc }&#10;Eine der ...ren. " />
+                  <marker date="1555060533933" expanded="true" signature="5931:6115" ph="{: .no_toc }&#10;Eine der ...ren. " />
                 </folding>
               </first_editor>
               <second_editor />
@@ -79,8 +82,8 @@
               <first_editor relative-caret-position="1815">
                 <caret line="121" column="3" lean-forward="false" selection-start-line="121" selection-start-column="3" selection-end-line="121" selection-end-column="3" />
                 <folding>
-                  <marker date="1555060330051" expanded="true" signature="232:273" ph="Die ersten beiden Test...b-6 }" />
-                  <marker date="1555060330051" expanded="true" signature="14825:15083" ph="{: .no_toc }&#10;Zu merken...Idee." />
+                  <marker date="1555060533933" expanded="true" signature="232:273" ph="Die ersten beiden Test...b-6 }" />
+                  <marker date="1555060533933" expanded="true" signature="14825:15083" ph="{: .no_toc }&#10;Zu merken...Idee." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -88,12 +91,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04_HiFi-Design.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="04_HiFi-Design.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/Design/04_HiFi-Design.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1306">
-                <caret line="234" column="25" lean-forward="false" selection-start-line="234" selection-start-column="25" selection-end-line="234" selection-end-column="25" />
+              <first_editor relative-caret-position="327">
+                <caret line="202" column="3" lean-forward="true" selection-start-line="202" selection-start-column="3" selection-end-line="202" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -116,7 +142,6 @@
       <list>
         <option value="$PROJECT_DIR$/design.md" />
         <option value="$PROJECT_DIR$/docs/Einstieg-ins-Projekt.md" />
-        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/docs/Design/03_SUS.md" />
         <option value="$PROJECT_DIR$/docs/Design/design.md" />
         <option value="$PROJECT_DIR$/docs/Research/02_Research-und-Interviews.md" />
@@ -125,12 +150,13 @@
         <option value="$PROJECT_DIR$/_sass/base.scss" />
         <option value="$PROJECT_DIR$/docs/Research/Research.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/docs/Research/01_Nutzungskontext.md" />
         <option value="$PROJECT_DIR$/docs/Research/03_Value-Proposition-Canvas.md" />
         <option value="$PROJECT_DIR$/docs/Research/04_Lösungsgestaltung.md" />
         <option value="$PROJECT_DIR$/docs/Design/01_Annäherung-an-das-Design.md" />
         <option value="$PROJECT_DIR$/docs/Design/02_Usability-Tests.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/docs/Design/04_HiFi-Design.md" />
       </list>
     </option>
@@ -181,17 +207,6 @@
               <item name="hcd-documentation" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="Design" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hcd-documentation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hcd-documentation" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="Research" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hcd-documentation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hcd-documentation" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,7 +264,7 @@
       <workItem from="1555012504084" duration="1459000" />
       <workItem from="1555014137675" duration="797000" />
       <workItem from="1555050308797" duration="2605000" />
-      <workItem from="1555058487300" duration="732000" />
+      <workItem from="1555058487300" duration="1266000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1554222442626</created>
@@ -489,11 +504,32 @@
       <option name="project" value="LOCAL" />
       <updated>1555058264605</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="hi-fi design mit nicis change">
+      <created>1555061177020</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1555061177020</updated>
+    </task>
+    <task id="LOCAL-00036" summary="name klein geschrieben">
+      <created>1555061206129</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1555061206129</updated>
+    </task>
+    <task id="LOCAL-00037" summary="änderungen von nici">
+      <created>1555061308779</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1555061308779</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17060000" />
+    <option name="totallyTimeSpent" value="17594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -548,7 +584,10 @@
     <MESSAGE value="custom font" />
     <MESSAGE value="name klein" />
     <MESSAGE value="korrekturen am inhaltsverzeichnis" />
-    <option name="LAST_COMMIT_MESSAGE" value="korrekturen am inhaltsverzeichnis" />
+    <MESSAGE value="hi-fi design mit nicis change" />
+    <MESSAGE value="name klein geschrieben" />
+    <MESSAGE value="änderungen von nici" />
+    <option name="LAST_COMMIT_MESSAGE" value="änderungen von nici" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -631,7 +670,7 @@
           <first_editor relative-caret-position="1260">
             <caret line="84" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
             <folding>
-              <marker date="1555060330052" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
+              <marker date="1555060533934" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
             </folding>
           </first_editor>
           <second_editor />
@@ -714,7 +753,7 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1555060330052" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
+              <marker date="1555060533934" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
             </folding>
           </first_editor>
           <second_editor />
@@ -789,16 +828,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -895,14 +924,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -916,7 +937,7 @@
           <first_editor relative-caret-position="1245">
             <caret line="83" column="26" lean-forward="false" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
             <folding>
-              <marker date="1555060330052" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
+              <marker date="1555060533934" expanded="true" signature="3563:3685" ph="{: .no_toc }&#10;In kurzer...mmen." />
             </folding>
           </first_editor>
           <second_editor />
@@ -929,7 +950,7 @@
           <first_editor relative-caret-position="1440">
             <caret line="96" column="12" lean-forward="false" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
             <folding>
-              <marker date="1555060330054" expanded="true" signature="6442:6517" ph="{: .no_toc }&#10;Unsere Vi...b-8 }" />
+              <marker date="1555060533936" expanded="true" signature="6442:6517" ph="{: .no_toc }&#10;Unsere Vi...b-8 }" />
             </folding>
           </first_editor>
           <second_editor />
@@ -942,7 +963,7 @@
           <first_editor relative-caret-position="1695">
             <caret line="113" column="22" lean-forward="false" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
             <folding>
-              <marker date="1555060330051" expanded="true" signature="5931:6115" ph="{: .no_toc }&#10;Eine der ...ren. " />
+              <marker date="1555060533933" expanded="true" signature="5931:6115" ph="{: .no_toc }&#10;Eine der ...ren. " />
             </folding>
           </first_editor>
           <second_editor />
@@ -955,20 +976,9 @@
           <first_editor relative-caret-position="1815">
             <caret line="121" column="3" lean-forward="false" selection-start-line="121" selection-start-column="3" selection-end-line="121" selection-end-column="3" />
             <folding>
-              <marker date="1555060330051" expanded="true" signature="232:273" ph="Die ersten beiden Test...b-6 }" />
-              <marker date="1555060330051" expanded="true" signature="14825:15083" ph="{: .no_toc }&#10;Zu merken...Idee." />
+              <marker date="1555060533933" expanded="true" signature="232:273" ph="Die ersten beiden Test...b-6 }" />
+              <marker date="1555060533933" expanded="true" signature="14825:15083" ph="{: .no_toc }&#10;Zu merken...Idee." />
             </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Design/04_HiFi-Design.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1306">
-            <caret line="234" column="25" lean-forward="false" selection-start-line="234" selection-start-column="25" selection-end-line="234" selection-end-column="25" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -978,7 +988,37 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="536">
-            <caret line="131" column="0" lean-forward="true" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+            <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Design/04_HiFi-Design.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="327">
+            <caret line="202" column="3" lean-forward="true" selection-start-line="202" selection-start-column="3" selection-end-line="202" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
