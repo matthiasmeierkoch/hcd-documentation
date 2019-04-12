@@ -23,8 +23,7 @@ Der Zweck des Prototyps und die dazu passenden Werkzeuge muss zwingend im Vorfel
 {: .mb-6 }
 
 ## Namensfindung
-Lange hatten wir den Arbeitstitel «first steps» für unser Produkt. Während des Prozesses gefiel er uns allerdings immer weniger und wir entschieden uns dazu, für das Produkt einen neuen Namen zu wählen. Dies passierte jedoch erst in der Hi-Fi-Design-Phase. 
-
+Lange hatten wir den Arbeitstitel «first steps» für unser Produkt. Während des Prozesses gefiel er uns allerdings immer weniger und wir entschieden uns dazu, für das Produkt einen neuen Namen zu wählen. Dies passierte jedoch erst in der HiFi-Design-Phase.
 Hier einige Namensideen, welche uns passend erschienen:
 * mirrorme
 * circles
@@ -174,7 +173,8 @@ Funktioniert, hätte Lust es einzusetzen! Das Handling ist intuitiv da man schne
 {: .mb-6 }
 
 # SUS Summary
-Unser Hi-Fi Prototyp hat einen hohen Score von 87,5 Punkten erreicht.
+Unser HiFi-Prototyp hat einen hohen Score von 87,5 Punkten erreicht.
+
 
 ## Grösstes Usability-Problem:
 Zusatzinhalte der App, wie Übersicht und Achievements waren nicht intuitiv genug.
