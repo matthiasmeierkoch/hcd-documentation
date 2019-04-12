@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="36ecfb06-5a0f-4f80-b371-77c0733ad81d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docs/Design/04_HiFi-Design.md" afterPath="$PROJECT_DIR$/docs/Design/04_HiFi-Design.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -264,7 +263,7 @@
       <workItem from="1555012504084" duration="1459000" />
       <workItem from="1555014137675" duration="797000" />
       <workItem from="1555050308797" duration="2605000" />
-      <workItem from="1555058487300" duration="1266000" />
+      <workItem from="1555058487300" duration="1272000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1554222442626</created>
@@ -525,11 +524,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555061308779</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="änderungen von nici">
+      <created>1555061360009</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1555061360009</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17594000" />
+    <option name="totallyTimeSpent" value="17600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
