@@ -73,15 +73,18 @@ Superlearner-Facts
 
 
 ### Was hat uns Spass gemacht?
+{: .no_toc }
 Mit der Innoventa einen ganzen Designprozess in nur 90 Minuten durchzuspielen. Es war sehr aufschlussreich und hat in kurzer Zeit bereits originelle Lösungen hervorgebracht.
 {: .mb-6 }
 
 ### Was hat uns keinen Spass gemacht?
+{: .no_toc }
 Der Abschnitt vom [
 Mentalen Modell](https://www.netnode.ch/blog/mentale-modelle-als-zentrales-konzept-im-bereich-der-usability) war sehr theorielastig. Zudem waren die Auflockerungsübungen etwas befremdlich.
 {: .mb-6 }
 
 ### Was haben wir gelernt?
+{: .no_toc }
 In kurzer Zeit kann man mit verschiedensten Techniken, wie z.B. Brain Dumping, schnell auf eine brauchbare Lösung kommen.
 
 Die Begriffe «UX» und «Usability» bedeuten nicht dasselbe. Die «User Experience» beginnt vor, während und nach der Nutzung eines Produktes. «Usability» ist das Erlebnis bei der tatsächlichen Benutzung.
